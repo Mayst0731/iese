@@ -1,0 +1,470 @@
+[
+    {
+        "name": "Global CEO Program",
+        "url": "https://executiveeducation.iese.edu/csuite-senior-executives/global-ceo-program/",
+        "category": [
+            "C-SUITE & SENIOR EXECUTIVES"
+        ],
+        "category_url": [
+            "https://executiveeducation.iese.edu/csuite-senior-executives/"
+        ]
+    },
+    {
+        "name": "Advanced Management Program (AMP)",
+        "url": "https://executiveeducation.iese.edu/csuite-senior-executives/advanced-management-program/",
+        "category": [
+            "C-SUITE & SENIOR EXECUTIVES"
+        ],
+        "category_url": [
+            "https://executiveeducation.iese.edu/csuite-senior-executives/"
+        ]
+    },
+    {
+        "name": "Business Model Innovation Program",
+        "url": "https://execedprograms.iese.edu/strategic-management/business-model-innovation-program/",
+        "category": [
+            "C-SUITE & SENIOR EXECUTIVES"
+        ],
+        "category_url": [
+            "https://executiveeducation.iese.edu/csuite-senior-executives/"
+        ]
+    },
+    {
+        "name": "Programa de Alta Direcci\u00f3n de Empresas (PADE)",
+        "url": "https://executiveeducation.iese.edu/es/consejeros-directivos-seniors/pade/",
+        "category": [
+            "C-SUITE & SENIOR EXECUTIVES"
+        ],
+        "category_url": [
+            "https://executiveeducation.iese.edu/csuite-senior-executives/"
+        ]
+    },
+    {
+        "name": "Programa de Direcci\u00f3n General (PDG)",
+        "url": "https://executiveeducation.iese.edu/es/consejeros-directivos-seniors/pdg/",
+        "category": [
+            "C-SUITE & SENIOR EXECUTIVES"
+        ],
+        "category_url": [
+            "https://executiveeducation.iese.edu/csuite-senior-executives/"
+        ]
+    },
+    {
+        "name": "Programa de Transformaci\u00f3n Financiera",
+        "url": "https://execedprograms.iese.edu/es/finanzas/programa-transformacion-financiera/",
+        "category": [
+            "C-SUITE & SENIOR EXECUTIVES",
+            "FINANCE"
+        ],
+        "category_url": [
+            "https://executiveeducation.iese.edu/csuite-senior-executives/",
+            "https://execedprograms.iese.edu/?manda&filter_1=finance&filter_2&filter_3#aqui"
+        ]
+    },
+    {
+        "name": "Transformaci\u00f3n digital. Programa de Alta Direcci\u00f3n",
+        "url": "https://executiveeducation.iese.edu/es/consejeros-directivos-seniors/transformacion-digital/",
+        "category": [
+            "C-SUITE & SENIOR EXECUTIVES"
+        ],
+        "category_url": [
+            "https://executiveeducation.iese.edu/csuite-senior-executives/"
+        ]
+    },
+    {
+        "name": "Program for Management Development  (PMD)",
+        "url": "https://executiveeducation.iese.edu/functional-directors/program-management-development/",
+        "category": [
+            "FUNCTIONAL DIRECTORS"
+        ],
+        "category_url": [
+            "https://executiveeducation.iese.edu/functional-directors/"
+        ]
+    },
+    {
+        "name": "Business Acceleration Program (BAP)",
+        "url": "https://executiveeducation.iese.edu/functional-directors/business-acceleration-program-munich/",
+        "category": [
+            "FUNCTIONAL DIRECTORS"
+        ],
+        "category_url": [
+            "https://executiveeducation.iese.edu/functional-directors/"
+        ]
+    },
+    {
+        "name": "Programa de Desarrollo Directivo (PDD)",
+        "url": "https://executiveeducation.iese.edu/es/directores-funcionales/pdd/",
+        "category": [
+            "FUNCTIONAL DIRECTORS"
+        ],
+        "category_url": [
+            "https://executiveeducation.iese.edu/functional-directors/"
+        ]
+    },
+    {
+        "name": "Lograr un equipo de ventas excelente",
+        "url": "https://execedprograms.iese.edu/marketing-direccion-ventas/equipo-ventas-excelente/",
+        "category": [
+            "MARKETING AND SALES MANAGEMENT",
+            "LEADERSHIP AND PEOPLE MANAGEMENT"
+        ],
+        "category_url": [
+            "https://execedprograms.iese.edu/?manda&filter_1=marketing-and-sales-management&filter_2&filter_3#aqui",
+            "https://execedprograms.iese.edu/?manda&filter_1=leadership-and-people-management&filter_2&filter_3#aqui"
+        ]
+    },
+    {
+        "name": "Marketing digital: estrategia, procesos y ROI",
+        "url": "https://execedprograms.iese.edu/es/marketing-direccion-ventas/marketing-digital/",
+        "category": [
+            "MARKETING AND SALES MANAGEMENT",
+            "STRATEGIC MANAGEMENT"
+        ],
+        "category_url": [
+            "https://execedprograms.iese.edu/?manda&filter_1=marketing-and-sales-management&filter_2&filter_3#aqui",
+            "https://execedprograms.iese.edu/?manda&filter_1=strategic-management&filter_2&filter_3#aqui"
+        ]
+    },
+    {
+        "name": "Strategic Sales Management",
+        "url": "https://execedprograms.iese.edu/marketing-sales-management/strategic-sales-management/",
+        "category": [
+            "MARKETING AND SALES MANAGEMENT",
+            "STRATEGIC MANAGEMENT"
+        ],
+        "category_url": [
+            "https://execedprograms.iese.edu/?manda&filter_1=marketing-and-sales-management&filter_2&filter_3#aqui",
+            "https://execedprograms.iese.edu/?manda&filter_1=strategic-management&filter_2&filter_3#aqui"
+        ]
+    },
+    {
+        "name": "Mindset digital: innovaci\u00f3n y liderazgo en la era digital",
+        "url": "https://online-em.iese.edu/mindset-digital",
+        "category": [
+            "STRATEGIC MANAGEMENT"
+        ],
+        "category_url": [
+            "https://execedprograms.iese.edu/?manda&filter_1=strategic-management&filter_2&filter_3#aqui"
+        ]
+    },
+    {
+        "name": "Impulsa la innovaci\u00f3n: de la idea al lanzamiento",
+        "url": "https://online-em.iese.edu/impulsa-innovacion-idea-lanzamiento",
+        "category": [
+            "STRATEGIC MANAGEMENT"
+        ],
+        "category_url": [
+            "https://execedprograms.iese.edu/?manda&filter_1=strategic-management&filter_2&filter_3#aqui"
+        ]
+    },
+    {
+        "name": "Design thinking para la soluci\u00f3n de problemas",
+        "url": "https://online-em.iese.edu/design-thinking",
+        "category": [
+            "STRATEGIC MANAGEMENT"
+        ],
+        "category_url": [
+            "https://execedprograms.iese.edu/?manda&filter_1=strategic-management&filter_2&filter_3#aqui"
+        ]
+    },
+    {
+        "name": "Liderando proyectos estrat\u00e9gicos",
+        "url": "https://execedprograms.iese.edu/direccion-estrategica/proyectos-estrategicos/",
+        "category": [
+            "STRATEGIC MANAGEMENT",
+            "LEADERSHIP AND PEOPLE MANAGEMENT"
+        ],
+        "category_url": [
+            "https://execedprograms.iese.edu/?manda&filter_1=strategic-management&filter_2&filter_3#aqui",
+            "https://execedprograms.iese.edu/?manda&filter_1=leadership-and-people-management&filter_2&filter_3#aqui"
+        ]
+    },
+    {
+        "name": "High-Performance Negotiator",
+        "url": "https://execedprograms.iese.edu/leadership-people-management/high-performance-negotiator",
+        "category": [
+            "STRATEGIC MANAGEMENT",
+            "LEADERSHIP AND PEOPLE MANAGEMENT",
+            "C-SUITE EXECUTIVES"
+        ],
+        "category_url": [
+            "https://execedprograms.iese.edu/?manda&filter_1=strategic-management&filter_2&filter_3#aqui",
+            "https://execedprograms.iese.edu/?manda&filter_1=leadership-and-people-management&filter_2&filter_3#aqui",
+            "https://execedprograms.iese.edu/?manda&filter_1=c-suite-executives&filter_2&filter_3#aqui"
+        ]
+    },
+    {
+        "name": "Artificial Intelligence for Executives",
+        "url": "https://execedprograms.iese.edu/strategic-management/artificial-intelligence/",
+        "category": [
+            "STRATEGIC MANAGEMENT",
+            "C-SUITE EXECUTIVES"
+        ],
+        "category_url": [
+            "https://execedprograms.iese.edu/?manda&filter_1=strategic-management&filter_2&filter_3#aqui",
+            "https://execedprograms.iese.edu/?manda&filter_1=c-suite-executives&filter_2&filter_3#aqui"
+        ]
+    },
+    {
+        "name": "High-Performance Board Member Program",
+        "url": "https://execedprograms.iese.edu/strategic-management/high-performance-board-member/",
+        "category": [
+            "STRATEGIC MANAGEMENT"
+        ],
+        "category_url": [
+            "https://execedprograms.iese.edu/?manda&filter_1=strategic-management&filter_2&filter_3#aqui"
+        ]
+    },
+    {
+        "name": "Negociar con eficacia y creatividad",
+        "url": "https://execedprograms.iese.edu/es/liderazgo-direccion-personas/negociar-eficacia-creatividad/",
+        "category": [
+            "STRATEGIC MANAGEMENT",
+            "LEADERSHIP AND PEOPLE MANAGEMENT",
+            "C-SUITE EXECUTIVES"
+        ],
+        "category_url": [
+            "https://execedprograms.iese.edu/?manda&filter_1=strategic-management&filter_2&filter_3#aqui",
+            "https://execedprograms.iese.edu/?manda&filter_1=leadership-and-people-management&filter_2&filter_3#aqui",
+            "https://execedprograms.iese.edu/?manda&filter_1=c-suite-executives&filter_2&filter_3#aqui"
+        ]
+    },
+    {
+        "name": "Renovaci\u00f3n en la empresa familiar: elemento clave para la supervivencia",
+        "url": "https://execedprograms.iese.edu/es/direccion-estrategica/retos-empresa-familiar/",
+        "category": [
+            "STRATEGIC MANAGEMENT"
+        ],
+        "category_url": [
+            "https://execedprograms.iese.edu/?manda&filter_1=strategic-management&filter_2&filter_3#aqui"
+        ]
+    },
+    {
+        "name": "Digital Transformation: How to Innovate and Lead Your Business",
+        "url": "https://execedprograms.iese.edu/strategic-management/digital-mindset/",
+        "category": [
+            "STRATEGIC MANAGEMENT",
+            "C-SUITE EXECUTIVES"
+        ],
+        "category_url": [
+            "https://execedprograms.iese.edu/?manda&filter_1=strategic-management&filter_2&filter_3#aqui",
+            "https://execedprograms.iese.edu/?manda&filter_1=c-suite-executives&filter_2&filter_3#aqui"
+        ]
+    },
+    {
+        "name": "Getting Things Done",
+        "url": "https://execedprograms.iese.edu/strategic-management/getting-things-done/",
+        "category": [
+            "STRATEGIC MANAGEMENT",
+            "LEADERSHIP AND PEOPLE MANAGEMENT",
+            "C-SUITE EXECUTIVES"
+        ],
+        "category_url": [
+            "https://execedprograms.iese.edu/?manda&filter_1=strategic-management&filter_2&filter_3#aqui",
+            "https://execedprograms.iese.edu/?manda&filter_1=leadership-and-people-management&filter_2&filter_3#aqui",
+            "https://execedprograms.iese.edu/?manda&filter_1=c-suite-executives&filter_2&filter_3#aqui"
+        ]
+    },
+    {
+        "name": "Transformaci\u00f3n Digital. Programa de Alta Direcci\u00f3n",
+        "url": "https://executiveeducation.iese.edu/es/consejeros-directivos-seniors/transformacion-digital/",
+        "category": [
+            "STRATEGIC MANAGEMENT",
+            "LEADERSHIP AND PEOPLE MANAGEMENT",
+            "C-SUITE EXECUTIVES"
+        ],
+        "category_url": [
+            "https://execedprograms.iese.edu/?manda&filter_1=strategic-management&filter_2&filter_3#aqui",
+            "https://execedprograms.iese.edu/?manda&filter_1=leadership-and-people-management&filter_2&filter_3#aqui",
+            "https://execedprograms.iese.edu/?manda&filter_1=c-suite-executives&filter_2&filter_3#aqui"
+        ]
+    },
+    {
+        "name": "Winning Negotiation Strategies",
+        "url": "https://execedprograms.iese.edu/strategic-management/winning-negotiation-strategies",
+        "category": [
+            "STRATEGIC MANAGEMENT",
+            "LEADERSHIP AND PEOPLE MANAGEMENT"
+        ],
+        "category_url": [
+            "https://execedprograms.iese.edu/?manda&filter_1=strategic-management&filter_2&filter_3#aqui",
+            "https://execedprograms.iese.edu/?manda&filter_1=leadership-and-people-management&filter_2&filter_3#aqui"
+        ]
+    },
+    {
+        "name": "Consejos de administraci\u00f3n responsables",
+        "url": "https://execedprograms.iese.edu/direccion-estrategica/consejos-administracion-responsables/",
+        "category": [
+            "STRATEGIC MANAGEMENT",
+            "C-SUITE EXECUTIVES"
+        ],
+        "category_url": [
+            "https://execedprograms.iese.edu/?manda&filter_1=strategic-management&filter_2&filter_3#aqui",
+            "https://execedprograms.iese.edu/?manda&filter_1=c-suite-executives&filter_2&filter_3#aqui"
+        ]
+    },
+    {
+        "name": "Direcci\u00f3n estrat\u00e9gica de RR. HH.: personas y resultados en un entorno digital",
+        "url": "https://execedprograms.iese.edu/liderazgo-direccion-personas/direccion-estrategica-rrhh/",
+        "category": [
+            "STRATEGIC MANAGEMENT",
+            "LEADERSHIP AND PEOPLE MANAGEMENT"
+        ],
+        "category_url": [
+            "https://execedprograms.iese.edu/?manda&filter_1=strategic-management&filter_2&filter_3#aqui",
+            "https://execedprograms.iese.edu/?manda&filter_1=leadership-and-people-management&filter_2&filter_3#aqui"
+        ]
+    },
+    {
+        "name": "Mujeres en consejos de administraci\u00f3n",
+        "url": "https://execedprograms.iese.edu/es/direccion-estrategica/mujeres-consejos-administracion/",
+        "category": [
+            "STRATEGIC MANAGEMENT",
+            "LEADERSHIP AND PEOPLE MANAGEMENT",
+            "C-SUITE EXECUTIVES"
+        ],
+        "category_url": [
+            "https://execedprograms.iese.edu/?manda&filter_1=strategic-management&filter_2&filter_3#aqui",
+            "https://execedprograms.iese.edu/?manda&filter_1=leadership-and-people-management&filter_2&filter_3#aqui",
+            "https://execedprograms.iese.edu/?manda&filter_1=c-suite-executives&filter_2&filter_3#aqui"
+        ]
+    },
+    {
+        "name": "Impulsar el desempe\u00f1o para ejecutar la estrategia",
+        "url": "https://execedprograms.iese.edu/es/direccion-estrategica/control-estrategia/",
+        "category": [
+            "STRATEGIC MANAGEMENT",
+            "C-SUITE EXECUTIVES"
+        ],
+        "category_url": [
+            "https://execedprograms.iese.edu/?manda&filter_1=strategic-management&filter_2&filter_3#aqui",
+            "https://execedprograms.iese.edu/?manda&filter_1=c-suite-executives&filter_2&filter_3#aqui"
+        ]
+    },
+    {
+        "name": "Design Thinking: From Strategic Transformation to Business Impact",
+        "url": "https://execedprograms.iese.edu/strategic-management/design-thinking/",
+        "category": [
+            "STRATEGIC MANAGEMENT"
+        ],
+        "category_url": [
+            "https://execedprograms.iese.edu/?manda&filter_1=strategic-management&filter_2&filter_3#aqui"
+        ]
+    },
+    {
+        "name": "Value Creation Through Effective Boards",
+        "url": "https://execedprograms.iese.edu/strategic-management/value-creation-effective-boards/",
+        "category": [
+            "STRATEGIC MANAGEMENT",
+            "C-SUITE EXECUTIVES"
+        ],
+        "category_url": [
+            "https://execedprograms.iese.edu/?manda&filter_1=strategic-management&filter_2&filter_3#aqui",
+            "https://execedprograms.iese.edu/?manda&filter_1=c-suite-executives&filter_2&filter_3#aqui"
+        ]
+    },
+    {
+        "name": "Fundraising: claves para el \u00e9xito",
+        "url": "https://execedprograms.iese.edu/es/finanzas/claves-fundraising",
+        "category": [
+            "STRATEGIC MANAGEMENT",
+            "FINANCE"
+        ],
+        "category_url": [
+            "https://execedprograms.iese.edu/?manda&filter_1=strategic-management&filter_2&filter_3#aqui",
+            "https://execedprograms.iese.edu/?manda&filter_1=finance&filter_2&filter_3#aqui"
+        ]
+    },
+    {
+        "name": "Mujer y liderazgo",
+        "url": "https://online-em.iese.edu/mujer-y-liderazgo",
+        "category": [
+            "LEADERSHIP AND PEOPLE MANAGEMENT"
+        ],
+        "category_url": [
+            "https://execedprograms.iese.edu/?manda&filter_1=leadership-and-people-management&filter_2&filter_3#aqui"
+        ]
+    },
+    {
+        "name": "Gesti\u00f3n del talento, estrategias y herramientas digitales",
+        "url": "https://online-em.iese.edu/gestion-talento-estrategias",
+        "category": [
+            "LEADERSHIP AND PEOPLE MANAGEMENT"
+        ],
+        "category_url": [
+            "https://execedprograms.iese.edu/?manda&filter_1=leadership-and-people-management&filter_2&filter_3#aqui"
+        ]
+    },
+    {
+        "name": "Communication Skills That Empower Your Leadership",
+        "url": "https://execedprograms.iese.edu/leadership-people-management/communication-skills/",
+        "category": [
+            "LEADERSHIP AND PEOPLE MANAGEMENT"
+        ],
+        "category_url": [
+            "https://execedprograms.iese.edu/?manda&filter_1=leadership-and-people-management&filter_2&filter_3#aqui"
+        ]
+    },
+    {
+        "name": "Become a Positive Leader to Accelerate Positive Change",
+        "url": "https://execedprograms.iese.edu/leadership-people-management/positive-leader/",
+        "category": [
+            "LEADERSHIP AND PEOPLE MANAGEMENT",
+            "C-SUITE EXECUTIVES"
+        ],
+        "category_url": [
+            "https://execedprograms.iese.edu/?manda&filter_1=leadership-and-people-management&filter_2&filter_3#aqui",
+            "https://execedprograms.iese.edu/?manda&filter_1=c-suite-executives&filter_2&filter_3#aqui"
+        ]
+    },
+    {
+        "name": "Comunicar con eficacia y persuasi\u00f3n",
+        "url": "https://execedprograms.iese.edu/liderazgo-direccion-personas/comunicar-eficacia-persuasion/",
+        "category": [
+            "LEADERSHIP AND PEOPLE MANAGEMENT"
+        ],
+        "category_url": [
+            "https://execedprograms.iese.edu/?manda&filter_1=leadership-and-people-management&filter_2&filter_3#aqui"
+        ]
+    },
+    {
+        "name": "Liderar equipos con prop\u00f3sito",
+        "url": "https://execedprograms.iese.edu/es/liderazgo-direccion-personas/gestion-equipos-alto-rendimiento/",
+        "category": [
+            "LEADERSHIP AND PEOPLE MANAGEMENT"
+        ],
+        "category_url": [
+            "https://execedprograms.iese.edu/?manda&filter_1=leadership-and-people-management&filter_2&filter_3#aqui"
+        ]
+    },
+    {
+        "name": "Developing Leadership Competencies",
+        "url": "https://execedprograms.iese.edu/leadership-people-management/developing-leadership-competencies/",
+        "category": [
+            "LEADERSHIP AND PEOPLE MANAGEMENT"
+        ],
+        "category_url": [
+            "https://execedprograms.iese.edu/?manda&filter_1=leadership-and-people-management&filter_2&filter_3#aqui"
+        ]
+    },
+    {
+        "name": "Contabilidad y finanzas para directivos no financieros",
+        "url": "https://execedprograms.iese.edu/finanzas/contabilidad-directivos-no-financieros/",
+        "category": [
+            "FINANCE"
+        ],
+        "category_url": [
+            "https://execedprograms.iese.edu/?manda&filter_1=finance&filter_2&filter_3#aqui"
+        ]
+    },
+    {
+        "name": "Gesti\u00f3n de endowments",
+        "url": "https://execedprograms.iese.edu/finanzas/fondos-endowment/",
+        "category": [
+            "FINANCE"
+        ],
+        "category_url": [
+            "https://execedprograms.iese.edu/?manda&filter_1=finance&filter_2&filter_3#aqui"
+        ]
+    }
+]

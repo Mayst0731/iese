@@ -1,0 +1,3045 @@
+[
+    {
+        "overview": {
+            "desc": "",
+            "video_title": "",
+            "video_url": ""
+        },
+        "exec_ed_inquiry_cc_emails": "",
+        "testimonials": [
+            {
+                "publish": "public",
+                "name": "Lain Jager",
+                "title": "",
+                "company": "Ain Jager, Gcp '14Ceo, Zespri International, New Zealand",
+                "testimonial_statement": "\u201cThe GCP provided an exceptional learning experience. You are transformed by the enriching perspectives of a culturally diverse group of peers and leave the program armed with practical solutions to address your unique business challenges as a global leader.\u201d",
+                "picture_url": "https://executiveeducation.iese.edu/wp-content/uploads/test-Lain-Jager-GCP_20160405140022.jpg",
+                "visual_url": ""
+            },
+            {
+                "publish": "public",
+                "name": "Robert Dodds",
+                "title": "",
+                "company": "Obert Dodds, Gcp'13Cmo, Ellerine Holdings Ltd, South Africa",
+                "testimonial_statement": "\u201cThis program is at the highest level in executive education.\u201d",
+                "picture_url": "https://executiveeducation.iese.edu/wp-content/uploads/test-Robert-Dodds-GCP_20160405140003.jpg",
+                "visual_url": ""
+            },
+            {
+                "publish": "public",
+                "name": "Mansour Hajjar",
+                "title": "",
+                "company": "Ansour Hajjar, Gcp '13 Ceo, Allied Enterprises Chaloub Group, Uae",
+                "testimonial_statement": "\u201cI chose the GCP because I was looking for a program that provides depth into the different disciplines in business today \u2013 and also a global outlook with a glimpse into the future.\u201d",
+                "picture_url": "https://executiveeducation.iese.edu/wp-content/uploads/test-Mansour-Hajjar-GCP_20160405140013.jpg",
+                "visual_url": ""
+            }
+        ],
+        "course_faculties": [],
+        "name": "Global CEO Program",
+        "url": "https://executiveeducation.iese.edu/csuite-senior-executives/global-ceo-program/",
+        "category": [
+            "C-SUITE & SENIOR EXECUTIVES"
+        ],
+        "category_url": [
+            "https://executiveeducation.iese.edu/csuite-senior-executives/"
+        ],
+        "desc": "",
+        "course_takeaways": "",
+        "who_attend_desc": "",
+        "priority": 0,
+        "publish": 100,
+        "active": true,
+        "Repeatable": "Y",
+        "is_advanced_management_program": false,
+        "who_attend_params": "{\"working experience\": \"\",\"background knowledge\": \"\"}",
+        "university_school": "2222_EUR",
+        "credential": "",
+        "duration_consecutive": true,
+        "category_tags": [],
+        "tuition_note": "",
+        "effective_date_start": "",
+        "effective_date_end": "",
+        "schedule": [
+            [
+                "",
+                "",
+                "",
+                "formal"
+            ]
+        ],
+        "languages": "English",
+        "location": [
+            "Barcelona, ----, Spain"
+        ],
+        "type": "blended-ov",
+        "currency": "",
+        "tuition_number": "",
+        "version": 1
+    },
+    {
+        "overview": {
+            "desc": "",
+            "video_title": "",
+            "video_url": ""
+        },
+        "exec_ed_inquiry_cc_emails": "",
+        "testimonials": [
+            {
+                "publish": "public",
+                "name": "Peter Adriaansen",
+                "title": "",
+                "company": "Eter Adriaansen, Amp Barcelona '14 Global Director And General Manager, Owens Corning, Netherlands",
+                "testimonial_statement": "\u201cThere are a number of good senior executive programs, but when you make an investment, you want to go for the best. I selected IESE\u2019s AMP based on its rankings in renowned publications, the program content and the way it would be presented.\u201d",
+                "picture_url": "https://executiveeducation.iese.edu/wp-content/uploads/adriaanse-amp_20160512120601.jpg",
+                "visual_url": ""
+            },
+            {
+                "publish": "public",
+                "name": "Subulade Giwa-Amu",
+                "title": "",
+                "company": "Ubulade Giwa-Amu, Amp Barcelona '14 Ceo, Fbn Mortgages, Nigeria",
+                "testimonial_statement": "\u201cI asked myself a question: whether I had the skills to be a leader at the next level. I felt the need to step back, get a fresh perspective, and hone my leadership and strategic thinking skills.\u201d",
+                "picture_url": "https://executiveeducation.iese.edu/wp-content/uploads/subu-amp-ok_20160512123901.jpg",
+                "visual_url": ""
+            },
+            {
+                "publish": "public",
+                "name": "Professor Marc Sachon",
+                "title": "Academic Director Amp  Professor Of Production",
+                "company": "Rofessor Marc Sachonacademic Director Amp  Professor Of Production, Technology And Operations Management",
+                "testimonial_statement": "\u201cWhen you are at the peak of your career is when you should proactively seek out challenges to continue to grow and learn. the AMP is where you come to review and strengthen your leadership capabilities, and set a road map for your personal growth and that of your company.\u201d",
+                "picture_url": "https://executiveeducation.iese.edu/wp-content/uploads/sachon-IM_20160923120006.jpg",
+                "visual_url": ""
+            }
+        ],
+        "course_faculties": [],
+        "name": "Advanced Management Program (AMP)",
+        "url": "https://executiveeducation.iese.edu/csuite-senior-executives/advanced-management-program/",
+        "category": [
+            "C-SUITE & SENIOR EXECUTIVES"
+        ],
+        "category_url": [
+            "https://executiveeducation.iese.edu/csuite-senior-executives/"
+        ],
+        "desc": "",
+        "course_takeaways": "",
+        "who_attend_desc": "",
+        "priority": 0,
+        "publish": 100,
+        "active": true,
+        "Repeatable": "Y",
+        "is_advanced_management_program": false,
+        "who_attend_params": "{\"working experience\": \"\",\"background knowledge\": \"\"}",
+        "university_school": "2222_EUR",
+        "credential": "",
+        "duration_consecutive": true,
+        "category_tags": [],
+        "tuition_note": "",
+        "effective_date_start": "",
+        "effective_date_end": "",
+        "schedule": [
+            [
+                "",
+                "",
+                "",
+                "formal"
+            ]
+        ],
+        "languages": "English",
+        "location": [
+            "Barcelona, ----, Spain"
+        ],
+        "type": "blended-ov",
+        "currency": "",
+        "tuition_number": "",
+        "version": 1
+    },
+    {
+        "desc": {
+            "desc": "In IESE\u2019s Leadership Coaching Program you\u2019ll learn how to motivate and empower others to successfully navigate challenging times. Through a mix of dynamic learning, interactive lectures and coaching supervision, you\u2019ll gain a coaching mindset and fresh strategies to engage and inspire others. This 8-week program will benefit both C-level executives who aspire to foster a coaching culture and executive coaches seeking to magnify their client impact.\nThe IESE Leadership Coaching Program is led by distinguished faculty members and executive coaches who reflect a diversity of cultures and areas of expertise. It is currently in the process of accreditation with the European Mentoring and Coaching Council, one of the world\u2019s most prestigious coaching industry bodies.",
+            "video_title": "",
+            "video_url": ""
+        },
+        "testimonials": [
+            {
+                "publish": 100,
+                "active": true,
+                "name": "Alberto Ribera",
+                "title": "Alberto Riberaacademic Director",
+                "company": "",
+                "testimonial_statement": "Executive coaching is a powerful learning methodology grounded on trust. Through a blend of academic rigor and deep experiential learning, the program offers an evidence-based coaching model to help participants spur growth and innovation, both inside and outside their organizations.",
+                "picture_url": "https://executiveeducation.iese.edu/wp-content/uploads/alberto_testimonials.png",
+                "visual_url": ""
+            },
+            {
+                "publish": 100,
+                "active": true,
+                "name": "Est\u00edbalitz Ortiz",
+                "title": "Ph.D. In Mentoring And Coaching",
+                "company": "St\u00edbalitz Ortizph.D. In Mentoring And Coaching, Iese Business School",
+                "testimonial_statement": "The IESE Coaching Leadership Program exposes senior leaders and executive coaches to cutting-edge methodologies, all designed to boost their coaching effectiveness. They emerge better equipped to inspire positive change in their specific contexts.",
+                "picture_url": "https://executiveeducation.iese.edu/wp-content/uploads/Esti\u0301balitz_testimonials.png",
+                "visual_url": ""
+            }
+        ],
+        "course_takeaways": "Cultivate a coaching mindset and core competencies to promote continuous self-development, learning, growth and innovation in your organization.Expand your understanding of human behavior and development and their interplay with executive coaching processes.Acquire essential coaching knowledge and practice to earn ICF (International Coach Federation) credentials.Develop coaching capabilities to help leaders, teams and organizations bolster their performance across diverse contexts and cultures.Gain deeper self-awareness to support your personal and professional growth.Share experiences with peers, coaches and professors in a safe environment.",
+        "who_attend_desc": "",
+        "languages": "English",
+        "university_school": "2222_EUR",
+        "credential": "",
+        "duration_consecutive": "",
+        "exec_ed_inquiry_cc_emails": "infogm@iese.edu",
+        "name": "Leadership Coaching Program",
+        "url": "https://executiveeducation.iese.edu/csuite-senior-executives/coaching-program/",
+        "category": [
+            "C-SUITE & SENIOR EXECUTIVES"
+        ],
+        "category_url": [
+            "https://executiveeducation.iese.edu/csuite-senior-executives/"
+        ],
+        "course_faculties": [
+            "Marc Sachon",
+            "Mireia Gin\u00e9",
+            "Pankaj Ghemawat"
+        ],
+        "priority": 0,
+        "publish": 100,
+        "active": true,
+        "Repeatable": "Y",
+        "is_advanced_management_program": false,
+        "who_attend_params": "{\"working experience\": \"\",\"background knowledge\": \"\"}",
+        "category_tags": [],
+        "duration_weeks": 8,
+        "currency": "EUR",
+        "tuition_number": 16000,
+        "tuition_note": "",
+        "location": [
+            "Barcelona, ----, Spain"
+        ],
+        "type": "blended-ov",
+        "version": 1,
+        "effective_date_start": "2021-09-13",
+        "effective_date_end": "2021-11-5",
+        "schedule": [
+            [
+                "2021-09-13",
+                "2021-11-5",
+                "8",
+                "formal"
+            ]
+        ],
+        "overview": {
+            "desc": {
+                "desc": "In IESE\u2019s Leadership Coaching Program you\u2019ll learn how to motivate and empower others to successfully navigate challenging times. Through a mix of dynamic learning, interactive lectures and coaching supervision, you\u2019ll gain a coaching mindset and fresh strategies to engage and inspire others. This 8-week program will benefit both C-level executives who aspire to foster a coaching culture and executive coaches seeking to magnify their client impact.\nThe IESE Leadership Coaching Program is led by distinguished faculty members and executive coaches who reflect a diversity of cultures and areas of expertise. It is currently in the process of accreditation with the European Mentoring and Coaching Council, one of the world\u2019s most prestigious coaching industry bodies.",
+                "video_title": "",
+                "video_url": ""
+            },
+            "video_url": "",
+            "video_title": ""
+        }
+    },
+    {
+        "overview": {
+            "desc": "The Business Model Innovation Program will help you to design and implement a business model for a new venture, redesign the business model of an existing firm or business unit, and/or develop a business model innovation strategy for your firm.",
+            "video_title": "",
+            "video_url": ""
+        },
+        "exec_ed_inquiry_cc_emails": "msosna@iese.edu",
+        "testimonials": [],
+        "course_faculties": [
+            "Christoph Zott"
+        ],
+        "name": "Business Model Innovation Program",
+        "url": "https://execedprograms.iese.edu/strategic-management/business-model-innovation-program/",
+        "category": [
+            "C-SUITE & SENIOR EXECUTIVES"
+        ],
+        "category_url": [
+            "https://executiveeducation.iese.edu/csuite-senior-executives/"
+        ],
+        "desc": "The Business Model Innovation Program will help you to design and implement a business model for a new venture, redesign the business model of an existing firm or business unit, and/or develop a business model innovation strategy for your firm.",
+        "course_takeaways": "Learn & apply state-of-the-art concepts to analyze and (re-)design innovative, sustainable and value-creating business models.\nReceive practical, step-by-step guidance on how to introduce business model innovation in your organization.\nBring your own business model challenge into the program.\nBenefit from individual guidance and peer advisory when designing your own business model innovation.\nBuild a global network with international participants, IESE experts and guest speakers.\n\nLearn & apply state-of-the-art concepts to analyze and (re-)design innovative, sustainable and value-creating business models.Receive practical, step-by-step guidance on how to introduce business model innovation in your organization.Bring your own business model challenge into the program.Benefit from individual guidance and peer advisory when designing your own business model innovation.Build a global network with international participants, IESE experts and guest speakers.",
+        "who_attend_desc": "This is an online program for CEOs, top-management team members\u00a0and heads of innovation or strategy of startups, larger incumbent firms, social ventures and not-for-profits, who want to proactively learn about and apply business model innovation in their organizations. It is equally relevant for board members and investors who accompany their firms in such journeys.\n",
+        "priority": 0,
+        "publish": 100,
+        "active": true,
+        "Repeatable": "Y",
+        "is_advanced_management_program": false,
+        "who_attend_params": "{\"working experience\": \"\",\"background knowledge\": \"\"}",
+        "university_school": "2222_EUR",
+        "credential": "",
+        "duration_consecutive": true,
+        "category_tags": [],
+        "version": 1,
+        "location": [
+            "Barcelona, ----, Spain"
+        ],
+        "currency": "",
+        "tuition_number": "",
+        "tuition_note": "",
+        "effective_date_start": "2021--01",
+        "effective_date_end": "",
+        "schedule": [
+            [
+                "2021--01",
+                "",
+                "",
+                "formal"
+            ]
+        ],
+        "languages": "Italian",
+        "type": "online-virtual"
+    },
+    {
+        "overview": {
+            "desc": "",
+            "video_title": "",
+            "video_url": ""
+        },
+        "exec_ed_inquiry_cc_emails": "",
+        "testimonials": [
+            {
+                "publish": "public",
+                "name": "Luis Sebasti\u00e1n Sastre",
+                "title": "",
+                "company": "Uis Sebasti\u00e1n Sastre, Pade '15",
+                "testimonial_statement": "\u201cEl PADE me ha ayudado a potenciar mis habilidades directivas, a definir mejor mis objetivos estrat\u00e9gicos y a implementarlos con eficacia, permiti\u00e9ndome, adem\u00e1s, compatibilizar el programa con mi vida profesional y personal\u201d.",
+                "picture_url": "https://executiveeducation.iese.edu/wp-content/uploads/sastre-PADE_20160525114501.jpg",
+                "visual_url": ""
+            },
+            {
+                "publish": "public",
+                "name": "Santiago \u00c1lvarez De Mon",
+                "title": "Profesor De Direcci\u00f3n De Personas En Las Organizaciones",
+                "company": "Antiago \u00c1lvarez De Monprofesor De Direcci\u00f3n De Personas En Las Organizaciones, Iese",
+                "testimonial_statement": "\u201cEl PADE es un lugar de encuentro con otros profesionales comprometidos con su formaci\u00f3n, un espacio para renovarse como directivo y como persona, y una experiencia intelectual, afectiva y moral\u201d.",
+                "picture_url": "https://executiveeducation.iese.edu/wp-content/uploads/Santiago_Alvarez_de_Mon_Prof-200x200_20160504173607.jpg",
+                "visual_url": ""
+            },
+            {
+                "publish": "public",
+                "name": "Chelo Tonijuan, Pade \u201910",
+                "title": "Chelo Tonijuan",
+                "company": "Helo Tonijuan, Pade '10Consejera Delegada, Compa\u00f1\u00eda General Carnia Y Fundadora Y Consejera Delegada, Frescabarna",
+                "testimonial_statement": "\u201cDecid\u00ed realizar el PADE porque quer\u00eda actualizar mis conocimientos. El programa me permiti\u00f3 distanciarme del d\u00eda a d\u00eda, reflexionar, activarme e incluso crear una nueva empresa online\".",
+                "picture_url": "https://executiveeducation.iese.edu/wp-content/uploads/CheloTonijuan-PADE_20160602111502.jpg",
+                "visual_url": ""
+            }
+        ],
+        "course_faculties": [],
+        "name": "Programa de Alta Direcci\u00f3n de Empresas (PADE)",
+        "url": "https://executiveeducation.iese.edu/es/consejeros-directivos-seniors/pade/",
+        "category": [
+            "C-SUITE & SENIOR EXECUTIVES"
+        ],
+        "category_url": [
+            "https://executiveeducation.iese.edu/csuite-senior-executives/"
+        ],
+        "desc": "",
+        "course_takeaways": "",
+        "who_attend_desc": "",
+        "priority": 0,
+        "publish": 100,
+        "active": true,
+        "Repeatable": "Y",
+        "is_advanced_management_program": false,
+        "who_attend_params": "{\"working experience\": \"\",\"background knowledge\": \"\"}",
+        "university_school": "2222_EUR",
+        "credential": "",
+        "duration_consecutive": true,
+        "category_tags": [],
+        "tuition_note": "",
+        "effective_date_start": "",
+        "effective_date_end": "",
+        "schedule": [
+            [
+                "",
+                "",
+                "",
+                "formal"
+            ]
+        ],
+        "languages": "Spanish",
+        "location": [
+            "Barcelona, ----, Spain"
+        ],
+        "type": "blended-ov",
+        "currency": "",
+        "tuition_number": "",
+        "version": 1
+    },
+    {
+        "overview": {
+            "desc": "",
+            "video_title": "",
+            "video_url": ""
+        },
+        "exec_ed_inquiry_cc_emails": "",
+        "testimonials": [
+            {
+                "publish": "public",
+                "name": "Juan Sitges Breiter",
+                "title": "",
+                "company": "Uan Sitges Breiter, Pdg 2018Director De La Fundaci\u00f3n Caser",
+                "testimonial_statement": "El PDG de IESE es un programa no solo de formaci\u00f3n directiva con el que ampliar tus conocimientos empresariales, sino tambi\u00e9n una magn\u00edfica oportunidad para explorar caminos tanto profesionales como personales en un entorno inmejorable.",
+                "picture_url": "https://executiveeducation.iese.edu/wp-content/uploads/Juan-Sitges-Breiter.jpg",
+                "visual_url": ""
+            },
+            {
+                "publish": "public",
+                "name": "Mariano Hern\u00e1ndez Cer\u00f3n",
+                "title": "",
+                "company": "Ariano Hern\u00e1ndez Cer\u00f3n, Pdg 2018Senior Business Development Manager Mayor Accounts Apple",
+                "testimonial_statement": "\"El entorno competitivo est\u00e1 cambiando a una velocidad que no hab\u00edamos visto antes. Es cr\u00edtico disponer de un criterio que nos permita tomar las mejores decisiones para el negocio en nuestras compa\u00f1\u00edas. En el IESE he podido incrementar mi nivel de conocimiento as\u00ed como tener una referencia y marco claro de cara a esta toma de decisiones.\"",
+                "picture_url": "https://executiveeducation.iese.edu/wp-content/uploads/Mariano-Hern\u00e1ndez-Cer\u00f3n.jpg",
+                "visual_url": ""
+            }
+        ],
+        "course_faculties": [],
+        "name": "Programa de Direcci\u00f3n General (PDG)",
+        "url": "https://executiveeducation.iese.edu/es/consejeros-directivos-seniors/pdg/",
+        "category": [
+            "C-SUITE & SENIOR EXECUTIVES"
+        ],
+        "category_url": [
+            "https://executiveeducation.iese.edu/csuite-senior-executives/"
+        ],
+        "desc": "",
+        "course_takeaways": "",
+        "who_attend_desc": "",
+        "priority": 0,
+        "publish": 100,
+        "active": true,
+        "Repeatable": "Y",
+        "is_advanced_management_program": false,
+        "who_attend_params": "{\"working experience\": \"\",\"background knowledge\": \"\"}",
+        "university_school": "2222_EUR",
+        "credential": "",
+        "duration_consecutive": true,
+        "category_tags": [],
+        "tuition_note": "",
+        "effective_date_start": "",
+        "effective_date_end": "",
+        "schedule": [
+            [
+                "",
+                "",
+                "",
+                "formal"
+            ]
+        ],
+        "languages": "Spanish",
+        "location": [
+            "Barcelona, ----, Spain"
+        ],
+        "type": "blended-ov",
+        "currency": "",
+        "tuition_number": "",
+        "version": 1
+    },
+    {
+        "overview": {
+            "desc": "\u00bfNecesitas aprovechar las oportunidades que brindan las fintech para crear nuevos modelos de negocio m\u00e1s rentables? \u00bfSabes c\u00f3mo desarrollar y medir inversiones sostenibles? \u00bfConoces los \u00faltimos instrumentos de financiaci\u00f3n y sus riesgos?\nEl Programa de Transformaci\u00f3n Financiera te permite entender c\u00f3mo impactan las nuevas tendencias en el entorno econ\u00f3mico-financiero, las tecnolog\u00edas emergentes, los marcos regulatorios y los nuevos modelos de negocio desde la perspectiva financiera. Necesitas dominar estas nuevas tendencias para liderar con \u00e9xito la transformaci\u00f3n financiera en tu empresa.",
+            "video_title": "",
+            "video_url": ""
+        },
+        "exec_ed_inquiry_cc_emails": "ccarvajal@iese.edu",
+        "testimonials": [],
+        "course_faculties": [
+            "Carles Vergara"
+        ],
+        "name": "Programa de Transformaci\u00f3n Financiera",
+        "url": "https://execedprograms.iese.edu/es/finanzas/programa-transformacion-financiera/",
+        "category": [
+            "C-SUITE & SENIOR EXECUTIVES",
+            "FINANCE"
+        ],
+        "category_url": [
+            "https://executiveeducation.iese.edu/csuite-senior-executives/",
+            "https://execedprograms.iese.edu/?manda&filter_1=finance&filter_2&filter_3#aqui"
+        ],
+        "desc": "\u00bfNecesitas aprovechar las oportunidades que brindan las fintech para crear nuevos modelos de negocio m\u00e1s rentables? \u00bfSabes c\u00f3mo desarrollar y medir inversiones sostenibles? \u00bfConoces los \u00faltimos instrumentos de financiaci\u00f3n y sus riesgos?\nEl Programa de Transformaci\u00f3n Financiera te permite entender c\u00f3mo impactan las nuevas tendencias en el entorno econ\u00f3mico-financiero, las tecnolog\u00edas emergentes, los marcos regulatorios y los nuevos modelos de negocio desde la perspectiva financiera. Necesitas dominar estas nuevas tendencias para liderar con \u00e9xito la transformaci\u00f3n financiera en tu empresa.",
+        "course_takeaways": "",
+        "who_attend_desc": "",
+        "priority": 0,
+        "publish": 100,
+        "active": true,
+        "Repeatable": "Y",
+        "is_advanced_management_program": false,
+        "who_attend_params": "{\"working experience\": \"\",\"background knowledge\": \"\"}",
+        "university_school": "2222_EUR",
+        "credential": "",
+        "duration_consecutive": true,
+        "category_tags": [],
+        "tuition_note": "",
+        "effective_date_start": "",
+        "effective_date_end": "",
+        "schedule": [
+            [
+                "",
+                "",
+                "",
+                "formal"
+            ]
+        ],
+        "languages": "Spanish",
+        "location": [
+            "Barcelona, ----, Spain"
+        ],
+        "type": "blended-ov",
+        "currency": "",
+        "tuition_number": "",
+        "version": 1
+    },
+    {
+        "overview": {
+            "desc": "\nTransformaci\u00f3n digital. Programa de Alta Direcci\u00f3n\nLa transformaci\u00f3n digital es un tema candente y en la agenda de todo comit\u00e9 de direcci\u00f3n. Esta nueva realidad afecta al modo de relacionarse con los clientes, la forma de trabajar de los equipos, la comunicaci\u00f3n y, en definitiva, a la propuesta de valor de las empresas.\nPara que las organizaciones sepan dar respuesta a estas nuevas necesidades, los l\u00edderes deben poder desarrollar una visi\u00f3n clara y contar con una hoja de ruta bien definida.\n",
+            "video_title": "",
+            "video_url": ""
+        },
+        "testimonials": [],
+        "course_takeaways": "\u00abTransformaci\u00f3n digital.\u00a0Programa de\u00a0Alta Direcci\u00f3n\u00bb tiene un doble objetivo:\u00a0crear un impacto tangible y llevar al participante desde la inspiraci\u00f3n hasta la implementaci\u00f3n. Pretende as\u00ed inspirar a los altos directivos a convertirse en agentes promotores del cambio dentro de sus sectores y organizaciones, y superar los desaf\u00edos que presenta la revoluci\u00f3n digital es la oportunidad perfecta para convertirte en uno.\tCon este programa te ayudamos a comprender hacia d\u00f3nde van los mercados y dise\u00f1ar una estrategia bimodal, capaz de adquirir m\u00fasculo digital hoy, pero, al mismo tiempo, adaptando sus modelos de negocio al ma\u00f1ana. Asimismo, te brindamos las herramientas para que la estrategia se implemente en organizaciones \u00e1giles, con profesionales capaces de tomar decisiones r\u00e1pidamente con la menor fricci\u00f3n interna posible.",
+        "who_attend_desc": "\u00abTransformaci\u00f3n digital. Programa de Alta Direcci\u00f3n\u00bb est\u00e1 especialmente dise\u00f1ado para profesionales de la alta direcci\u00f3n, miembros de comit\u00e9s de direcci\u00f3n y de consejos de administraci\u00f3n, y ejecutores de la transformaci\u00f3n digital con m\u00e1s de 10 a\u00f1os de experiencia en puestos de direcci\u00f3n.\t\u00bfQuieres entender mejor el panorama digital y descubrir c\u00f3mo puedes adaptar tu estrategia a la transformaci\u00f3n actual? Entonces este es tu programa. No esperes a que la digitalizaci\u00f3n frene el crecimiento de tu empresa. \u00danete a ella y anticipa los modelos de negocio del futuro.",
+        "languages": "Spanish",
+        "exec_ed_inquiry_cc_emails": "AVera@iese.edu",
+        "name": "Transformaci\u00f3n digital. Programa de Alta Direcci\u00f3n",
+        "url": "https://executiveeducation.iese.edu/es/consejeros-directivos-seniors/transformacion-digital/",
+        "category": [
+            "C-SUITE & SENIOR EXECUTIVES"
+        ],
+        "category_url": [
+            "https://executiveeducation.iese.edu/csuite-senior-executives/"
+        ],
+        "course_faculties": [
+            "Marc Sachon",
+            "Mireia Gin\u00e9",
+            "Pankaj Ghemawat"
+        ],
+        "priority": 0,
+        "publish": 100,
+        "active": true,
+        "Repeatable": "Y",
+        "is_advanced_management_program": false,
+        "who_attend_params": "{\"working experience\": \"\",\"background knowledge\": \"\"}",
+        "university_school": "2222_EUR",
+        "credential": "",
+        "duration_consecutive": true,
+        "category_tags": [],
+        "location": [
+            "Barcelona, ----, Spain"
+        ],
+        "tuition": 13500,
+        "currency": "EUR",
+        "tuition_note": "Tarifa alumni: 12.150 \u20ac Tarifa Miembros IESE: 11.475 \u20ac",
+        "duration_months": 1,
+        "type": "blended-ov",
+        "version": 1,
+        "tuition_number": 13500,
+        "effective_date_start": "2021-04-20",
+        "effective_date_end": "2021-05-31",
+        "schedule": [
+            [
+                "2021-04-20",
+                "2021-05-31",
+                "1",
+                "formal"
+            ]
+        ],
+        "desc": "Transformaci\u00f3n digital. Programa de Alta Direcci\u00f3n\nLa transformaci\u00f3n digital es un tema candente y en la agenda de todo comit\u00e9 de direcci\u00f3n. Esta nueva realidad afecta al modo de relacionarse con los clientes, la forma de trabajar de los equipos, la comunicaci\u00f3n y, en definitiva, a la propuesta de valor de las empresas.\nPara que las organizaciones sepan dar respuesta a estas nuevas necesidades, los l\u00edderes deben poder desarrollar una visi\u00f3n clara y contar con una hoja de ruta bien definida."
+    },
+    {
+        "desc": {
+            "desc": "The Program for Management Development (PMD) is addressed to successful functional managers who have demonstrated clear potential to lead cross-functional initiatives and develop the competencies of a senior general manager. The program will accelerate your transition to leadership, empowering you to deliver strong competitive advantage to your company and to become a key driver of its growth.\nWe\u2019ve innovated in our teaching methods, creating hybrid formats and new online tools, so that you\u2019ll be able to safely keep learning from the start through to the end of the program, even if conditions change.",
+            "video_title": "",
+            "video_url": ""
+        },
+        "testimonials": [
+            {
+                "publish": 100,
+                "active": true,
+                "name": "Stefano Rosso",
+                "title": "CEO People & Governance",
+                "company": "Tefano Rossoceo People & Governance, Otb Group, Italy",
+                "testimonial_statement": "\u201cIESE\u2019s Program for Management Development (PMD) has equipped our next-generation leaders with real insight and knowledge for impact today. But what we\u2019re seeing is that the program provides a global vision and mind-set to drive sustained competitive advantage tomorrow.\u201d",
+                "picture_url": "https://executiveeducation.iese.edu/wp-content/uploads/Rosso-PLD_20160525120607.jpg",
+                "visual_url": ""
+            },
+            {
+                "publish": 100,
+                "active": true,
+                "name": "Rania Masri",
+                "title": "",
+                "company": "Ania Masri, Program For Management Development (Pmd) Barcelona '13General Manager, Chalhoub Group, United Arab Emirates",
+                "testimonial_statement": "\u201cThe diversity of the participants, the regions, nationalities, and the diversity of the experience, has been so interesting. It has definitely been enriching. It\u2019s a great experience I am taking back.\u201d",
+                "picture_url": "https://executiveeducation.iese.edu/wp-content/uploads/masri-pld_20161019155701.jpg",
+                "visual_url": ""
+            }
+        ],
+        "course_takeaways": "The Program for Management Development (PMD) is a transformational learning experience.\tThrough open interchange with trusted peers, faculty-led debate, action-oriented learning activities and simulations you will build a number of key leadership competencies.\tAnd accelerate your transition to senior business leadership.",
+        "who_attend_desc": "As a high-achieving functional manager, you\u2019re looking to take your leadership skills and general management expertise to another level.\tYou\u2019ll join a truly diverse group of talented managers from a spectrum of industries, cultures and backgrounds. And you\u2019ll contribute to building a rich and dynamic learning environment.",
+        "languages": "English",
+        "credential": "",
+        "duration_consecutive": true,
+        "exec_ed_inquiry_cc_emails": "infopld@iese.edu",
+        "name": "Program for Management Development  (PMD)",
+        "url": "https://executiveeducation.iese.edu/functional-directors/program-management-development/",
+        "category": [
+            "FUNCTIONAL DIRECTORS"
+        ],
+        "category_url": [
+            "https://executiveeducation.iese.edu/functional-directors/"
+        ],
+        "course_faculties": [
+            "Marc Sachon",
+            "Mireia Gin\u00e9",
+            "Pankaj Ghemawat"
+        ],
+        "priority": 0,
+        "publish": 100,
+        "active": true,
+        "Repeatable": "Y",
+        "is_advanced_management_program": false,
+        "who_attend_params": "{\"working experience\": \"\",\"background knowledge\": \"\"}",
+        "university_school": "2222_EUR",
+        "category_tags": [],
+        "duration_months": "6",
+        "currency": "EUR",
+        "tuition_number": 30790,
+        "tuition_note": "",
+        "location": [
+            "Barcelona, ----, Spain"
+        ],
+        "type": "blended-os",
+        "version": 2,
+        "effective_date_start": "2021-03-05",
+        "effective_date_end": "2021-09-05",
+        "schedule": [
+            [
+                "2021-03-05",
+                "2021-09-05",
+                "6",
+                "formal"
+            ]
+        ],
+        "overview": {
+            "desc": {
+                "desc": "The Program for Management Development (PMD) is addressed to successful functional managers who have demonstrated clear potential to lead cross-functional initiatives and develop the competencies of a senior general manager. The program will accelerate your transition to leadership, empowering you to deliver strong competitive advantage to your company and to become a key driver of its growth.\nWe\u2019ve innovated in our teaching methods, creating hybrid formats and new online tools, so that you\u2019ll be able to safely keep learning from the start through to the end of the program, even if conditions change.",
+                "video_title": "",
+                "video_url": ""
+            },
+            "video_url": "",
+            "video_title": ""
+        }
+    },
+    {
+        "desc": {
+            "desc": "The Program for Management Development (PMD) is addressed to successful functional managers who have demonstrated clear potential to lead cross-functional initiatives and develop the competencies of a senior general manager. The program will accelerate your transition to leadership, empowering you to deliver strong competitive advantage to your company and to become a key driver of its growth.\nWe\u2019ve innovated in our teaching methods, creating hybrid formats and new online tools, so that you\u2019ll be able to safely keep learning from the start through to the end of the program, even if conditions change.",
+            "video_title": "",
+            "video_url": ""
+        },
+        "testimonials": [
+            {
+                "publish": 100,
+                "active": true,
+                "name": "Stefano Rosso",
+                "title": "CEO People & Governance",
+                "company": "Tefano Rossoceo People & Governance, Otb Group, Italy",
+                "testimonial_statement": "\u201cIESE\u2019s Program for Management Development (PMD) has equipped our next-generation leaders with real insight and knowledge for impact today. But what we\u2019re seeing is that the program provides a global vision and mind-set to drive sustained competitive advantage tomorrow.\u201d",
+                "picture_url": "https://executiveeducation.iese.edu/wp-content/uploads/Rosso-PLD_20160525120607.jpg",
+                "visual_url": ""
+            },
+            {
+                "publish": 100,
+                "active": true,
+                "name": "Rania Masri",
+                "title": "",
+                "company": "Ania Masri, Program For Management Development (Pmd) Barcelona '13General Manager, Chalhoub Group, United Arab Emirates",
+                "testimonial_statement": "\u201cThe diversity of the participants, the regions, nationalities, and the diversity of the experience, has been so interesting. It has definitely been enriching. It\u2019s a great experience I am taking back.\u201d",
+                "picture_url": "https://executiveeducation.iese.edu/wp-content/uploads/masri-pld_20161019155701.jpg",
+                "visual_url": ""
+            }
+        ],
+        "course_takeaways": "The Program for Management Development (PMD) is a transformational learning experience.\tThrough open interchange with trusted peers, faculty-led debate, action-oriented learning activities and simulations you will build a number of key leadership competencies.\tAnd accelerate your transition to senior business leadership.",
+        "who_attend_desc": "As a high-achieving functional manager, you\u2019re looking to take your leadership skills and general management expertise to another level.\tYou\u2019ll join a truly diverse group of talented managers from a spectrum of industries, cultures and backgrounds. And you\u2019ll contribute to building a rich and dynamic learning environment.",
+        "languages": "English",
+        "credential": "",
+        "duration_consecutive": true,
+        "exec_ed_inquiry_cc_emails": "infopld@iese.edu",
+        "name": "Program for Management Development  (PMD)",
+        "url": "https://executiveeducation.iese.edu/functional-directors/program-management-development/",
+        "category": [
+            "FUNCTIONAL DIRECTORS"
+        ],
+        "category_url": [
+            "https://executiveeducation.iese.edu/functional-directors/"
+        ],
+        "course_faculties": [
+            "Marc Sachon",
+            "Mireia Gin\u00e9",
+            "Pankaj Ghemawat"
+        ],
+        "priority": 0,
+        "publish": 100,
+        "active": true,
+        "Repeatable": "Y",
+        "is_advanced_management_program": false,
+        "who_attend_params": "{\"working experience\": \"\",\"background knowledge\": \"\"}",
+        "university_school": "2222_EUR",
+        "category_tags": [],
+        "duration_months": "6",
+        "currency": "USD",
+        "tuition": 96000,
+        "location": [
+            "Barcelona, ----, Spain",
+            "Sao Paulo, ----, Brazil"
+        ],
+        "version": 2,
+        "tuition_note": "",
+        "tuition_number": 96000,
+        "effective_date_start": "2020-03-01",
+        "effective_date_end": "2020-09-01",
+        "schedule": [
+            [
+                "2020-03-01",
+                "2020-09-01",
+                "6",
+                "formal"
+            ]
+        ],
+        "overview": {
+            "desc": {
+                "desc": "The Program for Management Development (PMD) is addressed to successful functional managers who have demonstrated clear potential to lead cross-functional initiatives and develop the competencies of a senior general manager. The program will accelerate your transition to leadership, empowering you to deliver strong competitive advantage to your company and to become a key driver of its growth.\nWe\u2019ve innovated in our teaching methods, creating hybrid formats and new online tools, so that you\u2019ll be able to safely keep learning from the start through to the end of the program, even if conditions change.",
+                "video_title": "",
+                "video_url": ""
+            },
+            "video_url": "",
+            "video_title": ""
+        },
+        "type": "onsite"
+    },
+    {
+        "desc": {
+            "desc": "The ability to pivot, innovate and envision multiple scenarios is now more critical than ever. IESE\u2019s Business Acceleration Program (BAP) is designed for senior managers in all the areas, head of departments, directors and team and project leaders in the DACH region who aspire to magnify their organizational impact and enrich their professional network with other high-caliber peers.\u00a0 Delivered in Munich, the BAP will boost your leadership potential with minimal disruption to your current commitments. In a dynamic learning forum, you\u2019ll future-proof your career by acquiring breakthrough insights, concepts and frameworks and emerge with a new vision of leadership.",
+            "video_title": "",
+            "video_url": ""
+        },
+        "testimonials": [
+            {
+                "publish": 100,
+                "active": true,
+                "name": "Franziska Kunz",
+                "title": "Head Of International Business Development",
+                "company": "Ranziska Kunzhead Of International Business Development, Westwing",
+                "testimonial_statement": "Learn with the best, push your boundaries and walk the talk!",
+                "picture_url": "https://executiveeducation.iese.edu/wp-content/uploads/Franziska-Kunz.jpg",
+                "visual_url": ""
+            },
+            {
+                "publish": 100,
+                "active": true,
+                "name": "Sauer Steffen",
+                "title": "Process Excellence Lead",
+                "company": "Auer Steffenprocess Excellence Lead, Lillium",
+                "testimonial_statement": "I believe education is the only way to solve the problems we face as society. Education about technology, moral standards, leadership skills, emotional intelligence and cross-cultural biases. IESE offers that and the PMD program is the right platform to learn with and from other mid-level managers when a longer commitment like an Executive MBA doesn\u2019t match the personal plans.",
+                "picture_url": "https://executiveeducation.iese.edu/wp-content/uploads/Steffen-Sauer.jpg",
+                "visual_url": ""
+            }
+        ],
+        "course_takeaways": "An accelerated transition to senior roles and expansive view of leadershipNew decision-making frameworks to address current and future challengesStronger confidence in your personal brand by learning in an atmosphere of trustGreater ability to lead mindfully, effectively and responsibly, with or without formal authoritySharper focus on value creation and leading with purposeHigh-caliber network with other forward-thinking managersBreakthrough performance by gaining a deeper awareness of key leadership tenets,\ncore management areas and the latest global trendsStronger strategic, critical and analytical thinking via a mix of proven academic methodsRobust decision-making frameworks to anticipate and address business challenges and assess their short- and long-term impactGreater capacity to align and unite others around corporate prioritiesWider field of vision through interactions with professors, practitioners and peers outside your regular professional circleImmediately actionable insights and limited time away from the office",
+        "who_attend_desc": "",
+        "languages": "English",
+        "credential": "",
+        "duration_consecutive": true,
+        "exec_ed_inquiry_cc_emails": "",
+        "name": "Business Acceleration Program (BAP)",
+        "url": "https://executiveeducation.iese.edu/functional-directors/business-acceleration-program-munich/",
+        "category": [
+            "FUNCTIONAL DIRECTORS"
+        ],
+        "category_url": [
+            "https://executiveeducation.iese.edu/functional-directors/"
+        ],
+        "course_faculties": [
+            "Marc Sachon",
+            "Mireia Gin\u00e9",
+            "Pankaj Ghemawat"
+        ],
+        "priority": 0,
+        "publish": 100,
+        "active": true,
+        "Repeatable": "Y",
+        "is_advanced_management_program": false,
+        "who_attend_params": "{\"working experience\": \"\",\"background knowledge\": \"\"}",
+        "university_school": "2222_EUR",
+        "category_tags": [],
+        "duration_months": 3,
+        "currency": "EUR",
+        "tuition_number": 21800,
+        "tuition_note": "",
+        "location": [
+            "Munich, ----, Germany"
+        ],
+        "version": 1,
+        "effective_date_start": "2022-04-21",
+        "effective_date_end": "2022-07-30",
+        "schedule": [
+            [
+                "2022-04-21",
+                "2022-07-30",
+                "3",
+                "formal"
+            ]
+        ],
+        "overview": {
+            "desc": {
+                "desc": "The ability to pivot, innovate and envision multiple scenarios is now more critical than ever. IESE\u2019s Business Acceleration Program (BAP) is designed for senior managers in all the areas, head of departments, directors and team and project leaders in the DACH region who aspire to magnify their organizational impact and enrich their professional network with other high-caliber peers.\u00a0 Delivered in Munich, the BAP will boost your leadership potential with minimal disruption to your current commitments. In a dynamic learning forum, you\u2019ll future-proof your career by acquiring breakthrough insights, concepts and frameworks and emerge with a new vision of leadership.",
+                "video_title": "",
+                "video_url": ""
+            },
+            "video_url": "",
+            "video_title": ""
+        },
+        "type": "onsite"
+    },
+    {
+        "desc": {
+            "desc": "Si eres un manager con recorrido y aspiras a crecer profesionalmente o a lanzar con \u00e9xito tu propio proyecto, este es tu lugar.\nSi necesitas una mayor confianza en tus decisiones, adquirir una visi\u00f3n global de la empresa, nuevas habilidades y pensamiento estrat\u00e9gico, este es tu momento.\nSi te interesa descubrir las \u00faltimas tendencias en m\u00faltiples sectores, moverte en un mundo digital, colaborar con distintos departamentos y compartir tu experiencia con otros managers, este es tu programa.\nSi, adem\u00e1s, quieres vivir una experiencia transformadora y ser un l\u00edder con valores, esta es tu casa.",
+            "video_title": "",
+            "video_url": "https://www.youtube.com/embed/8B7ZBZAdnZk"
+        },
+        "testimonials": [
+            {
+                "publish": 100,
+                "active": true,
+                "name": "Alberto Nu\u00f1o Molina",
+                "title": "",
+                "company": "Lberto Nu\u00f1o Molina, Pdd 2018Channel And Shopper Marketing Manager, Coca-Cola European Partners",
+                "testimonial_statement": "\u201cIESE tiene la capacidad de desarrollar todo el potencial que llevas dentro. Se mueven tus cimientos, retas tus planes, te adaptas al cambio continuo para dar lo mejor de ti. Una inolvidable experiencia personal y una transformaci\u00f3n desde el plano profesional\u201d.",
+                "picture_url": "https://executiveeducation.iese.edu/wp-content/uploads/Antonio-Nu\u00f1o.jpg",
+                "visual_url": ""
+            },
+            {
+                "publish": 100,
+                "active": true,
+                "name": "Raquel Garc\u00eda",
+                "title": "",
+                "company": "Aquel Garc\u00eda, Pdd 2018Directora De Producci\u00f3n, Idealista",
+                "testimonial_statement": "\u201cDurante el programa, me di cuenta de que aquello era algo m\u00e1s: a trav\u00e9s de la interacci\u00f3n con los compa\u00f1eros de clase te ves inmerso en un ambiente de aprendizaje 360, donde, sin saber c\u00f3mo, tu visi\u00f3n comienza a volverse m\u00e1s estrat\u00e9gica, la gesti\u00f3n del cambio se incorpora como algo natural en tu d\u00eda a d\u00eda,\u00a0aprendes nuevas formas de negociaci\u00f3n y comunicaci\u00f3n, y empiezas a tomar decisiones mejor fundamentadas\u201d.",
+                "picture_url": "https://executiveeducation.iese.edu/wp-content/uploads/Raquel-Garc\u00eda.jpg",
+                "visual_url": ""
+            }
+        ],
+        "course_takeaways": "Te involucrar\u00e1s en discusiones din\u00e1micas sobre los desaf\u00edos empresariales que afrontas a diario. Estas discusiones se generan a partir del m\u00e9todo del caso, de proyectos, del aprendizaje experiencial, de simulaciones o talleres, entre otros. Ya sea individualmente, con tu compa\u00f1ero o equipo, podr\u00e1s reflexionar sobre los retos actuales y extraer conclusiones que luego aplicar\u00e1s en tu propio trabajo.\tEl m\u00e9todo del caso es una de las principales metodolog\u00edas de aprendizaje en el IESE, que a\u00fana el aprendizaje individual, las discusiones de equipo y el di\u00e1logo en un pleno interdisciplinar. Para ello, el profesor facilita y gu\u00eda el debate, formulando preguntas y fomentando la intervenci\u00f3n de toda la clase para enriquecer la discusi\u00f3n con distintos puntos de vista, experiencias de diferentes sectores y diversas procedencias culturales.",
+        "who_attend_desc": "Si ejerces como responsable de presupuestos y equipos de trabajo y cuentas con una experiencia ejecutiva de al menos diez a\u00f1os, el Programa de Desarrollo Directivo (PDD) es para ti.\tEn el PDD fortalecer\u00e1s tu pensamiento estrat\u00e9gico y tus habilidades para la direcci\u00f3n, adquirir\u00e1s seguridad en la toma de decisiones y comprobar\u00e1s c\u00f3mo afectan a toda la organizaci\u00f3n. Todo para que eleves tu potencial de liderazgo al m\u00e1ximo.",
+        "languages": "Spanish",
+        "type": "blended-os",
+        "credential": "",
+        "duration_consecutive": true,
+        "exec_ed_inquiry_cc_emails": "exedmad@iese.edu",
+        "name": "Programa de Desarrollo Directivo (PDD)",
+        "url": "https://executiveeducation.iese.edu/es/directores-funcionales/pdd/",
+        "category": [
+            "FUNCTIONAL DIRECTORS"
+        ],
+        "category_url": [
+            "https://executiveeducation.iese.edu/functional-directors/"
+        ],
+        "course_faculties": [
+            "Marc Sachon",
+            "Mireia Gin\u00e9",
+            "Pankaj Ghemawat"
+        ],
+        "priority": 0,
+        "publish": 100,
+        "active": true,
+        "Repeatable": "Y",
+        "is_advanced_management_program": false,
+        "who_attend_params": "{\"working experience\": \"\",\"background knowledge\": \"\"}",
+        "university_school": "2222_EUR",
+        "category_tags": [],
+        "location": [
+            "Madrid, ----, Spain"
+        ],
+        "duration_months": "6",
+        "currency": "EUR",
+        "tuition_number": 28400,
+        "tuition_note": "",
+        "version": 5,
+        "effective_date_start": "2021-05-21",
+        "effective_date_end": "",
+        "schedule": [
+            [
+                "2021-05-21",
+                "",
+                "6",
+                "formal"
+            ]
+        ],
+        "overview": {
+            "desc": {
+                "desc": "Si eres un manager con recorrido y aspiras a crecer profesionalmente o a lanzar con \u00e9xito tu propio proyecto, este es tu lugar.\nSi necesitas una mayor confianza en tus decisiones, adquirir una visi\u00f3n global de la empresa, nuevas habilidades y pensamiento estrat\u00e9gico, este es tu momento.\nSi te interesa descubrir las \u00faltimas tendencias en m\u00faltiples sectores, moverte en un mundo digital, colaborar con distintos departamentos y compartir tu experiencia con otros managers, este es tu programa.\nSi, adem\u00e1s, quieres vivir una experiencia transformadora y ser un l\u00edder con valores, esta es tu casa.",
+                "video_title": "",
+                "video_url": "https://www.youtube.com/embed/8B7ZBZAdnZk"
+            },
+            "video_url": "",
+            "video_title": ""
+        }
+    },
+    {
+        "desc": {
+            "desc": "Si eres un manager con recorrido y aspiras a crecer profesionalmente o a lanzar con \u00e9xito tu propio proyecto, este es tu lugar.\nSi necesitas una mayor confianza en tus decisiones, adquirir una visi\u00f3n global de la empresa, nuevas habilidades y pensamiento estrat\u00e9gico, este es tu momento.\nSi te interesa descubrir las \u00faltimas tendencias en m\u00faltiples sectores, moverte en un mundo digital, colaborar con distintos departamentos y compartir tu experiencia con otros managers, este es tu programa.\nSi, adem\u00e1s, quieres vivir una experiencia transformadora y ser un l\u00edder con valores, esta es tu casa.",
+            "video_title": "",
+            "video_url": "https://www.youtube.com/embed/8B7ZBZAdnZk"
+        },
+        "testimonials": [
+            {
+                "publish": 100,
+                "active": true,
+                "name": "Alberto Nu\u00f1o Molina",
+                "title": "",
+                "company": "Lberto Nu\u00f1o Molina, Pdd 2018Channel And Shopper Marketing Manager, Coca-Cola European Partners",
+                "testimonial_statement": "\u201cIESE tiene la capacidad de desarrollar todo el potencial que llevas dentro. Se mueven tus cimientos, retas tus planes, te adaptas al cambio continuo para dar lo mejor de ti. Una inolvidable experiencia personal y una transformaci\u00f3n desde el plano profesional\u201d.",
+                "picture_url": "https://executiveeducation.iese.edu/wp-content/uploads/Antonio-Nu\u00f1o.jpg",
+                "visual_url": ""
+            },
+            {
+                "publish": 100,
+                "active": true,
+                "name": "Raquel Garc\u00eda",
+                "title": "",
+                "company": "Aquel Garc\u00eda, Pdd 2018Directora De Producci\u00f3n, Idealista",
+                "testimonial_statement": "\u201cDurante el programa, me di cuenta de que aquello era algo m\u00e1s: a trav\u00e9s de la interacci\u00f3n con los compa\u00f1eros de clase te ves inmerso en un ambiente de aprendizaje 360, donde, sin saber c\u00f3mo, tu visi\u00f3n comienza a volverse m\u00e1s estrat\u00e9gica, la gesti\u00f3n del cambio se incorpora como algo natural en tu d\u00eda a d\u00eda,\u00a0aprendes nuevas formas de negociaci\u00f3n y comunicaci\u00f3n, y empiezas a tomar decisiones mejor fundamentadas\u201d.",
+                "picture_url": "https://executiveeducation.iese.edu/wp-content/uploads/Raquel-Garc\u00eda.jpg",
+                "visual_url": ""
+            }
+        ],
+        "course_takeaways": "Te involucrar\u00e1s en discusiones din\u00e1micas sobre los desaf\u00edos empresariales que afrontas a diario. Estas discusiones se generan a partir del m\u00e9todo del caso, de proyectos, del aprendizaje experiencial, de simulaciones o talleres, entre otros. Ya sea individualmente, con tu compa\u00f1ero o equipo, podr\u00e1s reflexionar sobre los retos actuales y extraer conclusiones que luego aplicar\u00e1s en tu propio trabajo.\tEl m\u00e9todo del caso es una de las principales metodolog\u00edas de aprendizaje en el IESE, que a\u00fana el aprendizaje individual, las discusiones de equipo y el di\u00e1logo en un pleno interdisciplinar. Para ello, el profesor facilita y gu\u00eda el debate, formulando preguntas y fomentando la intervenci\u00f3n de toda la clase para enriquecer la discusi\u00f3n con distintos puntos de vista, experiencias de diferentes sectores y diversas procedencias culturales.",
+        "who_attend_desc": "Si ejerces como responsable de presupuestos y equipos de trabajo y cuentas con una experiencia ejecutiva de al menos diez a\u00f1os, el Programa de Desarrollo Directivo (PDD) es para ti.\tEn el PDD fortalecer\u00e1s tu pensamiento estrat\u00e9gico y tus habilidades para la direcci\u00f3n, adquirir\u00e1s seguridad en la toma de decisiones y comprobar\u00e1s c\u00f3mo afectan a toda la organizaci\u00f3n. Todo para que eleves tu potencial de liderazgo al m\u00e1ximo.",
+        "languages": "Spanish",
+        "type": "blended-os",
+        "credential": "",
+        "duration_consecutive": true,
+        "exec_ed_inquiry_cc_emails": "exedmad@iese.edu",
+        "name": "Programa de Desarrollo Directivo (PDD)",
+        "url": "https://executiveeducation.iese.edu/es/directores-funcionales/pdd/",
+        "category": [
+            "FUNCTIONAL DIRECTORS"
+        ],
+        "category_url": [
+            "https://executiveeducation.iese.edu/functional-directors/"
+        ],
+        "course_faculties": [
+            "Marc Sachon",
+            "Mireia Gin\u00e9",
+            "Pankaj Ghemawat"
+        ],
+        "priority": 0,
+        "publish": 100,
+        "active": true,
+        "Repeatable": "Y",
+        "is_advanced_management_program": false,
+        "who_attend_params": "{\"working experience\": \"\",\"background knowledge\": \"\"}",
+        "university_school": "2222_EUR",
+        "category_tags": [],
+        "location": [
+            "Barcelona, ----, Spain"
+        ],
+        "duration_months": "6",
+        "currency": "EUR",
+        "tuition_number": 28400,
+        "tuition_note": "",
+        "version": 5,
+        "effective_date_start": "2021-10-01",
+        "effective_date_end": "",
+        "schedule": [
+            [
+                "2021-10-01",
+                "",
+                "6",
+                "formal"
+            ]
+        ],
+        "overview": {
+            "desc": {
+                "desc": "Si eres un manager con recorrido y aspiras a crecer profesionalmente o a lanzar con \u00e9xito tu propio proyecto, este es tu lugar.\nSi necesitas una mayor confianza en tus decisiones, adquirir una visi\u00f3n global de la empresa, nuevas habilidades y pensamiento estrat\u00e9gico, este es tu momento.\nSi te interesa descubrir las \u00faltimas tendencias en m\u00faltiples sectores, moverte en un mundo digital, colaborar con distintos departamentos y compartir tu experiencia con otros managers, este es tu programa.\nSi, adem\u00e1s, quieres vivir una experiencia transformadora y ser un l\u00edder con valores, esta es tu casa.",
+                "video_title": "",
+                "video_url": "https://www.youtube.com/embed/8B7ZBZAdnZk"
+            },
+            "video_url": "",
+            "video_title": ""
+        }
+    },
+    {
+        "desc": {
+            "desc": "Si eres un manager con recorrido y aspiras a crecer profesionalmente o a lanzar con \u00e9xito tu propio proyecto, este es tu lugar.\nSi necesitas una mayor confianza en tus decisiones, adquirir una visi\u00f3n global de la empresa, nuevas habilidades y pensamiento estrat\u00e9gico, este es tu momento.\nSi te interesa descubrir las \u00faltimas tendencias en m\u00faltiples sectores, moverte en un mundo digital, colaborar con distintos departamentos y compartir tu experiencia con otros managers, este es tu programa.\nSi, adem\u00e1s, quieres vivir una experiencia transformadora y ser un l\u00edder con valores, esta es tu casa.",
+            "video_title": "",
+            "video_url": "https://www.youtube.com/embed/8B7ZBZAdnZk"
+        },
+        "testimonials": [
+            {
+                "publish": 100,
+                "active": true,
+                "name": "Alberto Nu\u00f1o Molina",
+                "title": "",
+                "company": "Lberto Nu\u00f1o Molina, Pdd 2018Channel And Shopper Marketing Manager, Coca-Cola European Partners",
+                "testimonial_statement": "\u201cIESE tiene la capacidad de desarrollar todo el potencial que llevas dentro. Se mueven tus cimientos, retas tus planes, te adaptas al cambio continuo para dar lo mejor de ti. Una inolvidable experiencia personal y una transformaci\u00f3n desde el plano profesional\u201d.",
+                "picture_url": "https://executiveeducation.iese.edu/wp-content/uploads/Antonio-Nu\u00f1o.jpg",
+                "visual_url": ""
+            },
+            {
+                "publish": 100,
+                "active": true,
+                "name": "Raquel Garc\u00eda",
+                "title": "",
+                "company": "Aquel Garc\u00eda, Pdd 2018Directora De Producci\u00f3n, Idealista",
+                "testimonial_statement": "\u201cDurante el programa, me di cuenta de que aquello era algo m\u00e1s: a trav\u00e9s de la interacci\u00f3n con los compa\u00f1eros de clase te ves inmerso en un ambiente de aprendizaje 360, donde, sin saber c\u00f3mo, tu visi\u00f3n comienza a volverse m\u00e1s estrat\u00e9gica, la gesti\u00f3n del cambio se incorpora como algo natural en tu d\u00eda a d\u00eda,\u00a0aprendes nuevas formas de negociaci\u00f3n y comunicaci\u00f3n, y empiezas a tomar decisiones mejor fundamentadas\u201d.",
+                "picture_url": "https://executiveeducation.iese.edu/wp-content/uploads/Raquel-Garc\u00eda.jpg",
+                "visual_url": ""
+            }
+        ],
+        "course_takeaways": "Te involucrar\u00e1s en discusiones din\u00e1micas sobre los desaf\u00edos empresariales que afrontas a diario. Estas discusiones se generan a partir del m\u00e9todo del caso, de proyectos, del aprendizaje experiencial, de simulaciones o talleres, entre otros. Ya sea individualmente, con tu compa\u00f1ero o equipo, podr\u00e1s reflexionar sobre los retos actuales y extraer conclusiones que luego aplicar\u00e1s en tu propio trabajo.\tEl m\u00e9todo del caso es una de las principales metodolog\u00edas de aprendizaje en el IESE, que a\u00fana el aprendizaje individual, las discusiones de equipo y el di\u00e1logo en un pleno interdisciplinar. Para ello, el profesor facilita y gu\u00eda el debate, formulando preguntas y fomentando la intervenci\u00f3n de toda la clase para enriquecer la discusi\u00f3n con distintos puntos de vista, experiencias de diferentes sectores y diversas procedencias culturales.",
+        "who_attend_desc": "Si ejerces como responsable de presupuestos y equipos de trabajo y cuentas con una experiencia ejecutiva de al menos diez a\u00f1os, el Programa de Desarrollo Directivo (PDD) es para ti.\tEn el PDD fortalecer\u00e1s tu pensamiento estrat\u00e9gico y tus habilidades para la direcci\u00f3n, adquirir\u00e1s seguridad en la toma de decisiones y comprobar\u00e1s c\u00f3mo afectan a toda la organizaci\u00f3n. Todo para que eleves tu potencial de liderazgo al m\u00e1ximo.",
+        "languages": "Spanish",
+        "type": "blended-os",
+        "credential": "",
+        "duration_consecutive": true,
+        "exec_ed_inquiry_cc_emails": "exedmad@iese.edu",
+        "name": "Programa de Desarrollo Directivo (PDD)",
+        "url": "https://executiveeducation.iese.edu/es/directores-funcionales/pdd/",
+        "category": [
+            "FUNCTIONAL DIRECTORS"
+        ],
+        "category_url": [
+            "https://executiveeducation.iese.edu/functional-directors/"
+        ],
+        "course_faculties": [
+            "Marc Sachon",
+            "Mireia Gin\u00e9",
+            "Pankaj Ghemawat"
+        ],
+        "priority": 0,
+        "publish": 100,
+        "active": true,
+        "Repeatable": "Y",
+        "is_advanced_management_program": false,
+        "who_attend_params": "{\"working experience\": \"\",\"background knowledge\": \"\"}",
+        "university_school": "2222_EUR",
+        "category_tags": [],
+        "location": [
+            "BILBAO, ----, Spain"
+        ],
+        "duration_months": "6",
+        "currency": "EUR",
+        "tuition_number": 28400,
+        "tuition_note": "",
+        "version": 5,
+        "effective_date_start": "2021-10-18",
+        "effective_date_end": "",
+        "schedule": [
+            [
+                "2021-10-18",
+                "",
+                "6",
+                "formal"
+            ]
+        ],
+        "overview": {
+            "desc": {
+                "desc": "Si eres un manager con recorrido y aspiras a crecer profesionalmente o a lanzar con \u00e9xito tu propio proyecto, este es tu lugar.\nSi necesitas una mayor confianza en tus decisiones, adquirir una visi\u00f3n global de la empresa, nuevas habilidades y pensamiento estrat\u00e9gico, este es tu momento.\nSi te interesa descubrir las \u00faltimas tendencias en m\u00faltiples sectores, moverte en un mundo digital, colaborar con distintos departamentos y compartir tu experiencia con otros managers, este es tu programa.\nSi, adem\u00e1s, quieres vivir una experiencia transformadora y ser un l\u00edder con valores, esta es tu casa.",
+                "video_title": "",
+                "video_url": "https://www.youtube.com/embed/8B7ZBZAdnZk"
+            },
+            "video_url": "",
+            "video_title": ""
+        }
+    },
+    {
+        "desc": {
+            "desc": "Si eres un manager con recorrido y aspiras a crecer profesionalmente o a lanzar con \u00e9xito tu propio proyecto, este es tu lugar.\nSi necesitas una mayor confianza en tus decisiones, adquirir una visi\u00f3n global de la empresa, nuevas habilidades y pensamiento estrat\u00e9gico, este es tu momento.\nSi te interesa descubrir las \u00faltimas tendencias en m\u00faltiples sectores, moverte en un mundo digital, colaborar con distintos departamentos y compartir tu experiencia con otros managers, este es tu programa.\nSi, adem\u00e1s, quieres vivir una experiencia transformadora y ser un l\u00edder con valores, esta es tu casa.",
+            "video_title": "",
+            "video_url": "https://www.youtube.com/embed/8B7ZBZAdnZk"
+        },
+        "testimonials": [
+            {
+                "publish": 100,
+                "active": true,
+                "name": "Alberto Nu\u00f1o Molina",
+                "title": "",
+                "company": "Lberto Nu\u00f1o Molina, Pdd 2018Channel And Shopper Marketing Manager, Coca-Cola European Partners",
+                "testimonial_statement": "\u201cIESE tiene la capacidad de desarrollar todo el potencial que llevas dentro. Se mueven tus cimientos, retas tus planes, te adaptas al cambio continuo para dar lo mejor de ti. Una inolvidable experiencia personal y una transformaci\u00f3n desde el plano profesional\u201d.",
+                "picture_url": "https://executiveeducation.iese.edu/wp-content/uploads/Antonio-Nu\u00f1o.jpg",
+                "visual_url": ""
+            },
+            {
+                "publish": 100,
+                "active": true,
+                "name": "Raquel Garc\u00eda",
+                "title": "",
+                "company": "Aquel Garc\u00eda, Pdd 2018Directora De Producci\u00f3n, Idealista",
+                "testimonial_statement": "\u201cDurante el programa, me di cuenta de que aquello era algo m\u00e1s: a trav\u00e9s de la interacci\u00f3n con los compa\u00f1eros de clase te ves inmerso en un ambiente de aprendizaje 360, donde, sin saber c\u00f3mo, tu visi\u00f3n comienza a volverse m\u00e1s estrat\u00e9gica, la gesti\u00f3n del cambio se incorpora como algo natural en tu d\u00eda a d\u00eda,\u00a0aprendes nuevas formas de negociaci\u00f3n y comunicaci\u00f3n, y empiezas a tomar decisiones mejor fundamentadas\u201d.",
+                "picture_url": "https://executiveeducation.iese.edu/wp-content/uploads/Raquel-Garc\u00eda.jpg",
+                "visual_url": ""
+            }
+        ],
+        "course_takeaways": "Te involucrar\u00e1s en discusiones din\u00e1micas sobre los desaf\u00edos empresariales que afrontas a diario. Estas discusiones se generan a partir del m\u00e9todo del caso, de proyectos, del aprendizaje experiencial, de simulaciones o talleres, entre otros. Ya sea individualmente, con tu compa\u00f1ero o equipo, podr\u00e1s reflexionar sobre los retos actuales y extraer conclusiones que luego aplicar\u00e1s en tu propio trabajo.\tEl m\u00e9todo del caso es una de las principales metodolog\u00edas de aprendizaje en el IESE, que a\u00fana el aprendizaje individual, las discusiones de equipo y el di\u00e1logo en un pleno interdisciplinar. Para ello, el profesor facilita y gu\u00eda el debate, formulando preguntas y fomentando la intervenci\u00f3n de toda la clase para enriquecer la discusi\u00f3n con distintos puntos de vista, experiencias de diferentes sectores y diversas procedencias culturales.",
+        "who_attend_desc": "Si ejerces como responsable de presupuestos y equipos de trabajo y cuentas con una experiencia ejecutiva de al menos diez a\u00f1os, el Programa de Desarrollo Directivo (PDD) es para ti.\tEn el PDD fortalecer\u00e1s tu pensamiento estrat\u00e9gico y tus habilidades para la direcci\u00f3n, adquirir\u00e1s seguridad en la toma de decisiones y comprobar\u00e1s c\u00f3mo afectan a toda la organizaci\u00f3n. Todo para que eleves tu potencial de liderazgo al m\u00e1ximo.",
+        "languages": "Spanish",
+        "type": "blended-os",
+        "credential": "",
+        "duration_consecutive": true,
+        "exec_ed_inquiry_cc_emails": "exedmad@iese.edu",
+        "name": "Programa de Desarrollo Directivo (PDD)",
+        "url": "https://executiveeducation.iese.edu/es/directores-funcionales/pdd/",
+        "category": [
+            "FUNCTIONAL DIRECTORS"
+        ],
+        "category_url": [
+            "https://executiveeducation.iese.edu/functional-directors/"
+        ],
+        "course_faculties": [
+            "Marc Sachon",
+            "Mireia Gin\u00e9",
+            "Pankaj Ghemawat"
+        ],
+        "priority": 0,
+        "publish": 100,
+        "active": true,
+        "Repeatable": "Y",
+        "is_advanced_management_program": false,
+        "who_attend_params": "{\"working experience\": \"\",\"background knowledge\": \"\"}",
+        "university_school": "2222_EUR",
+        "category_tags": [],
+        "location": [
+            "Valencia, ----, Spain"
+        ],
+        "duration_months": "6",
+        "currency": "EUR",
+        "tuition_number": 28400,
+        "tuition_note": "",
+        "version": 5,
+        "effective_date_start": "2021-11-08",
+        "effective_date_end": "",
+        "schedule": [
+            [
+                "2021-11-08",
+                "",
+                "6",
+                "formal"
+            ]
+        ],
+        "overview": {
+            "desc": {
+                "desc": "Si eres un manager con recorrido y aspiras a crecer profesionalmente o a lanzar con \u00e9xito tu propio proyecto, este es tu lugar.\nSi necesitas una mayor confianza en tus decisiones, adquirir una visi\u00f3n global de la empresa, nuevas habilidades y pensamiento estrat\u00e9gico, este es tu momento.\nSi te interesa descubrir las \u00faltimas tendencias en m\u00faltiples sectores, moverte en un mundo digital, colaborar con distintos departamentos y compartir tu experiencia con otros managers, este es tu programa.\nSi, adem\u00e1s, quieres vivir una experiencia transformadora y ser un l\u00edder con valores, esta es tu casa.",
+                "video_title": "",
+                "video_url": "https://www.youtube.com/embed/8B7ZBZAdnZk"
+            },
+            "video_url": "",
+            "video_title": ""
+        }
+    },
+    {
+        "desc": {
+            "desc": "Si eres un manager con recorrido y aspiras a crecer profesionalmente o a lanzar con \u00e9xito tu propio proyecto, este es tu lugar.\nSi necesitas una mayor confianza en tus decisiones, adquirir una visi\u00f3n global de la empresa, nuevas habilidades y pensamiento estrat\u00e9gico, este es tu momento.\nSi te interesa descubrir las \u00faltimas tendencias en m\u00faltiples sectores, moverte en un mundo digital, colaborar con distintos departamentos y compartir tu experiencia con otros managers, este es tu programa.\nSi, adem\u00e1s, quieres vivir una experiencia transformadora y ser un l\u00edder con valores, esta es tu casa.",
+            "video_title": "",
+            "video_url": "https://www.youtube.com/embed/8B7ZBZAdnZk"
+        },
+        "testimonials": [
+            {
+                "publish": 100,
+                "active": true,
+                "name": "Alberto Nu\u00f1o Molina",
+                "title": "",
+                "company": "Lberto Nu\u00f1o Molina, Pdd 2018Channel And Shopper Marketing Manager, Coca-Cola European Partners",
+                "testimonial_statement": "\u201cIESE tiene la capacidad de desarrollar todo el potencial que llevas dentro. Se mueven tus cimientos, retas tus planes, te adaptas al cambio continuo para dar lo mejor de ti. Una inolvidable experiencia personal y una transformaci\u00f3n desde el plano profesional\u201d.",
+                "picture_url": "https://executiveeducation.iese.edu/wp-content/uploads/Antonio-Nu\u00f1o.jpg",
+                "visual_url": ""
+            },
+            {
+                "publish": 100,
+                "active": true,
+                "name": "Raquel Garc\u00eda",
+                "title": "",
+                "company": "Aquel Garc\u00eda, Pdd 2018Directora De Producci\u00f3n, Idealista",
+                "testimonial_statement": "\u201cDurante el programa, me di cuenta de que aquello era algo m\u00e1s: a trav\u00e9s de la interacci\u00f3n con los compa\u00f1eros de clase te ves inmerso en un ambiente de aprendizaje 360, donde, sin saber c\u00f3mo, tu visi\u00f3n comienza a volverse m\u00e1s estrat\u00e9gica, la gesti\u00f3n del cambio se incorpora como algo natural en tu d\u00eda a d\u00eda,\u00a0aprendes nuevas formas de negociaci\u00f3n y comunicaci\u00f3n, y empiezas a tomar decisiones mejor fundamentadas\u201d.",
+                "picture_url": "https://executiveeducation.iese.edu/wp-content/uploads/Raquel-Garc\u00eda.jpg",
+                "visual_url": ""
+            }
+        ],
+        "course_takeaways": "Te involucrar\u00e1s en discusiones din\u00e1micas sobre los desaf\u00edos empresariales que afrontas a diario. Estas discusiones se generan a partir del m\u00e9todo del caso, de proyectos, del aprendizaje experiencial, de simulaciones o talleres, entre otros. Ya sea individualmente, con tu compa\u00f1ero o equipo, podr\u00e1s reflexionar sobre los retos actuales y extraer conclusiones que luego aplicar\u00e1s en tu propio trabajo.\tEl m\u00e9todo del caso es una de las principales metodolog\u00edas de aprendizaje en el IESE, que a\u00fana el aprendizaje individual, las discusiones de equipo y el di\u00e1logo en un pleno interdisciplinar. Para ello, el profesor facilita y gu\u00eda el debate, formulando preguntas y fomentando la intervenci\u00f3n de toda la clase para enriquecer la discusi\u00f3n con distintos puntos de vista, experiencias de diferentes sectores y diversas procedencias culturales.",
+        "who_attend_desc": "Si ejerces como responsable de presupuestos y equipos de trabajo y cuentas con una experiencia ejecutiva de al menos diez a\u00f1os, el Programa de Desarrollo Directivo (PDD) es para ti.\tEn el PDD fortalecer\u00e1s tu pensamiento estrat\u00e9gico y tus habilidades para la direcci\u00f3n, adquirir\u00e1s seguridad en la toma de decisiones y comprobar\u00e1s c\u00f3mo afectan a toda la organizaci\u00f3n. Todo para que eleves tu potencial de liderazgo al m\u00e1ximo.",
+        "languages": "Spanish",
+        "type": "blended-os",
+        "credential": "",
+        "duration_consecutive": true,
+        "exec_ed_inquiry_cc_emails": "exedmad@iese.edu",
+        "name": "Programa de Desarrollo Directivo (PDD)",
+        "url": "https://executiveeducation.iese.edu/es/directores-funcionales/pdd/",
+        "category": [
+            "FUNCTIONAL DIRECTORS"
+        ],
+        "category_url": [
+            "https://executiveeducation.iese.edu/functional-directors/"
+        ],
+        "course_faculties": [
+            "Marc Sachon",
+            "Mireia Gin\u00e9",
+            "Pankaj Ghemawat"
+        ],
+        "priority": 0,
+        "publish": 100,
+        "active": true,
+        "Repeatable": "Y",
+        "is_advanced_management_program": false,
+        "who_attend_params": "{\"working experience\": \"\",\"background knowledge\": \"\"}",
+        "university_school": "2222_EUR",
+        "category_tags": [],
+        "location": [
+            "Barcelona, ----, Spain"
+        ],
+        "version": 5,
+        "tuition_note": "",
+        "effective_date_start": "2022-02-10",
+        "effective_date_end": "",
+        "schedule": [
+            [
+                "2022-02-10",
+                "",
+                "",
+                "formal"
+            ]
+        ],
+        "overview": {
+            "desc": {
+                "desc": "Si eres un manager con recorrido y aspiras a crecer profesionalmente o a lanzar con \u00e9xito tu propio proyecto, este es tu lugar.\nSi necesitas una mayor confianza en tus decisiones, adquirir una visi\u00f3n global de la empresa, nuevas habilidades y pensamiento estrat\u00e9gico, este es tu momento.\nSi te interesa descubrir las \u00faltimas tendencias en m\u00faltiples sectores, moverte en un mundo digital, colaborar con distintos departamentos y compartir tu experiencia con otros managers, este es tu programa.\nSi, adem\u00e1s, quieres vivir una experiencia transformadora y ser un l\u00edder con valores, esta es tu casa.",
+                "video_title": "",
+                "video_url": "https://www.youtube.com/embed/8B7ZBZAdnZk"
+            },
+            "video_url": "",
+            "video_title": ""
+        },
+        "currency": "",
+        "tuition_number": ""
+    },
+    {
+        "overview": {
+            "desc": "El responsable del Departamento de Direcci\u00f3n de Personas ha pasado, en muy poco tiempo, de ser un mero gestor de funciones administrativas a convertirse en una pieza clave de la organizaci\u00f3n. Hoy, adem\u00e1s de suministrar una serie de servicios al conjunto de departamentos, tiene la misi\u00f3n de apoyar la implantaci\u00f3n de las l\u00edneas estrat\u00e9gicas de la empresa.",
+            "video_title": "",
+            "video_url": ""
+        },
+        "exec_ed_inquiry_cc_emails": "AGoma@iese.edu",
+        "testimonials": [],
+        "course_faculties": [],
+        "name": "Direcci\u00f3n estrat\u00e9gica de RR. HH.: personas y resultados en un entorno digital",
+        "url": "https://execedprograms.iese.edu/liderazgo-direccion-personas/direccion-estrategica-rrhh/",
+        "category": [
+            "LEADERSHIP AND PEOPLE MANAGEMENT",
+            "STRATEGIC MANAGEMENT"
+        ],
+        "category_url": [
+            "https://execedprograms.iese.edu/?manda&filter_1=leadership-and-people-management&filter_2&filter_3#aqui",
+            "https://execedprograms.iese.edu/?manda&filter_1=strategic-management&filter_2&filter_3#aqui"
+        ],
+        "desc": "El responsable del Departamento de Direcci\u00f3n de Personas ha pasado, en muy poco tiempo, de ser un mero gestor de funciones administrativas a convertirse en una pieza clave de la organizaci\u00f3n. Hoy, adem\u00e1s de suministrar una serie de servicios al conjunto de departamentos, tiene la misi\u00f3n de apoyar la implantaci\u00f3n de las l\u00edneas estrat\u00e9gicas de la empresa.",
+        "course_takeaways": "*Ser consciente del nuevo rol del Departamento de Direcci\u00f3n de Personas, marcado por su orientaci\u00f3n al cambio, para alinearlo con la estrategia de la empresa y aportar valor a\u00f1adido.*Conocer las \u00faltimas t\u00e9cnicas en la direcci\u00f3n de personas en entornos complejos y digitales.*Impulsar el talento dentro de la organizaci\u00f3n, gestionando los problemas individuales y reduciendo los obst\u00e1culos que limitan las carreras profesionales.",
+        "who_attend_desc": "\nEl programa \u00abDirecci\u00f3n estrat\u00e9gica de RR. HH.: personas y resultados en un entorno digital\u00bb est\u00e1 dirigido a presidentes, consejeros delegados, directores generales que necesiten desarrollar el talento de su organizaci\u00f3n para la estrategia de su negocio. Directores de departamentos de Direcci\u00f3n de personas que quieran ser protagonistas de los cambios que va a generar la empresa. Directores de divisiones y \u00e1reas funcionales que busquen apoyarse en la direcci\u00f3n de talento para llevar a cabo sus objetivos. ",
+        "priority": 0,
+        "publish": 100,
+        "active": true,
+        "Repeatable": "Y",
+        "is_advanced_management_program": false,
+        "who_attend_params": "{\"working experience\": \"\",\"background knowledge\": \"\"}",
+        "university_school": "2222_EUR",
+        "credential": "",
+        "duration_consecutive": true,
+        "category_tags": [],
+        "version": 1,
+        "location": [
+            "Barcelona, ----, Spain"
+        ],
+        "duration_weeks": "d",
+        "currency": "EUR",
+        "tuition_number": "3400",
+        "tuition_note": "*Tarifa Executive Education Certificate: 5% descuento adicional sobre cuota general o miembros.",
+        "effective_date_start": "2021-05-20",
+        "effective_date_end": "2021-05-27",
+        "schedule": [
+            [
+                "2021-05-20",
+                "2021-05-27",
+                "d",
+                "formal"
+            ]
+        ],
+        "languages": "Spanish",
+        "type": "onsite"
+    },
+    {
+        "overview": {
+            "desc": "El trabajo en las organizaciones se estructura cada vez m\u00e1s en torno a equipos, pero dirigir uno exige una pr\u00e1ctica guiada. El \u00e9xito en la funci\u00f3n directiva requiere entender qu\u00e9 es un equipo de alto rendimiento, c\u00f3mo debe formarse y c\u00f3mo liderarlo para conseguir la motivaci\u00f3n y la unidad necesarias que lo conduzcan a la excelencia.",
+            "video_title": "",
+            "video_url": ""
+        },
+        "exec_ed_inquiry_cc_emails": "AGoma@iese.edu",
+        "testimonials": [],
+        "course_faculties": [
+            "Carlos Rodr\u00edguez-Lluesma",
+            "Jos\u00e9 Ram\u00f3n Pin"
+        ],
+        "name": "Gesti\u00f3n de equipos en la era digital",
+        "url": "https://execedprograms.iese.edu/es/liderazgo-direccion-personas/gestion-equipos-alto-rendimiento/",
+        "category": [
+            "LEADERSHIP AND PEOPLE MANAGEMENT"
+        ],
+        "category_url": [
+            "https://execedprograms.iese.edu/?manda&filter_1=leadership-and-people-management&filter_2&filter_3#aqui"
+        ],
+        "desc": "El trabajo en las organizaciones se estructura cada vez m\u00e1s en torno a equipos, pero dirigir uno exige una pr\u00e1ctica guiada. El \u00e9xito en la funci\u00f3n directiva requiere entender qu\u00e9 es un equipo de alto rendimiento, c\u00f3mo debe formarse y c\u00f3mo liderarlo para conseguir la motivaci\u00f3n y la unidad necesarias que lo conduzcan a la excelencia.",
+        "course_takeaways": "*Desarrollar la competencia personal de formar y liderar un equipo de alto rendimiento (EAR).*Aprender a liderar un equipo a trav\u00e9s de la influencia y la comunicaci\u00f3n a distancia.*Ganar en agilidad y liderazgo compartido a trav\u00e9s del Design Thinking.*Conocer las herramientas y practicar las habilidades necesarias para construir equipos creativos.*Gestionar la cohesi\u00f3n y las claves de \u00e9xito para el cambio.*Conocer los distintos usos de la Inteligencia Artificial (IA) y su uso en la toma de decisiones.",
+        "who_attend_desc": "El programa \u00abGesti\u00f3n de equipos en la era digital\u00bbest\u00e1\u00a0dirigido a miembros de comit\u00e9s de direcci\u00f3n, directores generales, directores de divisi\u00f3n y directores funcionales. En concreto, el programa ser\u00e1 de gran ayuda para todo directivo que dirija equipos en un entorno competitivo y de incertidumbre.\n",
+        "priority": 0,
+        "publish": 100,
+        "active": true,
+        "Repeatable": "Y",
+        "is_advanced_management_program": false,
+        "who_attend_params": "{\"working experience\": \"\",\"background knowledge\": \"\"}",
+        "university_school": "2222_EUR",
+        "credential": "",
+        "duration_consecutive": true,
+        "category_tags": [],
+        "version": 1,
+        "location": [
+            "Barcelona, ----, Spain"
+        ],
+        "duration_weeks": "d",
+        "currency": "EUR",
+        "tuition_number": "3400",
+        "tuition_note": "*Tarifa Executive Education Certificate: 5% descuento adicional sobre cuota general o miembros.",
+        "effective_date_start": "2021-06-10",
+        "effective_date_end": "2021-06-09",
+        "schedule": [
+            [
+                "2021-06-10",
+                "2021-06-09",
+                "d",
+                "formal"
+            ]
+        ],
+        "languages": "Spanish",
+        "type": "onsite"
+    },
+    {
+        "overview": {
+            "desc": "The success of a company and its ability to maintain its competitive edge depends fundamentally on the talent of its people. Discover how to improve your leadership skills \u2013 identifying your strengths and weaknesses \u2013 and empower the individuals and teams in your organization to reach their full potential.",
+            "video_title": "",
+            "video_url": ""
+        },
+        "exec_ed_inquiry_cc_emails": "MBiechy@iese.edu",
+        "testimonials": [
+            {
+                "publish": "public",
+                "name": "Ronald Freeze",
+                "title": "Ronald Freezedivisional Vice President Regulatory Affairs Abbott Diagnostics Division",
+                "company": "",
+                "testimonial_statement": "\u201cI found the Developing Leadership Competencies program especially impactful in how it not only focused on helping me better understand my own strengths and weaknesses and skills I could develop but added a component focused on the ways we are motivated and why we do the work we do. By adding in the 1:1 executive coaching experience the course has had a lasting impact on how I lead\u201d.",
+                "picture_url": "https://execedprograms.iese.edu/wp-content/uploads/2018_RonaldCFreeze.jpg",
+                "visual_url": ""
+            }
+        ],
+        "course_faculties": [
+            "Alberto Ribera\nAcademic Director",
+            "John Almandoz",
+            "Sebastien Brion",
+            "\u00c1lvaro San Mart\u00edn",
+            "Yih-Teen Lee"
+        ],
+        "name": "Developing Leadership Competencies",
+        "url": "https://execedprograms.iese.edu/leadership-people-management/developing-leadership-competencies/",
+        "category": [
+            "LEADERSHIP AND PEOPLE MANAGEMENT"
+        ],
+        "category_url": [
+            "https://execedprograms.iese.edu/?manda&filter_1=leadership-and-people-management&filter_2&filter_3#aqui"
+        ],
+        "desc": "The success of a company and its ability to maintain its competitive edge depends fundamentally on the talent of its people. Discover how to improve your leadership skills \u2013 identifying your strengths and weaknesses \u2013 and empower the individuals and teams in your organization to reach their full potential.",
+        "course_takeaways": "*Invigorate your leadership style through enhanced self-management*Cultivate a coaching style that inspires, motivates and mobilizes others*Acquire the requisite mindset and frameworks to spearhead change and spark positive organizational transformation",
+        "who_attend_desc": "The \u201cDeveloping Leadership Competencies\u201d program is designed for general managers and senior executives, as well as for human resource professionals who seek to advance\u00a0leadership competencies that improve personal and organizational effectiveness.\n",
+        "priority": 0,
+        "publish": 100,
+        "active": true,
+        "Repeatable": "Y",
+        "is_advanced_management_program": false,
+        "who_attend_params": "{\"working experience\": \"\",\"background knowledge\": \"\"}",
+        "university_school": "2222_EUR",
+        "credential": "",
+        "duration_consecutive": true,
+        "category_tags": [],
+        "version": 1,
+        "effective_start_time": "Module 1: Online | June 14-25, 2021\nModule 2: Madrid | June 28 \u2013 July 1, 2021",
+        "type": "blended-ov",
+        "tuition_note": "*Executive education Certificate fee: An additional 5% discount on the general or IESE Alumni Association member fee.",
+        "effective_date_start": "",
+        "effective_date_end": "",
+        "schedule": [
+            [
+                "",
+                "",
+                "",
+                "formal"
+            ]
+        ],
+        "languages": "English",
+        "location": [
+            "Barcelona, ----, Spain"
+        ],
+        "currency": "EUR",
+        "tuition_number": "5250"
+    },
+    {
+        "overview": {
+            "desc": "Senior executives need exceptional negotiating skills for the highest-profile decisions and for the daily demands of the workplace. This program looks at a range of issues, from multicultural negotiations, to ethical dilemmas in negotiations, to negotiating in deal-making situations.\nYou will carry out a methodical self-assessment of your negotiating style, identifying your strengths and your potential areas for improvement.Emerge with the advanced preparation and solid framework to go from a good negotiator to a great one.",
+            "video_title": "",
+            "video_url": ""
+        },
+        "exec_ed_inquiry_cc_emails": "AVera@iese.edu",
+        "testimonials": [],
+        "course_faculties": [
+            "Juan Roure\nAcademic Director",
+            "Kandarp Mehta",
+            "Guido Stein"
+        ],
+        "name": "High-Performance Negotiator",
+        "url": "https://execedprograms.iese.edu/leadership-people-management/high-performance-negotiator",
+        "category": [
+            "LEADERSHIP AND PEOPLE MANAGEMENT",
+            "C-SUITE EXECUTIVES",
+            "STRATEGIC MANAGEMENT"
+        ],
+        "category_url": [
+            "https://execedprograms.iese.edu/?manda&filter_1=leadership-and-people-management&filter_2&filter_3#aqui",
+            "https://execedprograms.iese.edu/?manda&filter_1=c-suite-executives&filter_2&filter_3#aqui",
+            "https://execedprograms.iese.edu/?manda&filter_1=strategic-management&filter_2&filter_3#aqui"
+        ],
+        "desc": "Senior executives need exceptional negotiating skills for the highest-profile decisions and for the daily demands of the workplace. This program looks at a range of issues, from multicultural negotiations, to ethical dilemmas in negotiations, to negotiating in deal-making situations.\nYou will carry out a methodical self-assessment of your negotiating style, identifying your strengths and your potential areas for improvement.Emerge with the advanced preparation and solid framework to go from a good negotiator to a great one.",
+        "course_takeaways": "*Learn about the principles of negotiation in different business contexts.*Gain a deeper understanding of the dynamics of the negotiation process and improve your ability to negotiate in collaborative and competitive situations.*Forge long-term relationships by learning how to reconcile different cultural backgrounds and emotional responses.*Boost your ability to navigate ethical dilemmas during a negotiation process.*Develop a solid framework to succeed in complex negotiation situations.",
+        "who_attend_desc": "The \u201cHigh-Performance Negotiator\u201d program is designed for professionals whose roles require them to negotiate on a regular basis such as senior executives, entrepreneurs, functional managers, investors, mediators and managers in family-owned firms.\nPublic administration officials and executives who oversee complex national and multinational negotiations will also find the program highly beneficial.\n",
+        "priority": 0,
+        "publish": 100,
+        "active": true,
+        "Repeatable": "Y",
+        "is_advanced_management_program": false,
+        "who_attend_params": "{\"working experience\": \"\",\"background knowledge\": \"\"}",
+        "university_school": "2222_EUR",
+        "credential": "",
+        "duration_consecutive": true,
+        "category_tags": [],
+        "version": 1,
+        "location": [
+            "Barcelona, ----, Spain"
+        ],
+        "type": "onsite",
+        "effective_date_start": "",
+        "schedule": [
+            [
+                "",
+                "",
+                "",
+                "formal"
+            ]
+        ],
+        "tuition_note": "*Executive education Certificate fee: An additional 5% discount on the general or IESE Alumni Association member fee.",
+        "effective_date_end": "",
+        "languages": "English",
+        "currency": "EUR",
+        "tuition_number": "4200"
+    },
+    {
+        "desc": {
+            "desc": " Refuerza tu estilo de liderazgo Las organizaciones que cuentan con ejecutivas formadas en alta direcci\u00f3n consiguen mejorar su competitividad y promover competencias que contribuyen a humanizar su organizaci\u00f3n y a mejorar el compromiso de los equipos. ",
+            "video_url": "",
+            "video_title": ""
+        },
+        "who_attend_desc": " El programa Mujer y liderazgo es para ti si: Quieres desarrollar tus competencias gerenciales e incrementar tu valor profesional.\nEres una directora de alto nivel en tu organizaci\u00f3n.\nOcupas un puesto directivo de nivel medio y deseas progresar en tu vida profesional.\nEres empresaria o due\u00f1a de tu propio negocio y necesitas mejorar tus capacidades de liderazgo. ",
+        "course_takeaways": " En el programa Mujer y liderazgo aprender\u00e1s a: Realizar un diagn\u00f3stico personal de competencias\nPara identificar tus fortalezas y dise\u00f1ar un plan de mejora. Compartir experiencias y generar un network\nPara crear una red de relaciones efectivas con otras mujeres directivas e identificar tus retos y los factores que obstaculizan tu progreso. Mejorar habilidades y capacidades para reforzar el liderazgo\nPara implementar herramientas de negociaci\u00f3n, trabajo en equipo, gesti\u00f3n de conflictos y toma de decisiones. Equilibrar tu vida personal y profesional\nPara gestionar tu tiempo con eficacia y emplear estrategias para lograr un equilibrio entre el trabajo y la familia. ",
+        "credential": "Certificate",
+        "type": "onsite",
+        "course_faculties": [
+            "Nuria Chinchilla",
+            "Miguel \u00c1ngel Ari\u00f1o",
+            "Esther Jim\u00e9nez",
+            "Kandarp Mehta"
+        ],
+        "testimonials": [],
+        "languages": "Spanish",
+        "exec_ed_inquiry_cc_emails": "",
+        "version": 1,
+        "tuition_number": "2450",
+        "currency": "USD",
+        "tuition_note": "",
+        "location": [
+            "Barcelona, ----, Spain"
+        ],
+        "duration_weeks": "3",
+        "priority": 0,
+        "publish": 100,
+        "active": true,
+        "Repeatable": "Y",
+        "is_advanced_management_program": false,
+        "who_attend_params": "{\"working experience\": \"\",\"background knowledge\": \"\"}",
+        "name": "Mujer y liderazgo",
+        "url": "https://online-em.iese.edu/mujer-y-liderazgo",
+        "category": [
+            "LEADERSHIP AND PEOPLE MANAGEMENT"
+        ],
+        "category_url": [
+            "https://execedprograms.iese.edu/?manda&filter_1=leadership-and-people-management&filter_2&filter_3#aqui"
+        ],
+        "university_school": "2222_EUR",
+        "duration_consecutive": true,
+        "category_tags": [],
+        "effective_date_start": "2021-09-01",
+        "effective_date_end": "",
+        "schedule": [
+            [
+                "2021-09-01",
+                "",
+                "3",
+                "formal"
+            ]
+        ],
+        "overview": {
+            "desc": {
+                "desc": " Refuerza tu estilo de liderazgo Las organizaciones que cuentan con ejecutivas formadas en alta direcci\u00f3n consiguen mejorar su competitividad y promover competencias que contribuyen a humanizar su organizaci\u00f3n y a mejorar el compromiso de los equipos. ",
+                "video_url": "",
+                "video_title": ""
+            },
+            "video_url": "",
+            "video_title": ""
+        }
+    },
+    {
+        "overview": {
+            "desc": "Una competencia feroz, clientes cada vez m\u00e1s exigentes, vendedores que no siempre comparten los valores de la empresa, el auge de Internet y el e-commerce nos obligan a replantearnos los m\u00e9todos y sistemas de gesti\u00f3n comercial. Descubre las cualidades necesarias para convertirte en un excelente director comercial capaz de obtener el mejor rendimiento de tu equipo.",
+            "video_title": "",
+            "video_url": ""
+        },
+        "exec_ed_inquiry_cc_emails": "enfocados@iese.edu",
+        "testimonials": [],
+        "course_faculties": [
+            "Cosimo Chiesa",
+            "Juli\u00e1n Villanueva"
+        ],
+        "name": "Lograr un equipo de ventas excelente",
+        "url": "https://execedprograms.iese.edu/marketing-direccion-ventas/equipo-ventas-excelente/",
+        "category": [
+            "LEADERSHIP AND PEOPLE MANAGEMENT",
+            "MARKETING AND SALES MANAGEMENT"
+        ],
+        "category_url": [
+            "https://execedprograms.iese.edu/?manda&filter_1=leadership-and-people-management&filter_2&filter_3#aqui",
+            "https://execedprograms.iese.edu/?manda&filter_1=marketing-and-sales-management&filter_2&filter_3#aqui"
+        ],
+        "desc": "Una competencia feroz, clientes cada vez m\u00e1s exigentes, vendedores que no siempre comparten los valores de la empresa, el auge de Internet y el e-commerce nos obligan a replantearnos los m\u00e9todos y sistemas de gesti\u00f3n comercial. Descubre las cualidades necesarias para convertirte en un excelente director comercial capaz de obtener el mejor rendimiento de tu equipo.",
+        "course_takeaways": "*Entender el complejo mundo comercial actual y todos los actores que intervienen.*Dise\u00f1ar la red de ventas m\u00e1s adecuada para tu producto.*Definir un plan comercial ambicioso pero realista.*Motivar a tu equipo con un sistema de remuneraci\u00f3n justo, sin olvidarse de la importancia del \u00absalario emocional\u00bb.*Evolucionar del concepto de venta tradicional al de venta consultiva.*Alcanzar la excelencia comercial y obtener buenos resultados de venta.",
+        "who_attend_desc": "El programa\u00bbLograr un equipo de ventas excelente\u00bb\u00a0est\u00e1 especialmente dirigido a directores generales, directores comerciales, directores de ventas y directores de marketing.\n",
+        "priority": 0,
+        "publish": 100,
+        "active": true,
+        "Repeatable": "Y",
+        "is_advanced_management_program": false,
+        "who_attend_params": "{\"working experience\": \"\",\"background knowledge\": \"\"}",
+        "university_school": "2222_EUR",
+        "credential": "",
+        "duration_consecutive": true,
+        "category_tags": [],
+        "version": 1,
+        "location": [
+            "Barcelona, ----, Spain"
+        ],
+        "duration_weeks": "d",
+        "currency": "EUR",
+        "tuition_number": "3400",
+        "tuition_note": "*Tarifa Executive Education Certificate: 5% descuento adicional sobre cuota general o miembros.",
+        "effective_date_start": "2021-10-20",
+        "effective_date_end": "2021-10-07",
+        "schedule": [
+            [
+                "2021-10-20",
+                "2021-10-07",
+                "d",
+                "formal"
+            ]
+        ],
+        "languages": "Spanish",
+        "type": "onsite"
+    },
+    {
+        "desc": {
+            "desc": " Adquiere un panorama de la Transformaci\u00f3n Digital en RH y la Gesti\u00f3n del Talento en la era post COVID El Covid-19 acelera la transformaci\u00f3n digital y el uso de la Inteligencia Artificial como una v\u00eda efectiva para responder a nuevas formas de trabajo, h\u00e1bitos de consumo y maneras de ejercer un liderazgo resiliente desde la direcci\u00f3n del talento de tu organizaci\u00f3n. Este programa te dar\u00e1 un panorama de la transformaci\u00f3n digital en direcci\u00f3n de personas que podr\u00e1s usar como base para dise\u00f1ar un plan estrat\u00e9gico para la gesti\u00f3n del capital humano en la era post Covid. ",
+            "video_url": "",
+            "video_title": ""
+        },
+        "who_attend_desc": " Este Programa es para ti si: Buscas un entendimiento m\u00e1s profundo sobre c\u00f3mo es que la transformaci\u00f3n digital impacta en los equipos de RH y en las generaciones que integran el ecosistema laboral.\nDeseas actualizarte con respecto de las estrategias, t\u00e1cticas y herramientas digitales y de IA que est\u00e1n transformando la gesti\u00f3n del talento a nivel mundial.\nNecesitas fortalecer tu base de conocimientos para establecer un roadmap o plan de acci\u00f3n para acelerar los procesos de transformaci\u00f3n digital de tu organizaci\u00f3n.\nTe interesa lograr que la funci\u00f3n de RH adquiera un perfil estrat\u00e9gico dentro de la organizaci\u00f3n por medio de la transformaci\u00f3n digital y la Inteligencia Artificial.\nNecesitas organizar el talento de tu startup u organizaci\u00f3n de manera eficaz y adaptarlo al entorno donde compites. ",
+        "course_takeaways": " Al Estudiar este Certificado Aprender\u00e1s a: Gestionar el Talento\ncon una perspectiva distinta y en un ambiente vol\u00e1til, incierto, complejo y ambiguo (VUCA por sus siglas en ingl\u00e9s); donde las tecnolog\u00edas digitales juegan un papel cada vez mayor. Dise\u00f1ar un Plan Estrat\u00e9gico\npara transformar la gesti\u00f3n del talento de tu empresa en respuesta al mundo digital. Introducir y Gestionar las Herramientas\nde digitalizaci\u00f3n y automatizaci\u00f3n (IA) adecuadas para tu empresa. As\u00ed como aplicar metodolog\u00edas como agile, scrum y lean-startup. Dise\u00f1ar los Nuevos Puestos de Trabajo\nque, a trav\u00e9s de la digitalizaci\u00f3n, impulsen la internacionalizaci\u00f3n de la organizaci\u00f3n (Equipos Virtuales Globales de Alto Rendimiento). ",
+        "credential": "Certificate",
+        "type": "onsite",
+        "course_faculties": [
+            "Jos\u00e9 Ram\u00f3n Pin",
+            "Guido Stein"
+        ],
+        "testimonials": [],
+        "languages": "Spanish",
+        "exec_ed_inquiry_cc_emails": "",
+        "version": 1,
+        "tuition_number": "2150",
+        "currency": "USD",
+        "tuition_note": "",
+        "location": [
+            "Barcelona, ----, Spain"
+        ],
+        "duration_weeks": "7",
+        "priority": 0,
+        "publish": 100,
+        "active": true,
+        "Repeatable": "Y",
+        "is_advanced_management_program": false,
+        "who_attend_params": "{\"working experience\": \"\",\"background knowledge\": \"\"}",
+        "name": "Gesti\u00f3n del talento, estrategias y herramientas digitales",
+        "url": "https://online-em.iese.edu/desarrolla-talento-digital",
+        "category": [
+            "LEADERSHIP AND PEOPLE MANAGEMENT"
+        ],
+        "category_url": [
+            "https://execedprograms.iese.edu/?manda&filter_1=leadership-and-people-management&filter_2&filter_3#aqui"
+        ],
+        "university_school": "2222_EUR",
+        "duration_consecutive": true,
+        "category_tags": [],
+        "effective_date_start": "2021-10-01",
+        "effective_date_end": "",
+        "schedule": [
+            [
+                "2021-10-01",
+                "",
+                "7",
+                "formal"
+            ]
+        ],
+        "overview": {
+            "desc": {
+                "desc": " Adquiere un panorama de la Transformaci\u00f3n Digital en RH y la Gesti\u00f3n del Talento en la era post COVID El Covid-19 acelera la transformaci\u00f3n digital y el uso de la Inteligencia Artificial como una v\u00eda efectiva para responder a nuevas formas de trabajo, h\u00e1bitos de consumo y maneras de ejercer un liderazgo resiliente desde la direcci\u00f3n del talento de tu organizaci\u00f3n. Este programa te dar\u00e1 un panorama de la transformaci\u00f3n digital en direcci\u00f3n de personas que podr\u00e1s usar como base para dise\u00f1ar un plan estrat\u00e9gico para la gesti\u00f3n del capital humano en la era post Covid. ",
+                "video_url": "",
+                "video_title": ""
+            },
+            "video_url": "",
+            "video_title": ""
+        }
+    },
+    {
+        "overview": {
+            "desc": "Lograr los objetivos de negocio es posible mediante la selecci\u00f3n, definici\u00f3n y gesti\u00f3n eficaz de proyectos clave para la empresa dentro de los plazos y presupuestos planeados.Descubre las herramientas necesarias para desarrollar proyectos estrat\u00e9gicos de \u00e9xito.",
+            "video_title": "",
+            "video_url": ""
+        },
+        "exec_ed_inquiry_cc_emails": "SSainz@iese.edu",
+        "testimonials": [],
+        "course_faculties": [
+            "Jaume Ribera",
+            "Mireia Las Heras",
+            "Carles Vergara",
+            "Joaquim Vil\u00e0"
+        ],
+        "name": "Liderando proyectos estrat\u00e9gicos",
+        "url": "https://execedprograms.iese.edu/direccion-estrategica/proyectos-estrategicos/",
+        "category": [
+            "LEADERSHIP AND PEOPLE MANAGEMENT",
+            "STRATEGIC MANAGEMENT"
+        ],
+        "category_url": [
+            "https://execedprograms.iese.edu/?manda&filter_1=leadership-and-people-management&filter_2&filter_3#aqui",
+            "https://execedprograms.iese.edu/?manda&filter_1=strategic-management&filter_2&filter_3#aqui"
+        ],
+        "desc": "Lograr los objetivos de negocio es posible mediante la selecci\u00f3n, definici\u00f3n y gesti\u00f3n eficaz de proyectos clave para la empresa dentro de los plazos y presupuestos planeados.Descubre las herramientas necesarias para desarrollar proyectos estrat\u00e9gicos de \u00e9xito.",
+        "course_takeaways": "*Conocer las herramientas necesarias para completar con \u00e9xito cualquier proyecto estrat\u00e9gico.*Identificar los elementos fundamentales en cada etapa del ciclo de vida de los proyectos.*Comprender los diferentes roles de las partes interesadas y mejorar la forma de gestionar equipos y hacer frente a los conflictos.*Establecer un lenguaje com\u00fan y una buena metodolog\u00eda.*Aprender a incorporar contingencias en los proyectos y descubrir, analizar y establecer planes para enfrentarse a los riesgos potenciales.",
+        "who_attend_desc": "El programa \u00abLiderando proyectos estrat\u00e9gicos\u00bb est\u00e1 dise\u00f1ado para ejecutivos de alto nivel que se encuentran frecuentemente liderando o involucrados en la gesti\u00f3n de proyectos en sus organizaciones y necesitan mejorar sus conocimientos.\n",
+        "priority": 0,
+        "publish": 100,
+        "active": true,
+        "Repeatable": "Y",
+        "is_advanced_management_program": false,
+        "who_attend_params": "{\"working experience\": \"\",\"background knowledge\": \"\"}",
+        "university_school": "2222_EUR",
+        "credential": "",
+        "duration_consecutive": true,
+        "category_tags": [],
+        "version": 1,
+        "location": [
+            "Barcelona, ----, Spain"
+        ],
+        "duration_weeks": "5",
+        "currency": "EUR",
+        "tuition_number": "2900",
+        "tuition_note": "*Tarifa Executive Education certificate: 5% descuento adicional sobre cuota general o miembros.",
+        "effective_date_start": "2021-10-01",
+        "effective_date_end": "2021-11-05",
+        "schedule": [
+            [
+                "2021-10-01",
+                "2021-11-05",
+                "5",
+                "formal"
+            ]
+        ],
+        "languages": "Spanish",
+        "type": "onsite"
+    },
+    {
+        "overview": {
+            "desc": "Increasing employee engagement, driving innovation and change, and stimulating top-level performance involves taking a positive new approach to leadership that builds on strengths.Run jointly by IESE Business School and Michigan\u2019s Ross School of Business, this program will provide you with the techniques and tools you need to stimulate performance in others by focusing on their strengths.",
+            "video_title": "",
+            "video_url": ""
+        },
+        "exec_ed_inquiry_cc_emails": "AVera@iese.edu",
+        "testimonials": [],
+        "course_faculties": [
+            "Alberto Ribera",
+            "Kim Cameron",
+            "Anneloes Raes",
+            "Shawn Quinn"
+        ],
+        "name": "Become a Positive Leader to Accelerate Positive Change",
+        "url": "https://execedprograms.iese.edu/leadership-people-management/positive-leader/",
+        "category": [
+            "LEADERSHIP AND PEOPLE MANAGEMENT",
+            "C-SUITE EXECUTIVES"
+        ],
+        "category_url": [
+            "https://execedprograms.iese.edu/?manda&filter_1=leadership-and-people-management&filter_2&filter_3#aqui",
+            "https://execedprograms.iese.edu/?manda&filter_1=c-suite-executives&filter_2&filter_3#aqui"
+        ],
+        "desc": "Increasing employee engagement, driving innovation and change, and stimulating top-level performance involves taking a positive new approach to leadership that builds on strengths.Run jointly by IESE Business School and Michigan\u2019s Ross School of Business, this program will provide you with the techniques and tools you need to stimulate performance in others by focusing on their strengths.",
+        "course_takeaways": "*Learn how to cultivate a mindful and mission-driven work environment that empowers and engages employees.*Examine the importance of self-awareness to motivate growth at both individual and organizational levels.*Learn techniques to unlock the highest potential within oneself and others.*Make a step-by-step plan to address leadership challenges in your organization.",
+        "who_attend_desc": "\nThe \u201cBecome a Positive Leader to Accelerate Positive Change\u201d\u00a0program targets human resource professionals and their teams; executives who are spearheading change or in the midst of a career transformation; and leaders who aspire to develop creative, committed and constructive teams.\n",
+        "priority": 0,
+        "publish": 100,
+        "active": true,
+        "Repeatable": "Y",
+        "is_advanced_management_program": false,
+        "who_attend_params": "{\"working experience\": \"\",\"background knowledge\": \"\"}",
+        "university_school": "2222_EUR",
+        "credential": "",
+        "duration_consecutive": true,
+        "category_tags": [],
+        "version": 1,
+        "location": [
+            "Barcelona, ----, Spain"
+        ],
+        "type": "onsite",
+        "effective_date_start": "",
+        "schedule": [
+            [
+                "",
+                "",
+                "",
+                "formal"
+            ]
+        ],
+        "tuition_note": "*Executive education Certificate fee: An additional 5% discount on the general or IESE Alumni Association member fee.",
+        "effective_date_end": "",
+        "languages": "English",
+        "currency": "EUR",
+        "tuition_number": "6000"
+    },
+    {
+        "overview": {
+            "desc": "Los procesos de negociaci\u00f3n suelen analizarse poco y dejarse en manos de la intuici\u00f3n. Los directivos deben negociar constantemente y, por ello, es fundamental tener una buena estrategia de negociaci\u00f3n para asegurar el \u00e9xito de los acuerdos de colaboraci\u00f3n y optimizar las relaciones interpersonales.Convi\u00e9rtete en un negociador creativo y eficaz, capaz de cerrar acuerdos en los que todas las partes se sientan satisfechas e implicadas.",
+            "video_title": "",
+            "video_url": ""
+        },
+        "exec_ed_inquiry_cc_emails": "AGoma@iese.edu",
+        "testimonials": [],
+        "course_faculties": [
+            "Juan Roure",
+            "Kandarp Mehta",
+            "Guido Stein"
+        ],
+        "name": "Negociar con eficacia y creatividad",
+        "url": "https://execedprograms.iese.edu/es/liderazgo-direccion-personas/negociar-eficacia-creatividad/",
+        "category": [
+            "LEADERSHIP AND PEOPLE MANAGEMENT",
+            "C-SUITE EXECUTIVES",
+            "STRATEGIC MANAGEMENT"
+        ],
+        "category_url": [
+            "https://execedprograms.iese.edu/?manda&filter_1=leadership-and-people-management&filter_2&filter_3#aqui",
+            "https://execedprograms.iese.edu/?manda&filter_1=c-suite-executives&filter_2&filter_3#aqui",
+            "https://execedprograms.iese.edu/?manda&filter_1=strategic-management&filter_2&filter_3#aqui"
+        ],
+        "desc": "Los procesos de negociaci\u00f3n suelen analizarse poco y dejarse en manos de la intuici\u00f3n. Los directivos deben negociar constantemente y, por ello, es fundamental tener una buena estrategia de negociaci\u00f3n para asegurar el \u00e9xito de los acuerdos de colaboraci\u00f3n y optimizar las relaciones interpersonales.Convi\u00e9rtete en un negociador creativo y eficaz, capaz de cerrar acuerdos en los que todas las partes se sientan satisfechas e implicadas.",
+        "course_takeaways": "*Conocer las estrategias de negociaci\u00f3n y las habilidades de influencia m\u00e1s efectivas para cada situaci\u00f3n empresarial.*Controlar la din\u00e1mica de la negociaci\u00f3n para orientarla hacia los objetivos de la organizaci\u00f3n.*Gestionar de forma eficaz los conflictos internos de una organizaci\u00f3n.*Conseguir que la negociaci\u00f3n sea una ventaja competitiva para la empresa.",
+        "who_attend_desc": "El programa se dirige a directivos, miembros de familias empresarias, consejeros, emprendedores, inversores y altos cargos de la Administraci\u00f3n P\u00fablica.\n",
+        "priority": 0,
+        "publish": 100,
+        "active": true,
+        "Repeatable": "Y",
+        "is_advanced_management_program": false,
+        "who_attend_params": "{\"working experience\": \"\",\"background knowledge\": \"\"}",
+        "university_school": "2222_EUR",
+        "credential": "",
+        "duration_consecutive": true,
+        "category_tags": [],
+        "version": 2,
+        "location": [
+            "Barcelona, ----, Spain"
+        ],
+        "duration_weeks": "d",
+        "currency": "EUR",
+        "tuition_number": "3400",
+        "tuition_note": "*Tarifa Executive Education Certificate: 5% descuento adicional sobre cuota general o miembros.\n(* Tarifas pendientes de actualizaci\u00f3n para el curso acad\u00e9mico 21-22)",
+        "effective_date_start": "2021-05-20",
+        "effective_date_end": "2021-05-06",
+        "schedule": [
+            [
+                "2021-05-20",
+                "2021-05-06",
+                "d",
+                "formal"
+            ]
+        ],
+        "languages": "Spanish",
+        "type": "onsite"
+    },
+    {
+        "overview": {
+            "desc": "Los procesos de negociaci\u00f3n suelen analizarse poco y dejarse en manos de la intuici\u00f3n. Los directivos deben negociar constantemente y, por ello, es fundamental tener una buena estrategia de negociaci\u00f3n para asegurar el \u00e9xito de los acuerdos de colaboraci\u00f3n y optimizar las relaciones interpersonales.Convi\u00e9rtete en un negociador creativo y eficaz, capaz de cerrar acuerdos en los que todas las partes se sientan satisfechas e implicadas.",
+            "video_title": "",
+            "video_url": ""
+        },
+        "exec_ed_inquiry_cc_emails": "AGoma@iese.edu",
+        "testimonials": [],
+        "course_faculties": [
+            "Juan Roure",
+            "Kandarp Mehta",
+            "Guido Stein"
+        ],
+        "name": "Negociar con eficacia y creatividad",
+        "url": "https://execedprograms.iese.edu/es/liderazgo-direccion-personas/negociar-eficacia-creatividad/",
+        "category": [
+            "LEADERSHIP AND PEOPLE MANAGEMENT",
+            "C-SUITE EXECUTIVES",
+            "STRATEGIC MANAGEMENT"
+        ],
+        "category_url": [
+            "https://execedprograms.iese.edu/?manda&filter_1=leadership-and-people-management&filter_2&filter_3#aqui",
+            "https://execedprograms.iese.edu/?manda&filter_1=c-suite-executives&filter_2&filter_3#aqui",
+            "https://execedprograms.iese.edu/?manda&filter_1=strategic-management&filter_2&filter_3#aqui"
+        ],
+        "desc": "Los procesos de negociaci\u00f3n suelen analizarse poco y dejarse en manos de la intuici\u00f3n. Los directivos deben negociar constantemente y, por ello, es fundamental tener una buena estrategia de negociaci\u00f3n para asegurar el \u00e9xito de los acuerdos de colaboraci\u00f3n y optimizar las relaciones interpersonales.Convi\u00e9rtete en un negociador creativo y eficaz, capaz de cerrar acuerdos en los que todas las partes se sientan satisfechas e implicadas.",
+        "course_takeaways": "*Conocer las estrategias de negociaci\u00f3n y las habilidades de influencia m\u00e1s efectivas para cada situaci\u00f3n empresarial.*Controlar la din\u00e1mica de la negociaci\u00f3n para orientarla hacia los objetivos de la organizaci\u00f3n.*Gestionar de forma eficaz los conflictos internos de una organizaci\u00f3n.*Conseguir que la negociaci\u00f3n sea una ventaja competitiva para la empresa.",
+        "who_attend_desc": "El programa se dirige a directivos, miembros de familias empresarias, consejeros, emprendedores, inversores y altos cargos de la Administraci\u00f3n P\u00fablica.\n",
+        "priority": 0,
+        "publish": 100,
+        "active": true,
+        "Repeatable": "Y",
+        "is_advanced_management_program": false,
+        "who_attend_params": "{\"working experience\": \"\",\"background knowledge\": \"\"}",
+        "university_school": "2222_EUR",
+        "credential": "",
+        "duration_consecutive": true,
+        "category_tags": [],
+        "version": 2,
+        "location": [
+            "Barcelona, ----, Spain"
+        ],
+        "currency": "EUR",
+        "tuition_number": "3400",
+        "tuition_note": "*Tarifa Executive Education Certificate: 5% descuento adicional sobre cuota general o miembros.\n(* Tarifas pendientes de actualizaci\u00f3n para el curso acad\u00e9mico 21-22)",
+        "effective_date_start": "2021-11-01",
+        "effective_date_end": "",
+        "schedule": [
+            [
+                "2021-11-01",
+                "",
+                "",
+                "formal"
+            ]
+        ],
+        "languages": "Spanish",
+        "type": "onsite"
+    },
+    {
+        "overview": {
+            "desc": "La comunicaci\u00f3n es crucial para dirigir, coordinar y colaborar con \u00e9xito en una empresa, as\u00ed como para establecer relaciones comerciales fruct\u00edferas. De hecho, es la clave de nuestra efectividad como directivos. Descubre c\u00f3mo utilizar herramientas y t\u00e9cnicas de comunicaci\u00f3n para convencer y crear v\u00ednculos de compromiso inquebrantables.",
+            "video_title": "",
+            "video_url": ""
+        },
+        "exec_ed_inquiry_cc_emails": "AGoma@iese.edu",
+        "testimonials": [],
+        "course_faculties": [
+            "Conor Neill",
+            "Maty Tchey"
+        ],
+        "name": "Comunicar con eficacia y persuasi\u00f3n",
+        "url": "https://execedprograms.iese.edu/liderazgo-direccion-personas/comunicar-eficacia-persuasion/",
+        "category": [
+            "LEADERSHIP AND PEOPLE MANAGEMENT"
+        ],
+        "category_url": [
+            "https://execedprograms.iese.edu/?manda&filter_1=leadership-and-people-management&filter_2&filter_3#aqui"
+        ],
+        "desc": "La comunicaci\u00f3n es crucial para dirigir, coordinar y colaborar con \u00e9xito en una empresa, as\u00ed como para establecer relaciones comerciales fruct\u00edferas. De hecho, es la clave de nuestra efectividad como directivos. Descubre c\u00f3mo utilizar herramientas y t\u00e9cnicas de comunicaci\u00f3n para convencer y crear v\u00ednculos de compromiso inquebrantables.",
+        "course_takeaways": "*Ganar confianza en tu oratoria.*Descubrir las formas de organizar argumentos s\u00f3lidos de forma l\u00f3gica.*Aprender a manejar tus propias emociones y las de los dem\u00e1s.*Descubrir c\u00f3mo utilizar las herramientas y t\u00e9cnicas b\u00e1sicas para convencer y crear v\u00ednculos de compromiso.*Convencer ilustrando tus ideas en vez de limitarte \u00fanicamente a transmitir informaci\u00f3n.*Utilizar tanto el lenguaje verbal como el no verbal para ganar credibilidad y lograr tus objetivos.",
+        "who_attend_desc": "El programa \u00abComunicar con eficacia y persuasi\u00f3n\u00bb\u00a0va dirigido a directivos que deseen mejorar el impacto que generan en la gente que les rodea.\nEspecialmente a:\n\nAquellos recientemente ascendidos a puestos de liderazgo: se beneficiar\u00e1n del desarrollo formal de su propio estilo de comunicaci\u00f3n.\nL\u00edderes empresariales que deseen realizar cambios en sus empresas: se beneficiar\u00e1n del desarrollo de un estilo de comunicaci\u00f3n que fomente el compromiso antes que el cumplimiento mec\u00e1nico.\nDirectivos con antecedentes estructurados y racionales, como ingenieros y contables: se beneficiar\u00e1n del desarrollo de t\u00e9cnicas que doten de significado a datos y cifras.\nDirectivos que suelen ocuparse de las relaciones con los clientes o que tengan una conexi\u00f3n directa con el p\u00fablico en general: se beneficiar\u00e1n de mejorar y desarrollar su estilo personal de comunicaci\u00f3n.\n\n",
+        "priority": 0,
+        "publish": 100,
+        "active": true,
+        "Repeatable": "Y",
+        "is_advanced_management_program": false,
+        "who_attend_params": "{\"working experience\": \"\",\"background knowledge\": \"\"}",
+        "university_school": "2222_EUR",
+        "credential": "",
+        "duration_consecutive": true,
+        "category_tags": [],
+        "version": 2,
+        "location": [
+            "Barcelona, ----, Spain"
+        ],
+        "duration_weeks": "d",
+        "currency": "EUR",
+        "tuition_number": "3400",
+        "tuition_note": "*Tarifa Executive Education certificate: 5% descuento adicional sobre cuota general o miembros.",
+        "effective_date_start": "2021-11-01",
+        "effective_date_end": "2021-11-30",
+        "schedule": [
+            [
+                "2021-11-01",
+                "2021-11-30",
+                "d",
+                "formal"
+            ]
+        ],
+        "languages": "Spanish",
+        "type": "onsite"
+    },
+    {
+        "overview": {
+            "desc": "La comunicaci\u00f3n es crucial para dirigir, coordinar y colaborar con \u00e9xito en una empresa, as\u00ed como para establecer relaciones comerciales fruct\u00edferas. De hecho, es la clave de nuestra efectividad como directivos. Descubre c\u00f3mo utilizar herramientas y t\u00e9cnicas de comunicaci\u00f3n para convencer y crear v\u00ednculos de compromiso inquebrantables.",
+            "video_title": "",
+            "video_url": ""
+        },
+        "exec_ed_inquiry_cc_emails": "AGoma@iese.edu",
+        "testimonials": [],
+        "course_faculties": [
+            "Conor Neill",
+            "Maty Tchey"
+        ],
+        "name": "Comunicar con eficacia y persuasi\u00f3n",
+        "url": "https://execedprograms.iese.edu/liderazgo-direccion-personas/comunicar-eficacia-persuasion/",
+        "category": [
+            "LEADERSHIP AND PEOPLE MANAGEMENT"
+        ],
+        "category_url": [
+            "https://execedprograms.iese.edu/?manda&filter_1=leadership-and-people-management&filter_2&filter_3#aqui"
+        ],
+        "desc": "La comunicaci\u00f3n es crucial para dirigir, coordinar y colaborar con \u00e9xito en una empresa, as\u00ed como para establecer relaciones comerciales fruct\u00edferas. De hecho, es la clave de nuestra efectividad como directivos. Descubre c\u00f3mo utilizar herramientas y t\u00e9cnicas de comunicaci\u00f3n para convencer y crear v\u00ednculos de compromiso inquebrantables.",
+        "course_takeaways": "*Ganar confianza en tu oratoria.*Descubrir las formas de organizar argumentos s\u00f3lidos de forma l\u00f3gica.*Aprender a manejar tus propias emociones y las de los dem\u00e1s.*Descubrir c\u00f3mo utilizar las herramientas y t\u00e9cnicas b\u00e1sicas para convencer y crear v\u00ednculos de compromiso.*Convencer ilustrando tus ideas en vez de limitarte \u00fanicamente a transmitir informaci\u00f3n.*Utilizar tanto el lenguaje verbal como el no verbal para ganar credibilidad y lograr tus objetivos.",
+        "who_attend_desc": "El programa \u00abComunicar con eficacia y persuasi\u00f3n\u00bb\u00a0va dirigido a directivos que deseen mejorar el impacto que generan en la gente que les rodea.\nEspecialmente a:\n\nAquellos recientemente ascendidos a puestos de liderazgo: se beneficiar\u00e1n del desarrollo formal de su propio estilo de comunicaci\u00f3n.\nL\u00edderes empresariales que deseen realizar cambios en sus empresas: se beneficiar\u00e1n del desarrollo de un estilo de comunicaci\u00f3n que fomente el compromiso antes que el cumplimiento mec\u00e1nico.\nDirectivos con antecedentes estructurados y racionales, como ingenieros y contables: se beneficiar\u00e1n del desarrollo de t\u00e9cnicas que doten de significado a datos y cifras.\nDirectivos que suelen ocuparse de las relaciones con los clientes o que tengan una conexi\u00f3n directa con el p\u00fablico en general: se beneficiar\u00e1n de mejorar y desarrollar su estilo personal de comunicaci\u00f3n.\n\n",
+        "priority": 0,
+        "publish": 100,
+        "active": true,
+        "Repeatable": "Y",
+        "is_advanced_management_program": false,
+        "who_attend_params": "{\"working experience\": \"\",\"background knowledge\": \"\"}",
+        "university_school": "2222_EUR",
+        "credential": "",
+        "duration_consecutive": true,
+        "category_tags": [],
+        "version": 2,
+        "location": [
+            "Barcelona, ----, Spain"
+        ],
+        "currency": "EUR",
+        "tuition_number": "3400",
+        "tuition_note": "*Tarifa Executive Education certificate: 5% descuento adicional sobre cuota general o miembros.",
+        "effective_date_start": "2022-02-01",
+        "effective_date_end": "",
+        "schedule": [
+            [
+                "2022-02-01",
+                "",
+                "",
+                "formal"
+            ]
+        ],
+        "languages": "Spanish",
+        "type": "onsite"
+    },
+    {
+        "overview": {
+            "desc": "La tecnolog\u00eda digital ha cambiado el proceso de atracci\u00f3n y compra de los consumidores. Descubre las nuevas herramientas de captaci\u00f3n de clientes y de generaci\u00f3n de marca para que puedas desarrollar la estrategia de marketing ideal para tu empresa.",
+            "video_title": "",
+            "video_url": ""
+        },
+        "exec_ed_inquiry_cc_emails": "enfocados@iese.edu",
+        "testimonials": [],
+        "course_faculties": [
+            "Juli\u00e1n Villanueva",
+            "Luis Ferr\u00e1ndiz"
+        ],
+        "name": "Marketing digital: estrategia, procesos y ROI",
+        "url": "https://execedprograms.iese.edu/es/marketing-direccion-ventas/marketing-digital/",
+        "category": [
+            "MARKETING AND SALES MANAGEMENT",
+            "STRATEGIC MANAGEMENT"
+        ],
+        "category_url": [
+            "https://execedprograms.iese.edu/?manda&filter_1=marketing-and-sales-management&filter_2&filter_3#aqui",
+            "https://execedprograms.iese.edu/?manda&filter_1=strategic-management&filter_2&filter_3#aqui"
+        ],
+        "desc": "La tecnolog\u00eda digital ha cambiado el proceso de atracci\u00f3n y compra de los consumidores. Descubre las nuevas herramientas de captaci\u00f3n de clientes y de generaci\u00f3n de marca para que puedas desarrollar la estrategia de marketing ideal para tu empresa.",
+        "course_takeaways": "*Aprender a desarrollar una estrategia de marketing digital s\u00f3lida.*Descubrir las nuevas herramientas digitales para atraer clientes y reforzar tu marca.*Discutir con otros profesionales los frenos\u00a0y las oportunidades en la digitalizaci\u00f3n de la compa\u00f1\u00eda.",
+        "who_attend_desc": "El programa \u201cMarketing digital: estrategias, procesos y ROI\u201d est\u00e1 dirigido a directores generales, directores de marketing y, en general, todos aquellos profesionales interesados en mejorar sus conocimientos en el \u00e1mbito del marketing digital.\n",
+        "priority": 0,
+        "publish": 100,
+        "active": true,
+        "Repeatable": "Y",
+        "is_advanced_management_program": false,
+        "who_attend_params": "{\"working experience\": \"\",\"background knowledge\": \"\"}",
+        "university_school": "2222_EUR",
+        "credential": "",
+        "duration_consecutive": true,
+        "category_tags": [],
+        "version": 2,
+        "location": [
+            "Madrid, ----, Spain"
+        ],
+        "duration_weeks": "d",
+        "currency": "",
+        "tuition_number": "",
+        "tuition_note": "",
+        "effective_date_start": "2021-05-18",
+        "effective_date_end": "2021-05-20",
+        "schedule": [
+            [
+                "2021-05-18",
+                "2021-05-20",
+                "d",
+                "formal"
+            ]
+        ],
+        "languages": "Spanish",
+        "type": "onsite"
+    },
+    {
+        "overview": {
+            "desc": "La tecnolog\u00eda digital ha cambiado el proceso de atracci\u00f3n y compra de los consumidores. Descubre las nuevas herramientas de captaci\u00f3n de clientes y de generaci\u00f3n de marca para que puedas desarrollar la estrategia de marketing ideal para tu empresa.",
+            "video_title": "",
+            "video_url": ""
+        },
+        "exec_ed_inquiry_cc_emails": "enfocados@iese.edu",
+        "testimonials": [],
+        "course_faculties": [
+            "Juli\u00e1n Villanueva",
+            "Luis Ferr\u00e1ndiz"
+        ],
+        "name": "Marketing digital: estrategia, procesos y ROI",
+        "url": "https://execedprograms.iese.edu/es/marketing-direccion-ventas/marketing-digital/",
+        "category": [
+            "MARKETING AND SALES MANAGEMENT",
+            "STRATEGIC MANAGEMENT"
+        ],
+        "category_url": [
+            "https://execedprograms.iese.edu/?manda&filter_1=marketing-and-sales-management&filter_2&filter_3#aqui",
+            "https://execedprograms.iese.edu/?manda&filter_1=strategic-management&filter_2&filter_3#aqui"
+        ],
+        "desc": "La tecnolog\u00eda digital ha cambiado el proceso de atracci\u00f3n y compra de los consumidores. Descubre las nuevas herramientas de captaci\u00f3n de clientes y de generaci\u00f3n de marca para que puedas desarrollar la estrategia de marketing ideal para tu empresa.",
+        "course_takeaways": "*Aprender a desarrollar una estrategia de marketing digital s\u00f3lida.*Descubrir las nuevas herramientas digitales para atraer clientes y reforzar tu marca.*Discutir con otros profesionales los frenos\u00a0y las oportunidades en la digitalizaci\u00f3n de la compa\u00f1\u00eda.",
+        "who_attend_desc": "El programa \u201cMarketing digital: estrategias, procesos y ROI\u201d est\u00e1 dirigido a directores generales, directores de marketing y, en general, todos aquellos profesionales interesados en mejorar sus conocimientos en el \u00e1mbito del marketing digital.\n",
+        "priority": 0,
+        "publish": 100,
+        "active": true,
+        "Repeatable": "Y",
+        "is_advanced_management_program": false,
+        "who_attend_params": "{\"working experience\": \"\",\"background knowledge\": \"\"}",
+        "university_school": "2222_EUR",
+        "credential": "",
+        "duration_consecutive": true,
+        "category_tags": [],
+        "version": 2,
+        "location": [
+            "Barcelona, ----, Spain"
+        ],
+        "duration_weeks": "5",
+        "currency": "",
+        "tuition_number": "",
+        "tuition_note": "",
+        "effective_date_start": "2021-06-01",
+        "effective_date_end": "2021-07-06",
+        "schedule": [
+            [
+                "2021-06-01",
+                "2021-07-06",
+                "5",
+                "formal"
+            ]
+        ],
+        "languages": "Spanish",
+        "type": "onsite"
+    },
+    {
+        "overview": {
+            "desc": "The world of marketing is undergoing a major transformation. The current economic climate is putting added pressure on brands, now working with smaller advertising budgets. At the same time, digitalization has sparked a powerful ripple effect that impacts everything: channels, media outlets, services and, needless to say, purchasing processes.This paradigm shift has given rise to new competition tools, leaving many senior leaders to question whether they sufficiently understand them and possess the know-how to leverage their power.",
+            "video_title": "",
+            "video_url": ""
+        },
+        "exec_ed_inquiry_cc_emails": "MBiechy@iese.edu",
+        "testimonials": [],
+        "course_faculties": [
+            "Juli\u00e1n Villanueva",
+            "Luis Ferr\u00e1ndiz"
+        ],
+        "name": "Digital Marketing: Strategy, Processes and ROI",
+        "url": "https://execedprograms.iese.edu/marketing-sales-management/digital-marketing/",
+        "category": [
+            "MARKETING AND SALES MANAGEMENT",
+            "STRATEGIC MANAGEMENT"
+        ],
+        "category_url": [
+            "https://execedprograms.iese.edu/?manda&filter_1=marketing-and-sales-management&filter_2&filter_3#aqui",
+            "https://execedprograms.iese.edu/?manda&filter_1=strategic-management&filter_2&filter_3#aqui"
+        ],
+        "desc": "The world of marketing is undergoing a major transformation. The current economic climate is putting added pressure on brands, now working with smaller advertising budgets. At the same time, digitalization has sparked a powerful ripple effect that impacts everything: channels, media outlets, services and, needless to say, purchasing processes.This paradigm shift has given rise to new competition tools, leaving many senior leaders to question whether they sufficiently understand them and possess the know-how to leverage their power.",
+        "course_takeaways": "*Learn how to develop a solid digital marketing strategy.*Discover the latest digital marketing tools to attract clients and build your brand.*Debate and discuss digitalization opportunities in your company with other top-caliber professionals.",
+        "who_attend_desc": "The \u201cDigital Marketing\u201d program is designed for general managers, marketing directors and professionals who seek a deeper understanding of digital marketing.\nIn an engaging learning format, you will boost your ability to plan, implement and measure digital strategies that resonate with your customer base, integrate with your global marketing mix and support your overall corporate objectives.\n",
+        "priority": 0,
+        "publish": 100,
+        "active": true,
+        "Repeatable": "Y",
+        "is_advanced_management_program": false,
+        "who_attend_params": "{\"working experience\": \"\",\"background knowledge\": \"\"}",
+        "university_school": "2222_EUR",
+        "credential": "",
+        "duration_consecutive": true,
+        "category_tags": [],
+        "version": 1,
+        "location": [
+            "Barcelona, ----, Spain"
+        ],
+        "duration_weeks": "5",
+        "currency": "EUR",
+        "tuition_number": "2150",
+        "tuition_note": "*Executive education Certificate fee: additional 5% discount on the general or membership fee.",
+        "effective_date_start": "2021-11-04",
+        "effective_date_end": "2021-12-09",
+        "schedule": [
+            [
+                "2021-11-04",
+                "2021-12-09",
+                "5",
+                "formal"
+            ]
+        ],
+        "languages": "English",
+        "type": "onsite"
+    },
+    {
+        "overview": {
+            "desc": "Elevate the performance of your sales team through an up-close examination of core elements of the sales process. Bolster your ability to develop solid sales plans and acquire new frameworks to help your team reach its fullest potential.",
+            "video_title": "",
+            "video_url": ""
+        },
+        "exec_ed_inquiry_cc_emails": "MBiechy@iese.edu",
+        "testimonials": [],
+        "course_faculties": [],
+        "name": "Strategic Sales Management",
+        "url": "https://execedprograms.iese.edu/marketing-sales-management/strategic-sales-management/",
+        "category": [
+            "MARKETING AND SALES MANAGEMENT",
+            "STRATEGIC MANAGEMENT"
+        ],
+        "category_url": [
+            "https://execedprograms.iese.edu/?manda&filter_1=marketing-and-sales-management&filter_2&filter_3#aqui",
+            "https://execedprograms.iese.edu/?manda&filter_1=strategic-management&filter_2&filter_3#aqui"
+        ],
+        "desc": "Elevate the performance of your sales team through an up-close examination of core elements of the sales process. Bolster your ability to develop solid sales plans and acquire new frameworks to help your team reach its fullest potential.",
+        "course_takeaways": "*Increase the efficiency and performance of your sales force by exploring diverse structures, methods and management systems.*Identify areas for improvement.*Examine strategies to motivate your team, including effective incentive systems.*Develop an ambitious but realistic sales plan.",
+        "who_attend_desc": " The \u201cStrategic Sales Management\u201d\u00a0program is particularly suited for CEOs, Chief Sales Officers, Sales Directors and Chief Marketing Officers.\n",
+        "priority": 0,
+        "publish": 100,
+        "active": true,
+        "Repeatable": "Y",
+        "is_advanced_management_program": false,
+        "who_attend_params": "{\"working experience\": \"\",\"background knowledge\": \"\"}",
+        "university_school": "2222_EUR",
+        "credential": "",
+        "duration_consecutive": true,
+        "category_tags": [],
+        "version": 1,
+        "location": [
+            "Barcelona, ----, Spain"
+        ],
+        "duration_weeks": "d",
+        "currency": "EUR",
+        "tuition_number": "2700",
+        "tuition_note": "*Executive Education Certificate fee: An additional 5% discount on the general or IESE Alumni Association member fee.",
+        "effective_date_start": "2022-05-23",
+        "effective_date_end": "2022-05-25",
+        "schedule": [
+            [
+                "2022-05-23",
+                "2022-05-25",
+                "d",
+                "formal"
+            ]
+        ],
+        "languages": "English",
+        "type": "onsite"
+    },
+    {
+        "overview": {
+            "desc": "Discover how to boost your contribution as a board member and promote overall boardroom effectiveness to truly drive business value, competitive advantage and board engagement. Clearly communicate your commitment to governance excellence to your investors, management team and society as a whole.",
+            "video_title": "",
+            "video_url": ""
+        },
+        "exec_ed_inquiry_cc_emails": "infogm@iese.edu",
+        "testimonials": [],
+        "course_faculties": [],
+        "name": "Value Creation Through Effective Boards",
+        "url": "https://execedprograms.iese.edu/strategic-management/value-creation-effective-boards/",
+        "category": [
+            "C-SUITE EXECUTIVES",
+            "STRATEGIC MANAGEMENT"
+        ],
+        "category_url": [
+            "https://execedprograms.iese.edu/?manda&filter_1=c-suite-executives&filter_2&filter_3#aqui",
+            "https://execedprograms.iese.edu/?manda&filter_1=strategic-management&filter_2&filter_3#aqui"
+        ],
+        "desc": "Discover how to boost your contribution as a board member and promote overall boardroom effectiveness to truly drive business value, competitive advantage and board engagement. Clearly communicate your commitment to governance excellence to your investors, management team and society as a whole.",
+        "course_takeaways": "*Expand your knowledge of global governance challenges and their impact on your business and socioeconomic environment.*Deepen your understanding of corporate governance fundamentals such as strategy, risk management, security, integrity and oversight.*Explore the keys to successful boardroom governance processes and board dynamics.*Heighten your leadership and decision-making skills.",
+        "who_attend_desc": "The \u201cValue Creation Through Effective Boards\u201d program is designed for board members in both public and private-sector companies from a broad range of industries.\nBoard members in large public firms and established companies that plan to go public will find the program particularly beneficial.\n",
+        "priority": 0,
+        "publish": 100,
+        "active": true,
+        "Repeatable": "Y",
+        "is_advanced_management_program": false,
+        "who_attend_params": "{\"working experience\": \"\",\"background knowledge\": \"\"}",
+        "university_school": "2222_EUR",
+        "credential": "",
+        "duration_consecutive": true,
+        "category_tags": [],
+        "version": 1,
+        "location": [
+            "Barcelona, ----, Spain"
+        ],
+        "type": "onsite",
+        "effective_date_start": "",
+        "schedule": [
+            [
+                "",
+                "",
+                "",
+                "formal"
+            ]
+        ],
+        "tuition_note": "*Executive education Certificate fee: An additional 5% discount on the general or IESE Alumni Association member fee.",
+        "effective_date_end": "",
+        "languages": "English",
+        "currency": "EUR",
+        "tuition_number": "6750"
+    },
+    {
+        "overview": {
+            "desc": "Hubo un tiempo en que la posici\u00f3n de consejero-administrador fue vista como una distinci\u00f3n o incluso un premio. En el IESE la vemos como una responsabilidad a desarrollar por profesionales preparados para ello. Adem\u00e1s, las recientes modificaciones legislativas en los \u00e1mbitos mercantil y penal han incrementado sensiblemente la responsabilidad de los consejeros.Revisa y profundiza en los temas que deben constituir la agenda permanente de un consejo de administraci\u00f3n de la mano de profesores expertos y consejeros en ejercicio.",
+            "video_title": "",
+            "video_url": ""
+        },
+        "exec_ed_inquiry_cc_emails": "",
+        "testimonials": [],
+        "course_faculties": [
+            "Josep T\u00e0pies",
+            "Miguel \u00c1ngel Ari\u00f1o",
+            "Jordi Canals",
+            "Joan Fontrodona",
+            "Carlos Sancho"
+        ],
+        "name": "Consejos de administraci\u00f3n responsables",
+        "url": "https://execedprograms.iese.edu/direccion-estrategica/consejos-administracion-responsables/",
+        "category": [
+            "C-SUITE EXECUTIVES",
+            "STRATEGIC MANAGEMENT"
+        ],
+        "category_url": [
+            "https://execedprograms.iese.edu/?manda&filter_1=c-suite-executives&filter_2&filter_3#aqui",
+            "https://execedprograms.iese.edu/?manda&filter_1=strategic-management&filter_2&filter_3#aqui"
+        ],
+        "desc": "Hubo un tiempo en que la posici\u00f3n de consejero-administrador fue vista como una distinci\u00f3n o incluso un premio. En el IESE la vemos como una responsabilidad a desarrollar por profesionales preparados para ello. Adem\u00e1s, las recientes modificaciones legislativas en los \u00e1mbitos mercantil y penal han incrementado sensiblemente la responsabilidad de los consejeros.Revisa y profundiza en los temas que deben constituir la agenda permanente de un consejo de administraci\u00f3n de la mano de profesores expertos y consejeros en ejercicio.",
+        "course_takeaways": "*Conocer el mapa de propiedad y gobierno de las empresas espa\u00f1olas tanto cotizadas como no cotizadas (se presentar\u00e1 investigaci\u00f3n propia del IESE).*Entender el rol y las responsabilidades que implican ser consejero y profundizar en el funcionamiento y las din\u00e1micas que se derivan de la interrelaci\u00f3n entre propietarios y consejeros en un consejo de administraci\u00f3n.*Apreciar los posibles efectos de un proceso de toma de decisiones bajo presi\u00f3n y con informaci\u00f3n limitada. Valoraci\u00f3n de los riesgos.*Distinguir claramente las tareas y funciones de gobierno de la empresa de las de la direcci\u00f3n y establecer los l\u00edmites entre lo que debe hacer el consejo de administraci\u00f3n y lo que debe delegar.*Comprender el papel institucional de las empresas y entender los procesos de gobierno, que suponen din\u00e1micas independientes de las personas que las dirigen.*Impacto de la influencia de los valores personales de los consejeros y de la cultura corporativa en el desempe\u00f1o del consejo.",
+        "who_attend_desc": "El programa \u00abConsejos de administraci\u00f3n responsables\u00bb est\u00e1 especialmente dirigido a:\n\nMiembros de consejos de administraci\u00f3n de empresas grandes y medianas, cotizadas o no cotizadas.\nPropietarios/accionistas que se plantean la conveniencia de establecer un consejo de administraci\u00f3n como \u00f3rgano de gobierno.\n\n",
+        "priority": 0,
+        "publish": 100,
+        "active": true,
+        "Repeatable": "Y",
+        "is_advanced_management_program": false,
+        "who_attend_params": "{\"working experience\": \"\",\"background knowledge\": \"\"}",
+        "university_school": "2222_EUR",
+        "credential": "",
+        "duration_consecutive": true,
+        "category_tags": [],
+        "version": 1,
+        "location": [
+            "Barcelona, ----, Spain"
+        ],
+        "duration_weeks": "d",
+        "currency": "EUR",
+        "tuition_number": "2650",
+        "tuition_note": "*Tarifa Executive Education Certificate: 5% descuento adicional sobre cuota general o miembros.",
+        "effective_date_start": "2022-03-20",
+        "effective_date_end": "2022-03-23",
+        "schedule": [
+            [
+                "2022-03-20",
+                "2022-03-23",
+                "d",
+                "formal"
+            ]
+        ],
+        "languages": "Spanish",
+        "type": "onsite"
+    },
+    {
+        "desc": {
+            "desc": " Nuevo mundo, nueva mentalidad Los constantes cambios del mundo digital \u2013ya sean sociales, m\u00f3viles o de cualquier otra \u00edndole\u2013 est\u00e1n derribando barreras de entrada a los mercados, cambiando de arriba abajo modelos de negocio consolidados, y proponiendo nuevas formas de relacionarse con clientes y empleados. Para identificar y dar una respuesta efectiva a las oportunidades y retos digitales, es crucial desarrollar una mentalidad verdaderamente digital. ",
+            "video_url": "",
+            "video_title": ""
+        },
+        "who_attend_desc": " El programa Mindset Digital es para ti si: Necesitas llevar a cabo la transici\u00f3n entre viejas y nuevas formas de trabajo dentro de tu empresa u organizaci\u00f3n.\nEres emprendedor y necesitas claves estrat\u00e9gicas para desarrollar o competir con modelos de negocio disruptivos. Por tus responsabilidades debes aplicar estrategias efectivas para la implementaci\u00f3n de cambios en tu cultura organizacional. Necesitas complementar tus conocimientos para poder plantear modelos de negocio y propuestas de valor adecuadas para la era digital. ",
+        "course_takeaways": " Con un Certificado en Mindset Digital aprender\u00e1s a: Emplear las dimensiones del Mindset Digital\nDeterminar c\u00f3mo la digitalizaci\u00f3n est\u00e1 afectando a tu sector, industria y negocio. Identificar las competencias necesarias\nReplantear propuestas de valor y ejecutar una visi\u00f3n de futuro. Incorporar metodolog\u00edas y procesos \u00e1giles e iterativos\nContribuci\u00f3n a la transformaci\u00f3n de tu cultura organizacional. Identificar las cualidades, pr\u00e1cticas y enfoques\nLos que forman a un l\u00edder con mentalidad digital. ",
+        "credential": "Certificate",
+        "type": "onsite",
+        "course_faculties": [],
+        "testimonials": [
+            {
+                "name": "Salvador Valderas Campos",
+                "title": "National Account Manager Bacardi",
+                "company": "",
+                "testimonial_statement": "\"Este curso ilumin\u00f3 un terreno antes desconocido para m\u00ed, y creo que va a tener un gran impacto en mi carrera profesional. Qued\u00e9 muy satisfecho y lo recomiendo ampliamente\".",
+                "picture_url": "https://d3srxiunz7lgh6.cloudfront.net/x2ohmct4msynl16iuib519jhjvtx",
+                "active": true,
+                "publish": 100
+            }
+        ],
+        "languages": "Spanish",
+        "exec_ed_inquiry_cc_emails": "",
+        "version": 1,
+        "tuition_number": "1950",
+        "currency": "USD",
+        "tuition_note": "",
+        "location": [
+            "Barcelona, ----, Spain"
+        ],
+        "duration_weeks": "8",
+        "priority": 0,
+        "publish": 100,
+        "active": true,
+        "Repeatable": "Y",
+        "is_advanced_management_program": false,
+        "who_attend_params": "{\"working experience\": \"\",\"background knowledge\": \"\"}",
+        "name": "Mindset digital: innovaci\u00f3n y liderazgo en la era digital",
+        "url": "https://online-em.iese.edu/mindset-digital",
+        "category": [
+            "STRATEGIC MANAGEMENT"
+        ],
+        "category_url": [
+            "https://execedprograms.iese.edu/?manda&filter_1=strategic-management&filter_2&filter_3#aqui"
+        ],
+        "university_school": "2222_EUR",
+        "duration_consecutive": true,
+        "category_tags": [],
+        "effective_date_start": "2021-05-01",
+        "effective_date_end": "",
+        "schedule": [
+            [
+                "2021-05-01",
+                "",
+                "8",
+                "formal"
+            ]
+        ],
+        "overview": {
+            "desc": {
+                "desc": " Nuevo mundo, nueva mentalidad Los constantes cambios del mundo digital \u2013ya sean sociales, m\u00f3viles o de cualquier otra \u00edndole\u2013 est\u00e1n derribando barreras de entrada a los mercados, cambiando de arriba abajo modelos de negocio consolidados, y proponiendo nuevas formas de relacionarse con clientes y empleados. Para identificar y dar una respuesta efectiva a las oportunidades y retos digitales, es crucial desarrollar una mentalidad verdaderamente digital. ",
+                "video_url": "",
+                "video_title": ""
+            },
+            "video_url": "",
+            "video_title": ""
+        }
+    },
+    {
+        "overview": {
+            "desc": "Harness the power of design thinking to boost your ability to tackle complex, customer-centric business challenges and address impending threats.",
+            "video_title": "",
+            "video_url": ""
+        },
+        "exec_ed_inquiry_cc_emails": "SSainz@iese.edu",
+        "testimonials": [],
+        "course_faculties": [
+            "Joaquim Vil\u00e0\nAcademic Director",
+            "Xavier Camps",
+            "Philippe Delespesse"
+        ],
+        "name": "Design Thinking: From Strategic Transformation to Business Impact",
+        "url": "https://execedprograms.iese.edu/strategic-management/design-thinking/",
+        "category": [
+            "STRATEGIC MANAGEMENT"
+        ],
+        "category_url": [
+            "https://execedprograms.iese.edu/?manda&filter_1=strategic-management&filter_2&filter_3#aqui"
+        ],
+        "desc": "Harness the power of design thinking to boost your ability to tackle complex, customer-centric business challenges and address impending threats.",
+        "course_takeaways": "*Customer centricity. Learn how cross-functional teams can coalesce around customer needs to build a shared understanding of purpose and clear user-centered focus.*Novel solutions. Explore new approaches to solve customer-centered problems in a wide range of business contexts.*Turn risk into opportunity. Learn how to turn obstacles into new business opportunities by engaging your team and leveraging their unique talents and perspectives.*Better results at lower risk. Create and implement customer-centric solutions with business impact, faster and more effectively.",
+        "who_attend_desc": "The \u201cDesign Thinking: From Strategic Transformation to Business Impact\u201d program is highly beneficial for managers responsible for business development, transformation, customer centricity, talent management, strategy implementation, customer service, strategic projects and innovation initiatives.\n",
+        "priority": 0,
+        "publish": 100,
+        "active": true,
+        "Repeatable": "Y",
+        "is_advanced_management_program": false,
+        "who_attend_params": "{\"working experience\": \"\",\"background knowledge\": \"\"}",
+        "university_school": "2222_EUR",
+        "credential": "",
+        "duration_consecutive": true,
+        "category_tags": [],
+        "version": 1,
+        "effective_start_time": "Module 1: June 28 \u2013 July 8, 2021",
+        "type": "blended-ov",
+        "tuition_note": "*IESE Alumni Assn. members: \u20ac 4,462.50\nExecutive Education Certificate fee: An additional 5% discount on the general or IESE Alumni Association member fee.",
+        "effective_date_start": "",
+        "effective_date_end": "",
+        "schedule": [
+            [
+                "",
+                "",
+                "",
+                "formal"
+            ]
+        ],
+        "languages": "English",
+        "location": [
+            "Barcelona, ----, Spain"
+        ],
+        "currency": "EUR",
+        "tuition_number": "5250"
+    },
+    {
+        "overview": {
+            "desc": "Artificial intelligence (AI) applications is fast becoming a \u201cgeneral purpose technology\u201d with repercussions in industries worldwide, leading to enhanced operational efficiencies, new sources of competitive advantage and innovative business models, which currently are unfathomable.This paradigm shift calls for a new approach that merges global leadership with technological expertise.",
+            "video_title": "",
+            "video_url": ""
+        },
+        "exec_ed_inquiry_cc_emails": "bbreiter@iese.edu",
+        "testimonials": [],
+        "course_faculties": [
+            "Sampsa Samila",
+            "Josep Valor"
+        ],
+        "name": "The Power of AI for Optimizing Your Business",
+        "url": "https://execedprograms.iese.edu/strategic-management/artificial-intelligence-business/",
+        "category": [
+            "STRATEGIC MANAGEMENT"
+        ],
+        "category_url": [
+            "https://execedprograms.iese.edu/?manda&filter_1=strategic-management&filter_2&filter_3#aqui"
+        ],
+        "desc": "Artificial intelligence (AI) applications is fast becoming a \u201cgeneral purpose technology\u201d with repercussions in industries worldwide, leading to enhanced operational efficiencies, new sources of competitive advantage and innovative business models, which currently are unfathomable.This paradigm shift calls for a new approach that merges global leadership with technological expertise.",
+        "course_takeaways": "*Gain a managerial perspective of AI applications and their transformative impact on business operations.*Examine the core challenges and opportunities of AI integration.*Evaluate how AI impacts business models and sources of competitive advantage.*Analyze how AI shapes your role as a senior leader.*Explore the ethical implications of AI.*Better understand your organization\u2019s digital transformation.*Design a 100-day corporate plan for immediate impact.",
+        "who_attend_desc": "The \u201cThe Power of AI for Optimizing Your Business\u201d program is designed for CEOs, board members, general managers, top-level executives, chief innovation officers and strategic decision makers who seek a stronger grasp of the opportunities and challenges of AI integrations in their organization and competitive landscape. Framed from a managerial perspective, the program does not require a technical background.\nGiven its twofold strategy-implementation approach, the program is extremely relevant for cross-functional teams in charge of digital-transformation processes, as well as executives from technology-driven and service-oriented Mittelstand companies.\n",
+        "priority": 0,
+        "publish": 100,
+        "active": true,
+        "Repeatable": "Y",
+        "is_advanced_management_program": false,
+        "who_attend_params": "{\"working experience\": \"\",\"background knowledge\": \"\"}",
+        "university_school": "2222_EUR",
+        "credential": "",
+        "duration_consecutive": true,
+        "category_tags": [],
+        "version": 1,
+        "effective_start_time": "Module (3)\nMunich | October 25-28, 2021",
+        "type": "blended-ov",
+        "tuition_note": "*Executive education Certificate fee: additional 5% discount on the general or membership fee.",
+        "effective_date_start": "",
+        "effective_date_end": "",
+        "schedule": [
+            [
+                "",
+                "",
+                "",
+                "formal"
+            ]
+        ],
+        "languages": "English",
+        "location": [
+            "Barcelona, ----, Spain"
+        ],
+        "currency": "EUR",
+        "tuition_number": "11520"
+    },
+    {
+        "overview": {
+            "desc": "Corporate boards play a pivotal role in today\u2019s disruptive business landscape, shaping the future of organizations by offering guidance and oversight on a range of issues, from business strategy and risk management to regulatory compliance. Learn how to magnify your contribution to create strategic value and ensure a sustainable competitive advantage for your organization.This unique program has been designed for senior-level executives who currently serve on corporate boards and those who aspire to transition into this role, as well as senior managers who seek to engage more effectively with their board.",
+            "video_title": "",
+            "video_url": ""
+        },
+        "exec_ed_inquiry_cc_emails": "openprograms@whu.edu",
+        "testimonials": [],
+        "course_faculties": [
+            "Marc Sachon"
+        ],
+        "name": "High-Performance Board Member Program",
+        "url": "https://execedprograms.iese.edu/strategic-management/high-performance-board-member/",
+        "category": [
+            "STRATEGIC MANAGEMENT"
+        ],
+        "category_url": [
+            "https://execedprograms.iese.edu/?manda&filter_1=strategic-management&filter_2&filter_3#aqui"
+        ],
+        "desc": "Corporate boards play a pivotal role in today\u2019s disruptive business landscape, shaping the future of organizations by offering guidance and oversight on a range of issues, from business strategy and risk management to regulatory compliance. Learn how to magnify your contribution to create strategic value and ensure a sustainable competitive advantage for your organization.This unique program has been designed for senior-level executives who currently serve on corporate boards and those who aspire to transition into this role, as well as senior managers who seek to engage more effectively with their board.",
+        "course_takeaways": "*Deeper awareness of the roles, responsibilities and best practices of corporate boards and their impact on long-term success*A stronger grasp of the crucial processes and dynamics of successful corporate boards*Frameworks to analyze the key organizational challenges\u00a0in fast-evolving institutional\u00a0and digital\u00a0environments*Insights to foster an effective board culture, including strategies to manage boardroom conflicts and power dynamics*Core competencies to forge strategic partnerships\u00a0between the board and senior management to advance stakeholder interests*Enhanced ability to leverage\u00a0diversity to boost board performance",
+        "who_attend_desc": "The \u201cHigh-Performance Board Member\u201d\u00a0program is designed for:\n\nC-suite executives currently serving on corporate boards\nTop-level public officers\nNext-generation leaders preparing to transition to a board role\nSenior managers seeking to shape and engage their board of directors\n\n",
+        "priority": 0,
+        "publish": 100,
+        "active": true,
+        "Repeatable": "Y",
+        "is_advanced_management_program": false,
+        "who_attend_params": "{\"working experience\": \"\",\"background knowledge\": \"\"}",
+        "university_school": "2222_EUR",
+        "credential": "",
+        "duration_consecutive": true,
+        "category_tags": [],
+        "version": 1,
+        "effective_start_time": "Module 1 |  | November 22-24, 2021\nModule 2\u00a0 | IESE Business School\nMunich | January 10-11, 2022\nModule 3 | IESE Business School\nBarcelona | February 21-23, 2022",
+        "type": "blended-ov",
+        "tuition_note": "*Executive education Certificate fee: additional 5% discount on the general or membership fee.",
+        "effective_date_start": "",
+        "effective_date_end": "",
+        "schedule": [
+            [
+                "",
+                "",
+                "",
+                "formal"
+            ]
+        ],
+        "languages": "English",
+        "location": [
+            "Barcelona, ----, Spain"
+        ],
+        "currency": "EUR",
+        "tuition_number": "13150"
+    },
+    {
+        "overview": {
+            "desc": "Las aplicaciones de inteligencia artificial (IA) ofrecen a los negocios globales nuevas fuentes de ventaja competitiva, que van desde el aumento de la eficiencia operativa hasta la inspiraci\u00f3n de nuevos productos, procesos, servicios y soluciones.A medida que el impacto de la IA en la empresa va en aumento, los altos directivos se ven en la necesidad de comprender su papel como fuerza disruptiva y como motor para la optimizaci\u00f3n del rendimiento.",
+            "video_title": "",
+            "video_url": ""
+        },
+        "exec_ed_inquiry_cc_emails": "AVera@iese.edu",
+        "testimonials": [],
+        "course_faculties": [
+            "Sampsa Samila",
+            "John Almandoz",
+            "Sebastien Brion",
+            "Josep Valor",
+            "Javier Zamora"
+        ],
+        "name": "Inteligencia artificial para directivos",
+        "url": "https://execedprograms.iese.edu/es/direccion-estrategica/inteligencia-artificial",
+        "category": [
+            "STRATEGIC MANAGEMENT"
+        ],
+        "category_url": [
+            "https://execedprograms.iese.edu/?manda&filter_1=strategic-management&filter_2&filter_3#aqui"
+        ],
+        "desc": "Las aplicaciones de inteligencia artificial (IA) ofrecen a los negocios globales nuevas fuentes de ventaja competitiva, que van desde el aumento de la eficiencia operativa hasta la inspiraci\u00f3n de nuevos productos, procesos, servicios y soluciones.A medida que el impacto de la IA en la empresa va en aumento, los altos directivos se ven en la necesidad de comprender su papel como fuerza disruptiva y como motor para la optimizaci\u00f3n del rendimiento.",
+        "course_takeaways": "*Ganar en claridad acerca de las principales aplicaciones de la IA y la forma en que est\u00e1n transformando los negocios.*Examinar los retos b\u00e1sicos y las oportunidades que ofrece la incorporaci\u00f3n de la IA.*Evaluar el impacto de la IA en los modelos de negocio y en las fuentes de ventaja competitiva.*Analizar c\u00f3mo afecta la IA al papel del alto directivo a la hora de tomar decisiones.*Explorar las implicaciones de la IA desde el punto de vista \u00e9tico.",
+        "who_attend_desc": "El programa \u00abInteligencia artificial para directivos\u00bb est\u00e1 dirigido a directores generales, altos directivos y responsables de la toma de decisiones estrat\u00e9gicas que se planteen aplicar la IA en sus operaciones o busquen un conocimiento m\u00e1s profundo del impacto potencial de la IA en su trabajo, su organizaci\u00f3n o el entorno competitivo.\nEl programa explora soluciones de IA desde una perspectiva gerencial y no se requieren conocimientos t\u00e9cnicos.\n",
+        "priority": 0,
+        "publish": 100,
+        "active": true,
+        "Repeatable": "Y",
+        "is_advanced_management_program": false,
+        "who_attend_params": "{\"working experience\": \"\",\"background knowledge\": \"\"}",
+        "university_school": "2222_EUR",
+        "credential": "",
+        "duration_consecutive": true,
+        "category_tags": [],
+        "version": 1,
+        "location": [
+            "Barcelona, ----, Spain"
+        ],
+        "duration_weeks": "5",
+        "currency": "EUR",
+        "tuition_number": "2150",
+        "tuition_note": "*Tarifa Executive Education certificate: 5% descuento adicional sobre cuota general o miembros.",
+        "effective_date_start": "2022-03-01",
+        "effective_date_end": "2022-04-05",
+        "schedule": [
+            [
+                "2022-03-01",
+                "2022-04-05",
+                "5",
+                "formal"
+            ]
+        ],
+        "languages": "Spanish",
+        "type": "onsite"
+    },
+    {
+        "overview": {
+            "desc": "Discover how to speak powerfully and communicate effectively in a variety of contexts, capture the attention of your audience and make your body language work to your advantage.",
+            "video_title": "",
+            "video_url": ""
+        },
+        "exec_ed_inquiry_cc_emails": "mailto:MBiechy@iese.edu",
+        "testimonials": [],
+        "course_faculties": [
+            "Yago de la Cierva",
+            "Brian McCarthy"
+        ],
+        "name": "Communication Skills That Empower Your Leadership",
+        "url": "https://execedprograms.iese.edu/leadership-people-management/communication-skills/",
+        "category": [
+            "LEADERSHIP AND PEOPLE MANAGEMENT"
+        ],
+        "category_url": [
+            "https://execedprograms.iese.edu/?manda&filter_1=leadership-and-people-management&filter_2&filter_3#aqui"
+        ],
+        "desc": "Discover how to speak powerfully and communicate effectively in a variety of contexts, capture the attention of your audience and make your body language work to your advantage.",
+        "course_takeaways": "*Design and deliver different types of speeches and presentations successfully, using proven rhetorical devices as a means of persuasion.*Learn how to structure ideas, sharpen your message and interact confidently with the audience.*Understand crucial non-verbal aspects of communication to increase authority, confidence and reduce nervousness.",
+        "who_attend_desc": "The \u201cCommunication Skills That Empower Your Leadership\u201d program is designed for managers who aspire to become better communicators and develop a style that fosters commitment among team members and stake holders. Professionals who lead large teams, manage client relationships or hold customer-facing roles will find this program particularly beneficial.\n",
+        "priority": 0,
+        "publish": 100,
+        "active": true,
+        "Repeatable": "Y",
+        "is_advanced_management_program": false,
+        "who_attend_params": "{\"working experience\": \"\",\"background knowledge\": \"\"}",
+        "university_school": "2222_EUR",
+        "credential": "Certificate",
+        "duration_consecutive": true,
+        "category_tags": [],
+        "location": [
+            "Barcelona, ----, Spain"
+        ],
+        "version": 2,
+        "tuition_number": 4800,
+        "currency": "EUR",
+        "tuition_note": "\nGeneral fee: \u20ac 4,800\nAlumni fee: \u20ac 4,320\nIESE Alumni Assn. members: \u20ac 4,080\nExecutive education Certificate\u00a0fee: An additional 5% discount on the general or IESE Alumni Association member fee.\n",
+        "effective_date_start": "2021-10-14",
+        "effective_date_end": "",
+        "type": "onsite",
+        "schedule": [
+            [
+                "2021-10-14",
+                "",
+                "",
+                "formal"
+            ]
+        ],
+        "languages": "English"
+    },
+    {
+        "overview": {
+            "desc": "Discover how to speak powerfully and communicate effectively in a variety of contexts, capture the attention of your audience and make your body language work to your advantage.",
+            "video_title": "",
+            "video_url": ""
+        },
+        "exec_ed_inquiry_cc_emails": "mailto:MBiechy@iese.edu",
+        "testimonials": [],
+        "course_faculties": [
+            "Yago de la Cierva",
+            "Brian McCarthy"
+        ],
+        "name": "Communication Skills That Empower Your Leadership",
+        "url": "https://execedprograms.iese.edu/leadership-people-management/communication-skills/",
+        "category": [
+            "LEADERSHIP AND PEOPLE MANAGEMENT"
+        ],
+        "category_url": [
+            "https://execedprograms.iese.edu/?manda&filter_1=leadership-and-people-management&filter_2&filter_3#aqui"
+        ],
+        "desc": "Discover how to speak powerfully and communicate effectively in a variety of contexts, capture the attention of your audience and make your body language work to your advantage.",
+        "course_takeaways": "*Design and deliver different types of speeches and presentations successfully, using proven rhetorical devices as a means of persuasion.*Learn how to structure ideas, sharpen your message and interact confidently with the audience.*Understand crucial non-verbal aspects of communication to increase authority, confidence and reduce nervousness.",
+        "who_attend_desc": "The \u201cCommunication Skills That Empower Your Leadership\u201d program is designed for managers who aspire to become better communicators and develop a style that fosters commitment among team members and stake holders. Professionals who lead large teams, manage client relationships or hold customer-facing roles will find this program particularly beneficial.\n",
+        "priority": 0,
+        "publish": 100,
+        "active": true,
+        "Repeatable": "Y",
+        "is_advanced_management_program": false,
+        "who_attend_params": "{\"working experience\": \"\",\"background knowledge\": \"\"}",
+        "university_school": "2222_EUR",
+        "credential": "Certificate",
+        "duration_consecutive": true,
+        "category_tags": [],
+        "location": [
+            "Barcelona, ----, Spain"
+        ],
+        "version": 2,
+        "tuition_number": 4000,
+        "currency": "EUR",
+        "tuition_note": "\nGeneral fee: \u20ac 4,000\nAlumni fee: \u20ac 3,600\nIESE Alumni Assn. members: \u20ac 3,400\nExecutive education Certificate fee: An additional 5% discount on the general or IESE Alumni Association member fee.\n",
+        "effective_date_start": "2022-06-20",
+        "effective_date_end": "",
+        "type": "online-virtual",
+        "schedule": [
+            [
+                "2022-06-20",
+                "",
+                "2",
+                "formal"
+            ]
+        ],
+        "languages": "English"
+    },
+    {
+        "overview": {
+            "desc": "When a business strategy fails, shortcomings are often exposed, not necessarily in the strategy itself but in its execution. The ability to make your strategy\u00a0work is critical for business leaders and it is the overriding factor in determining a company\u2019s long-term success.Unlock the mysteries behind strategy implementation and discover the factors that are crucial to bringing about the successful execution of business objectives.",
+            "video_title": "",
+            "video_url": ""
+        },
+        "exec_ed_inquiry_cc_emails": "mailto:AVera@iese.edu",
+        "testimonials": [
+            {
+                "publish": "public",
+                "name": "Hennie Lategan",
+                "title": "General Sales Director For West Africa",
+                "company": "Ennie Lategangeneral Sales Director For West Africa, Goodyear Middle East Africa, United Arab Emirates",
+                "testimonial_statement": "\"I would like to recommend this course to managers at all levels who have great inspiring ideas that could change the shape of their companies but are struggling to get them executed.\"",
+                "picture_url": "https://execedprograms.iese.edu/wp-content/uploads/HennieLategan.jpg",
+                "visual_url": ""
+            },
+            {
+                "publish": "public",
+                "name": "Jaap De Jong",
+                "title": " Principal",
+                "company": "Aap De Jong Principal, Mckinsey, The Netherlands",
+                "testimonial_statement": "\"The program is highly tailored and very relevant. The use of real-life cases allows for very lively discussions among the participants. I have come to appreciate the value of IESE: The quality of its faculty, Alumni, program and facilities. I always enjoy coming back here.\"",
+                "picture_url": "https://execedprograms.iese.edu/wp-content/uploads/JaapDeJong.jpg",
+                "visual_url": ""
+            }
+        ],
+        "course_faculties": [
+            "Fabrizio Ferraro",
+            "Sebastien Brion",
+            "Massimo Maoret"
+        ],
+        "name": "Getting Things Done",
+        "url": "https://execedprograms.iese.edu/strategic-management/getting-things-done/",
+        "category": [
+            "LEADERSHIP AND PEOPLE MANAGEMENT",
+            "C-SUITE EXECUTIVES",
+            "STRATEGIC MANAGEMENT"
+        ],
+        "category_url": [
+            "https://execedprograms.iese.edu/?manda&filter_1=leadership-and-people-management&filter_2&filter_3#aqui",
+            "https://execedprograms.iese.edu/?manda&filter_1=c-suite-executives&filter_2&filter_3#aqui",
+            "https://execedprograms.iese.edu/?manda&filter_1=strategic-management&filter_2&filter_3#aqui"
+        ],
+        "desc": "When a business strategy fails, shortcomings are often exposed, not necessarily in the strategy itself but in its execution. The ability to make your strategy\u00a0work is critical for business leaders and it is the overriding factor in determining a company\u2019s long-term success.Unlock the mysteries behind strategy implementation and discover the factors that are crucial to bringing about the successful execution of business objectives.",
+        "course_takeaways": "*Lead successfully through strategy execution.*Prepare your \u201ctaking-charge strategy\u201d for your next assignment.*Identify sources of power within your organization and use them to build influence.*Map an organization\u2019s political terrain to identify individuals critical for diffusing a strategy supportive culture.*Enhance your performance by leveraging social networks.",
+        "who_attend_desc": "The\u00a0\u201cGetting Things Done\u201d program is designed for business leaders and senior decision-makers from both private and public sectors responsible for driving strategic change initiatives across their organizations.\nUsing a highly practical approach, the program will empower participants to achieve corporate objectives by framing their decisions from strategic, operational and political perspectives.\n",
+        "priority": 0,
+        "publish": 100,
+        "active": true,
+        "Repeatable": "Y",
+        "is_advanced_management_program": false,
+        "who_attend_params": "{\"working experience\": \"\",\"background knowledge\": \"\"}",
+        "university_school": "2222_EUR",
+        "credential": "Certificate",
+        "duration_consecutive": true,
+        "category_tags": [],
+        "version": 2,
+        "location": [
+            "Barcelona, ----, Spain"
+        ],
+        "effective_start_date": "2022-05-01",
+        "effective_end_date": "",
+        "currency": "EUR",
+        "tuition_number": 5525,
+        "tuition_note": "\nGeneral fee: \u20ac 5,525\nAlumni fee: \u20ac 4,725\nIESE Alumni Assn. members: \u20ac 4,463\nExecutive education Certificate\u00a0fee: An additional 5% discount on the general or IESE Alumni Association member fee.\n",
+        "effective_date_start": "2022-02-09",
+        "effective_date_end": "",
+        "type": "onsite",
+        "schedule": [
+            [
+                "2022-02-09",
+                "",
+                "",
+                "formal"
+            ]
+        ],
+        "languages": "English"
+    },
+    {
+        "overview": {
+            "desc": "When a business strategy fails, shortcomings are often exposed, not necessarily in the strategy itself but in its execution. The ability to make your strategy\u00a0work is critical for business leaders and it is the overriding factor in determining a company\u2019s long-term success.Unlock the mysteries behind strategy implementation and discover the factors that are crucial to bringing about the successful execution of business objectives.",
+            "video_title": "",
+            "video_url": ""
+        },
+        "exec_ed_inquiry_cc_emails": "mailto:AVera@iese.edu",
+        "testimonials": [
+            {
+                "publish": "public",
+                "name": "Hennie Lategan",
+                "title": "General Sales Director For West Africa",
+                "company": "Ennie Lategangeneral Sales Director For West Africa, Goodyear Middle East Africa, United Arab Emirates",
+                "testimonial_statement": "\"I would like to recommend this course to managers at all levels who have great inspiring ideas that could change the shape of their companies but are struggling to get them executed.\"",
+                "picture_url": "https://execedprograms.iese.edu/wp-content/uploads/HennieLategan.jpg",
+                "visual_url": ""
+            },
+            {
+                "publish": "public",
+                "name": "Jaap De Jong",
+                "title": " Principal",
+                "company": "Aap De Jong Principal, Mckinsey, The Netherlands",
+                "testimonial_statement": "\"The program is highly tailored and very relevant. The use of real-life cases allows for very lively discussions among the participants. I have come to appreciate the value of IESE: The quality of its faculty, Alumni, program and facilities. I always enjoy coming back here.\"",
+                "picture_url": "https://execedprograms.iese.edu/wp-content/uploads/JaapDeJong.jpg",
+                "visual_url": ""
+            }
+        ],
+        "course_faculties": [
+            "Fabrizio Ferraro",
+            "Sebastien Brion",
+            "Massimo Maoret"
+        ],
+        "name": "Getting Things Done",
+        "url": "https://execedprograms.iese.edu/strategic-management/getting-things-done/",
+        "category": [
+            "LEADERSHIP AND PEOPLE MANAGEMENT",
+            "C-SUITE EXECUTIVES",
+            "STRATEGIC MANAGEMENT"
+        ],
+        "category_url": [
+            "https://execedprograms.iese.edu/?manda&filter_1=leadership-and-people-management&filter_2&filter_3#aqui",
+            "https://execedprograms.iese.edu/?manda&filter_1=c-suite-executives&filter_2&filter_3#aqui",
+            "https://execedprograms.iese.edu/?manda&filter_1=strategic-management&filter_2&filter_3#aqui"
+        ],
+        "desc": "When a business strategy fails, shortcomings are often exposed, not necessarily in the strategy itself but in its execution. The ability to make your strategy\u00a0work is critical for business leaders and it is the overriding factor in determining a company\u2019s long-term success.Unlock the mysteries behind strategy implementation and discover the factors that are crucial to bringing about the successful execution of business objectives.",
+        "course_takeaways": "*Lead successfully through strategy execution.*Prepare your \u201ctaking-charge strategy\u201d for your next assignment.*Identify sources of power within your organization and use them to build influence.*Map an organization\u2019s political terrain to identify individuals critical for diffusing a strategy supportive culture.*Enhance your performance by leveraging social networks.",
+        "who_attend_desc": "The\u00a0\u201cGetting Things Done\u201d program is designed for business leaders and senior decision-makers from both private and public sectors responsible for driving strategic change initiatives across their organizations.\nUsing a highly practical approach, the program will empower participants to achieve corporate objectives by framing their decisions from strategic, operational and political perspectives.\n",
+        "priority": 0,
+        "publish": 100,
+        "active": true,
+        "Repeatable": "Y",
+        "is_advanced_management_program": false,
+        "who_attend_params": "{\"working experience\": \"\",\"background knowledge\": \"\"}",
+        "university_school": "2222_EUR",
+        "credential": "Certificate",
+        "duration_consecutive": true,
+        "category_tags": [],
+        "version": 2,
+        "location": [
+            "Barcelona, ----, Spain"
+        ],
+        "effective_start_date": "2022-05-01",
+        "effective_end_date": "",
+        "currency": "EUR",
+        "tuition_number": 4000,
+        "tuition_note": "\nGeneral fee: \u20ac 4,000\nAlumni fee: \u20ac 3,600\nIESE Alumni Assn. members: \u20ac 3,400\nExecutive Education Certificate fee: An additional 5% discount on the general or IESE Alumni Association member fee.\n",
+        "effective_date_start": "2022-05-20",
+        "effective_date_end": "",
+        "type": "online-virtual",
+        "schedule": [
+            [
+                "2022-05-20",
+                "",
+                "2",
+                "formal"
+            ]
+        ],
+        "languages": "English"
+    },
+    {
+        "overview": {
+            "desc": "If data is the driver of digital transformation, artificial intelligence is the key that unleashes its power. In this new data-driven world, global executives need a strong grasp of the capacity of AI to boost their individual and organizational performance, as well as knowledge of the opportunities, challenges and threats it represents.",
+            "video_title": "",
+            "video_url": ""
+        },
+        "exec_ed_inquiry_cc_emails": "mailto:mherrador@iese.edu",
+        "testimonials": [
+            {
+                "publish": "public",
+                "name": "Urko S\u00e1nchez Sanz",
+                "title": "Machine Learning Manager",
+                "company": "Rko S\u00e1nchez Sanzmachine Learning Manager, Sap Artificial Intelligence",
+                "testimonial_statement": "\"At a time when AI snake oil is sold everywhere, an institution that truly connects the dots between technology, business and organizational structures is a treasure. No wonder IESE is the highest-ranked business school in the world. Last but not least, the program brought together an amazing group of participants who populated our discussions with insights, expertise and large doses of fun.\"",
+                "picture_url": "https://execedprograms.iese.edu/wp-content/uploads/2020_FocusedAI_UrkoSanchezSanz_1567838320.86-e1610638847135.jpg",
+                "visual_url": ""
+            },
+            {
+                "publish": "public",
+                "name": "Coral D\u00edaz Mart\u00edn",
+                "title": "Senior Manager Of International Tax",
+                "company": "Oral D\u00edaz Mart\u00ednsenior Manager Of International Tax, Global Mobility Services, Kpmg Munich",
+                "testimonial_statement": "\"This program really exceeded my expectations. I now have a global overview of how AI works, and also a way to structure my thoughts on this. I discovered many areas where AI can be applied that I was not aware of. But most importantly, the program really changed my way of thinking and opened my mind to this new technology.\"",
+                "picture_url": "https://execedprograms.iese.edu/wp-content/uploads/2020_FocusedAI_CoralDiazMartin_1516549766320.jpg",
+                "visual_url": ""
+            },
+            {
+                "publish": "public",
+                "name": "Jos\u00e9 M. Ciervo",
+                "title": "CEO Of Ithinkupc",
+                "company": "Os\u00e9 M. Ciervoceo Of Ithinkupc, The Upc It Consulting Services Company",
+                "testimonial_statement": "\"The program outlined the key factors behind successful AI integrations, as well as the core benefits of AI in driving business performance, especially its ability to predict the behaviors of people and processes. Interactions with high-caliber peers from a range of sectors underscored the need for us to adopt a new mindset as soon as possible.\"",
+                "picture_url": "https://execedprograms.iese.edu/wp-content/uploads/AI_20-21_Quote_JoseMari\u0301aCiervo_BN.jpg",
+                "visual_url": ""
+            },
+            {
+                "publish": "public",
+                "name": "Jan Wedekind",
+                "title": "Head Of Central Intelligence And Analytics",
+                "company": "An Wedekindhead Of Central Intelligence And Analytics, King",
+                "testimonial_statement": "\"I was already highly versed in big data and analytics but only viewed AI and machine learning from technical and scientific perspectives. The program's focus on the practical impact of \"doing and using AI\" was eye-opening. At the same time, I gained resources to better identify opportunities beyond the most commonly known AI case uses and had fun learning with inspiring peers, interactive lectures and engaging workshops.\"",
+                "picture_url": "https://execedprograms.iese.edu/wp-content/uploads/Jan-Wedekind-_1586879564312.jpeg",
+                "visual_url": ""
+            }
+        ],
+        "course_faculties": [
+            "Sampsa Samila",
+            "Javier Zamora"
+        ],
+        "name": "Artificial Intelligence for Executives",
+        "url": "https://execedprograms.iese.edu/strategic-management/artificial-intelligence/",
+        "category": [
+            "C-SUITE EXECUTIVES",
+            "STRATEGIC MANAGEMENT"
+        ],
+        "category_url": [
+            "https://execedprograms.iese.edu/?manda&filter_1=c-suite-executives&filter_2&filter_3#aqui",
+            "https://execedprograms.iese.edu/?manda&filter_1=strategic-management&filter_2&filter_3#aqui"
+        ],
+        "desc": "If data is the driver of digital transformation, artificial intelligence is the key that unleashes its power. In this new data-driven world, global executives need a strong grasp of the capacity of AI to boost their individual and organizational performance, as well as knowledge of the opportunities, challenges and threats it represents.",
+        "course_takeaways": "*Gain a solid understanding of AI as a catalyst for innovation and source of competitive advantage.*Analyze real-life AI integrations to better appreciate their strategic benefits and challenges.*Discover opportunities to create value through AI implementations.*Acquire insights to facilitate the integration of AI solutions in your firm.*Enhance your firm\u2019s ability to confront disruptive threats.",
+        "who_attend_desc": "The \u201cArtificial Intelligence for Executives\u201d program is designed for business leaders and senior executives from a diversity of companies and sectors who seek a broader understanding of the potential impact of AI on their work, organization and competitive landscape. The program explores AI from a managerial \u2013 not technological \u2013 viewpoint, so IT expertise is not required to attend.\n",
+        "priority": 0,
+        "publish": 100,
+        "active": true,
+        "Repeatable": "Y",
+        "is_advanced_management_program": false,
+        "who_attend_params": "{\"working experience\": \"\",\"background knowledge\": \"\"}",
+        "university_school": "2222_EUR",
+        "credential": "Certificate",
+        "duration_consecutive": true,
+        "category_tags": [],
+        "location": [
+            "Barcelona, ----, Spain"
+        ],
+        "version": 2,
+        "tuition_number": 4800,
+        "currency": "EUR",
+        "tuition_note": "\nGeneral fee: \u20ac 4,800\nAlumni fee: \u20ac 4,320\nIESE Alumni Assn. members: \u20ac 4,080\nExecutive education Certificate\u00a0fee: An additional 5% discount on the general or IESE Alumni Association member fee.\n",
+        "effective_date_start": "2021-11-02",
+        "effective_date_end": "",
+        "type": "onsite",
+        "schedule": [
+            [
+                "2021-11-02",
+                "",
+                "",
+                "formal"
+            ]
+        ],
+        "languages": "English"
+    },
+    {
+        "overview": {
+            "desc": "If data is the driver of digital transformation, artificial intelligence is the key that unleashes its power. In this new data-driven world, global executives need a strong grasp of the capacity of AI to boost their individual and organizational performance, as well as knowledge of the opportunities, challenges and threats it represents.",
+            "video_title": "",
+            "video_url": ""
+        },
+        "exec_ed_inquiry_cc_emails": "mailto:mherrador@iese.edu",
+        "testimonials": [
+            {
+                "publish": "public",
+                "name": "Urko S\u00e1nchez Sanz",
+                "title": "Machine Learning Manager",
+                "company": "Rko S\u00e1nchez Sanzmachine Learning Manager, Sap Artificial Intelligence",
+                "testimonial_statement": "\"At a time when AI snake oil is sold everywhere, an institution that truly connects the dots between technology, business and organizational structures is a treasure. No wonder IESE is the highest-ranked business school in the world. Last but not least, the program brought together an amazing group of participants who populated our discussions with insights, expertise and large doses of fun.\"",
+                "picture_url": "https://execedprograms.iese.edu/wp-content/uploads/2020_FocusedAI_UrkoSanchezSanz_1567838320.86-e1610638847135.jpg",
+                "visual_url": ""
+            },
+            {
+                "publish": "public",
+                "name": "Coral D\u00edaz Mart\u00edn",
+                "title": "Senior Manager Of International Tax",
+                "company": "Oral D\u00edaz Mart\u00ednsenior Manager Of International Tax, Global Mobility Services, Kpmg Munich",
+                "testimonial_statement": "\"This program really exceeded my expectations. I now have a global overview of how AI works, and also a way to structure my thoughts on this. I discovered many areas where AI can be applied that I was not aware of. But most importantly, the program really changed my way of thinking and opened my mind to this new technology.\"",
+                "picture_url": "https://execedprograms.iese.edu/wp-content/uploads/2020_FocusedAI_CoralDiazMartin_1516549766320.jpg",
+                "visual_url": ""
+            },
+            {
+                "publish": "public",
+                "name": "Jos\u00e9 M. Ciervo",
+                "title": "CEO Of Ithinkupc",
+                "company": "Os\u00e9 M. Ciervoceo Of Ithinkupc, The Upc It Consulting Services Company",
+                "testimonial_statement": "\"The program outlined the key factors behind successful AI integrations, as well as the core benefits of AI in driving business performance, especially its ability to predict the behaviors of people and processes. Interactions with high-caliber peers from a range of sectors underscored the need for us to adopt a new mindset as soon as possible.\"",
+                "picture_url": "https://execedprograms.iese.edu/wp-content/uploads/AI_20-21_Quote_JoseMari\u0301aCiervo_BN.jpg",
+                "visual_url": ""
+            },
+            {
+                "publish": "public",
+                "name": "Jan Wedekind",
+                "title": "Head Of Central Intelligence And Analytics",
+                "company": "An Wedekindhead Of Central Intelligence And Analytics, King",
+                "testimonial_statement": "\"I was already highly versed in big data and analytics but only viewed AI and machine learning from technical and scientific perspectives. The program's focus on the practical impact of \"doing and using AI\" was eye-opening. At the same time, I gained resources to better identify opportunities beyond the most commonly known AI case uses and had fun learning with inspiring peers, interactive lectures and engaging workshops.\"",
+                "picture_url": "https://execedprograms.iese.edu/wp-content/uploads/Jan-Wedekind-_1586879564312.jpeg",
+                "visual_url": ""
+            }
+        ],
+        "course_faculties": [
+            "Sampsa Samila",
+            "Javier Zamora"
+        ],
+        "name": "Artificial Intelligence for Executives",
+        "url": "https://execedprograms.iese.edu/strategic-management/artificial-intelligence/",
+        "category": [
+            "C-SUITE EXECUTIVES",
+            "STRATEGIC MANAGEMENT"
+        ],
+        "category_url": [
+            "https://execedprograms.iese.edu/?manda&filter_1=c-suite-executives&filter_2&filter_3#aqui",
+            "https://execedprograms.iese.edu/?manda&filter_1=strategic-management&filter_2&filter_3#aqui"
+        ],
+        "desc": "If data is the driver of digital transformation, artificial intelligence is the key that unleashes its power. In this new data-driven world, global executives need a strong grasp of the capacity of AI to boost their individual and organizational performance, as well as knowledge of the opportunities, challenges and threats it represents.",
+        "course_takeaways": "*Gain a solid understanding of AI as a catalyst for innovation and source of competitive advantage.*Analyze real-life AI integrations to better appreciate their strategic benefits and challenges.*Discover opportunities to create value through AI implementations.*Acquire insights to facilitate the integration of AI solutions in your firm.*Enhance your firm\u2019s ability to confront disruptive threats.",
+        "who_attend_desc": "The \u201cArtificial Intelligence for Executives\u201d program is designed for business leaders and senior executives from a diversity of companies and sectors who seek a broader understanding of the potential impact of AI on their work, organization and competitive landscape. The program explores AI from a managerial \u2013 not technological \u2013 viewpoint, so IT expertise is not required to attend.\n",
+        "priority": 0,
+        "publish": 100,
+        "active": true,
+        "Repeatable": "Y",
+        "is_advanced_management_program": false,
+        "who_attend_params": "{\"working experience\": \"\",\"background knowledge\": \"\"}",
+        "university_school": "2222_EUR",
+        "credential": "Certificate",
+        "duration_consecutive": true,
+        "category_tags": [],
+        "location": [
+            "Barcelona, ----, Spain"
+        ],
+        "version": 2,
+        "tuition_number": 4000,
+        "currency": "EUR",
+        "tuition_note": "\nGeneral fee: \u20ac 4,000\nAlumni fee: \u20ac 3,600\nIESE Alumni Assn. members: \u20ac 3,400\nExecutive education Certificate fee: An additional 5% discount on the general or IESE Alumni Association member fee.\n",
+        "effective_date_start": "2022-05-17",
+        "effective_date_end": "",
+        "type": "online-virtual",
+        "schedule": [
+            [
+                "2022-05-17",
+                "",
+                "2",
+                "formal"
+            ]
+        ],
+        "languages": "English"
+    }
+]
